@@ -2769,7 +2769,7 @@ else {
 function insRow174()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_4318_2023.htm#INICIO' >4318</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_4127_2023.htm#INICIO' >4127</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_2842_2023.htm#INICIO' >2842</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_2839_2023.htm#INICIO' >2839</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0659_2023.htm#INICIO' >659</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0213_2023.htm#INICIO' >213</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0131_2023.htm#INICIO' >131</A> de 2023</p><p>Oficio DIAN <A href='oficio_dian_908869_2022.htm#INICIO' >908869</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908573_2022.htm#INICIO' >908573</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908566_2022.htm#INICIO' >908566</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908348_2022.htm#INICIO' >908348</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_907880_2022.htm#INICIO' >907880</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_907654_2022.htm#INICIO' >907654</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905210_2022.htm#INICIO' >905210</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905196_2022.htm#INICIO' >905196</A> de 2022</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_17704_2026.htm#0' >17704</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_4318_2023.htm#INICIO' >4318</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_4127_2023.htm#INICIO' >4127</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_2842_2023.htm#INICIO' >2842</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_2839_2023.htm#INICIO' >2839</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0659_2023.htm#INICIO' >659</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0213_2023.htm#INICIO' >213</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0131_2023.htm#INICIO' >131</A> de 2023</p><p>Oficio DIAN <A href='oficio_dian_908869_2022.htm#INICIO' >908869</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908573_2022.htm#INICIO' >908573</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908566_2022.htm#INICIO' >908566</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908348_2022.htm#INICIO' >908348</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_907880_2022.htm#INICIO' >907880</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_907654_2022.htm#INICIO' >907654</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905210_2022.htm#INICIO' >905210</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905196_2022.htm#INICIO' >905196</A> de 2022</p> </td></tr></tbody>";
 var z=document.getElementById('Table174').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table174').insertRow(0);
@@ -2881,7 +2881,7 @@ else {
 function insRow181()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_6047_2023.htm#INICIO' >6047</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0213_2023.htm#INICIO' >213</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0131_2023.htm#INICIO' >131</A> de 2023</p><p>Oficio DIAN <A href='oficio_dian_908869_2022.htm#INICIO' >908869</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908566_2022.htm#INICIO' >908566</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_906698_2022.htm#INICIO' >906698</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_906173_2022.htm#INICIO' >906173</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905210_2022.htm#INICIO' >905210</A> de 2022</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_17704_2026.htm#0' >17704</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_6047_2023.htm#INICIO' >6047</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0213_2023.htm#INICIO' >213</A> de 2023</p><p>Concepto DIAN <A href='oficio_dian_0131_2023.htm#INICIO' >131</A> de 2023</p><p>Oficio DIAN <A href='oficio_dian_908869_2022.htm#INICIO' >908869</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_908566_2022.htm#INICIO' >908566</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_906698_2022.htm#INICIO' >906698</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_906173_2022.htm#INICIO' >906173</A> de 2022</p><p>Oficio DIAN <A href='oficio_dian_905210_2022.htm#INICIO' >905210</A> de 2022</p> </td></tr></tbody>";
 var z=document.getElementById('Table181').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table181').insertRow(0);
@@ -5441,7 +5441,7 @@ else {
 function insRow341()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.3' >1.6.9.3</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_18414_2026.htm#0' >18414</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table341').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table341').insertRow(0);
@@ -5457,7 +5457,7 @@ else {
 function insRow342()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo sustituido por el art&iacute;culo 1 de la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.3' >1.6.9.3</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table342').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table342').insertRow(0);
@@ -5473,7 +5473,7 @@ else {
 function insRow343()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.4' >1.6.9.4</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo sustituido por el art&iacute;culo 1 de la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table343').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table343').insertRow(0);
@@ -5489,7 +5489,7 @@ else {
 function insRow344()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo sustituido por el art&iacute;culo 1 de la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_17685_2026.htm#0' >17685</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table344').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table344').insertRow(0);
@@ -5505,7 +5505,7 @@ else {
 function insRow345()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.5' >1.6.9.5</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.4' >1.6.9.4</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table345').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table345').insertRow(0);
@@ -5537,7 +5537,7 @@ else {
 function insRow347()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.6' >1.6.9.6</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.5' >1.6.9.5</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table347').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table347').insertRow(0);
@@ -5569,7 +5569,7 @@ else {
 function insRow349()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.7' >1.6.9.7</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.6' >1.6.9.6</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table349').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table349').insertRow(0);
@@ -5601,7 +5601,7 @@ else {
 function insRow351()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.7' >1.6.9.7</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table351').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table351').insertRow(0);
@@ -5633,7 +5633,7 @@ else {
 function insRow353()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.9' >1.6.9.9</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table353').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table353').insertRow(0);
@@ -5665,7 +5665,7 @@ else {
 function insRow355()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.10' >1.6.9.10</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.9' >1.6.9.9</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table355').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table355').insertRow(0);
@@ -5697,7 +5697,7 @@ else {
 function insRow357()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.11' >1.6.9.11</A>&gt;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_17685_2026.htm#0' >17685</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table357').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table357').insertRow(0);
@@ -5713,7 +5713,7 @@ else {
 function insRow358()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Resoluci&oacute;n 228 de.2025; Art. <A href='resolucion_dian_0228_2025.htm#1' >1</A> Par. Transitorio (R. 227 de 2025; Art. <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> Par. Transitorio)</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.10' >1.6.9.10</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table358').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table358').insertRow(0);
@@ -5729,7 +5729,7 @@ else {
 function insRow359()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#1' >1</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo sustituido por el art&iacute;culo 1 de la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table359').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table359').insertRow(0);
@@ -5745,7 +5745,7 @@ else {
 function insRow360()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. La expresi&oacute;n <span class='b_aj'>'Operador de Plataforma Sujeto a Reporte' </span>significa cualquier Operador de Plataforma, que sea residente a efectos fiscales en la Rep&uacute;blica de Colombia o, cuando un Operador de Plataforma no tenga residencia a efectos fiscales, ya sea que:</p><p>1.3.1. Est&eacute; regida bajo las leyes de la Rep&uacute;blica de Colombia; o</p><p>1.3.2. Tenga su sede efectiva de administraci&oacute;n en la Rep&uacute;blica de Colombia.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto ariginal de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Consultar el texto original de este cap&iacute;tulo directamente en este <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.1' >vinculo</A>. Sobre el tema tratado en este art&iacute;culo consultar el art&iacute;culo <A href='resolucion_dian_2025-textos_derogados.htm#1.6.9.11' >1.6.9.11</A>&gt;</p> </td></tr></tbody>";
 var z=document.getElementById('Table360').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table360').insertRow(0);
@@ -5761,7 +5761,7 @@ else {
 function insRow361()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_2762_2026.htm#0' >2762</A> de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Resoluci&oacute;n 228 de.2025; Art. <A href='resolucion_dian_0228_2025.htm#1' >1</A> Par. Transitorio (R. 227 de 2025; Art. <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> Par. Transitorio)</p> </td></tr></tbody>";
 var z=document.getElementById('Table361').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table361').insertRow(0);
@@ -5777,7 +5777,7 @@ else {
 function insRow362()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#2' >2</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#1' >1</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table362').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table362').insertRow(0);
@@ -5793,7 +5793,7 @@ else {
 function insRow363()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.9. La expresi&oacute;n '<span class='b_aj'>Actividad Relevante</span>' significa:</p><p>1.9.1. Un Servicio Relevante; o</p><p>1.9.2. La venta de Bienes por Contraprestaci&oacute;n</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. La expresi&oacute;n <span class='b_aj'>'Operador de Plataforma Sujeto a Reporte' </span>significa cualquier Operador de Plataforma, que sea residente a efectos fiscales en la Rep&uacute;blica de Colombia o, cuando un Operador de Plataforma no tenga residencia a efectos fiscales, ya sea que:</p><p>1.3.1. Est&eacute; regida bajo las leyes de la Rep&uacute;blica de Colombia; o</p><p>1.3.2. Tenga su sede efectiva de administraci&oacute;n en la Rep&uacute;blica de Colombia.</p> </td></tr></tbody>";
 var z=document.getElementById('Table363').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table363').insertRow(0);
@@ -5809,7 +5809,7 @@ else {
 function insRow364()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_11801_2025.htm#0' >11801</A> de 2025</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_2762_2026.htm#0' >2762</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table364').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table364').insertRow(0);
@@ -5825,7 +5825,7 @@ else {
 function insRow365()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral derogado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#10' >10</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#2' >2</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table365').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table365').insertRow(0);
@@ -5841,7 +5841,7 @@ else {
 function insRow366()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.1.1. Que se identifica en una lista p&uacute;blica, la cual contiene las jurisdicciones signatarias del Acuerdo Multilateral de Autoridades Competentes relativo al Intercambio Autom&aacute;tico de Informaci&oacute;n sobre Plataformas Digitales.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.9. La expresi&oacute;n '<span class='b_aj'>Actividad Relevante</span>' significa:</p><p>1.9.1. Un Servicio Relevante; o</p><p>1.9.2. La venta de Bienes por Contraprestaci&oacute;n</p> </td></tr></tbody>";
 var z=document.getElementById('Table366').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table366').insertRow(0);
@@ -5857,7 +5857,7 @@ else {
 function insRow367()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#3' >3</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_11801_2025.htm#0' >11801</A> de 2025</p> </td></tr></tbody>";
 var z=document.getElementById('Table367').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table367').insertRow(0);
@@ -5873,7 +5873,7 @@ else {
 function insRow368()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.2. La expresi&oacute;n '<span class='b_aj'>Jurisdicci&oacute;n Reportable</span>' es la Rep&uacute;blica de Colombia y cualquier jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral derogado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#10' >10</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table368').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table368').insertRow(0);
@@ -5889,7 +5889,7 @@ else {
 function insRow369()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#4' >4</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.1.1. Que se identifica en una lista p&uacute;blica, la cual contiene las jurisdicciones signatarias del Acuerdo Multilateral de Autoridades Competentes relativo al Intercambio Autom&aacute;tico de Informaci&oacute;n sobre Plataformas Digitales.</p> </td></tr></tbody>";
 var z=document.getElementById('Table369').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table369').insertRow(0);
@@ -5905,7 +5905,7 @@ else {
 function insRow370()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.5. La expresi&oacute;n '<span class='b_aj'>Direcci&oacute;n Principal</span>' significa la direcci&oacute;n de residencia principal de un Vendedor Individual, as&iacute; como la direcci&oacute;n que es el domicilio social de una Entidad Vendedora.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#3' >3</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table370').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table370').insertRow(0);
@@ -5921,7 +5921,7 @@ else {
 function insRow371()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Par&aacute;grafo adicionado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#1' >1</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.2. La expresi&oacute;n '<span class='b_aj'>Jurisdicci&oacute;n Reportable</span>' es la Rep&uacute;blica de Colombia y cualquier jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia.</p> </td></tr></tbody>";
 var z=document.getElementById('Table371').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table371').insertRow(0);
@@ -5937,7 +5937,7 @@ else {
 function insRow372()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_9471_2026.htm#0' >9471</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_8528_2026.htm#0' >8528</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_14610_2025.htm#0' >14610</A> de 2025</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#4' >4</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table372').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table372').insertRow(0);
@@ -5953,7 +5953,7 @@ else {
 function insRow373()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral derogado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#10' >10</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.5. La expresi&oacute;n '<span class='b_aj'>Direcci&oacute;n Principal</span>' significa la direcci&oacute;n de residencia principal de un Vendedor Individual, as&iacute; como la direcci&oacute;n que es el domicilio social de una Entidad Vendedora.</p> </td></tr></tbody>";
 var z=document.getElementById('Table373').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table373').insertRow(0);
@@ -5969,7 +5969,7 @@ else {
 function insRow374()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. No obstante, lo dispuesto en los numerales 1.1.3 y 1.2.3 del presente art&iacute;culo, no es necesario recopilar el NIT o el n&uacute;mero de registro mercantil, respectivamente, si:</p><p>1.3.1. La Jurisdicci&oacute;n de Residencia del Vendedor no emite un NIT o n&uacute;mero de registro mercantil al Vendedor; o</p><p>1.3.2. La Jurisdicci&oacute;n de Residencia del Vendedor no requiere la recopilaci&oacute;n del NIT emitido a dicho Vendedor.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Par&aacute;grafo adicionado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#1' >1</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table374').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table374').insertRow(0);
@@ -5985,7 +5985,7 @@ else {
 function insRow375()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#5' >5</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_9471_2026.htm#0' >9471</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_8528_2026.htm#0' >8528</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_14610_2025.htm#0' >14610</A> de 2025</p> </td></tr></tbody>";
 var z=document.getElementById('Table375').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table375').insertRow(0);
@@ -6001,7 +6001,7 @@ else {
 function insRow376()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.1. Un Operador de la Plataforma Sujeto a Reporte debe considerar que la jurisdicci&oacute;n de residencia fiscal es la determinada conforme al numeral 1.2 del presente art&iacute;culo.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral derogado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#10' >10</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table376').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table376').insertRow(0);
@@ -6017,7 +6017,7 @@ else {
 function insRow377()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#6' >6</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. No obstante, lo dispuesto en los numerales 1.1.3 y 1.2.3 del presente art&iacute;culo, no es necesario recopilar el NIT o el n&uacute;mero de registro mercantil, respectivamente, si:</p><p>1.3.1. La Jurisdicci&oacute;n de Residencia del Vendedor no emite un NIT o n&uacute;mero de registro mercantil al Vendedor; o</p><p>1.3.2. La Jurisdicci&oacute;n de Residencia del Vendedor no requiere la recopilaci&oacute;n del NIT emitido a dicho Vendedor.</p> </td></tr></tbody>";
 var z=document.getElementById('Table377').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table377').insertRow(0);
@@ -6033,7 +6033,7 @@ else {
 function insRow378()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>7.2. Cuando un Operador de Plataforma cumple con las obligaciones de Debida Diligencia para un Operador de Plataforma Sujeto a Reporte con respecto a la misma Plataforma de conformidad con el numeral anterior, dicho Operador de Plataforma puede llevar a cabo los procedimientos de Debida Diligencia de conformidad con reglas sustancialmente similares en su jurisdicci&oacute;n asociada.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#5' >5</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table378').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table378').insertRow(0);
@@ -6049,7 +6049,7 @@ else {
 function insRow379()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#7' >7</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>3.1. Un Operador de la Plataforma Sujeto a Reporte debe considerar que la jurisdicci&oacute;n de residencia fiscal es la determinada conforme al numeral 1.2 del presente art&iacute;culo.</p> </td></tr></tbody>";
 var z=document.getElementById('Table379').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table379').insertRow(0);
@@ -6065,7 +6065,7 @@ else {
 function insRow380()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. No obstante, lo dispuesto en los subp&aacute;rrafos 1.1 y 1.2 del presente art&iacute;culo, no se requiere que la informaci&oacute;n en relaci&oacute;n con un Vendedor Reportable se informe a la administraci&oacute;n tributaria de la Rep&uacute;blica de Colombia y cualquier otra jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia, ni se ponga a disposici&oacute;n de dicho Vendedor Reportable en circunstancias en las que la Plataforma de Reporte el Operador ha obtenido garant&iacute;as adecuadas de que otro Operador de Plataforma cumple con las obligaciones de informaci&oacute;n de este art&iacute;culo:</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#6' >6</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table380').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table380').insertRow(0);
@@ -6081,7 +6081,7 @@ else {
 function insRow381()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#7' >7</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>7.2. Cuando un Operador de Plataforma cumple con las obligaciones de Debida Diligencia para un Operador de Plataforma Sujeto a Reporte con respecto a la misma Plataforma de conformidad con el numeral anterior, dicho Operador de Plataforma puede llevar a cabo los procedimientos de Debida Diligencia de conformidad con reglas sustancialmente similares en su jurisdicci&oacute;n asociada.</p> </td></tr></tbody>";
 var z=document.getElementById('Table381').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table381').insertRow(0);
@@ -6097,7 +6097,7 @@ else {
 function insRow382()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3.2. Con respecto a dicho Vendedor Reportable, que no sea un Vendedor Reportable residente en la Rep&uacute;blica de Colombia y cualquier otra jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia, bajo reglas sustancialmente similares en una jurisdicci&oacute;n asociada.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#7' >7</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table382').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table382').insertRow(0);
@@ -6113,7 +6113,7 @@ else {
 function insRow383()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3. No obstante, lo dispuesto en los subp&aacute;rrafos 1.1 y 1.2 del presente art&iacute;culo, no se requiere que la informaci&oacute;n en relaci&oacute;n con un Vendedor Reportable se informe a la administraci&oacute;n tributaria de la Rep&uacute;blica de Colombia y cualquier otra jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia, ni se ponga a disposici&oacute;n de dicho Vendedor Reportable en circunstancias en las que la Plataforma de Reporte el Operador ha obtenido garant&iacute;as adecuadas de que otro Operador de Plataforma cumple con las obligaciones de informaci&oacute;n de este art&iacute;culo:</p> </td></tr></tbody>";
 var z=document.getElementById('Table383').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table383').insertRow(0);
@@ -6129,7 +6129,7 @@ else {
 function insRow384()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.2.3. Los Identificadores de Cuenta Financiera, en la medida en que est&eacute;n disponibles para el Operador de Plataforma Sujeto a Reporte y la jurisdicci&oacute;n de residencia del Vendedor Reportable est&eacute; incluida en lista;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#7' >7</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table384').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table384').insertRow(0);
@@ -6145,7 +6145,7 @@ else {
 function insRow385()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>1.3.2. Con respecto a dicho Vendedor Reportable, que no sea un Vendedor Reportable residente en la Rep&uacute;blica de Colombia y cualquier otra jurisdicci&oacute;n diferente a la Rep&uacute;blica de Colombia, bajo reglas sustancialmente similares en una jurisdicci&oacute;n asociada.</p> </td></tr></tbody>";
 var z=document.getElementById('Table385').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table385').insertRow(0);
@@ -6161,7 +6161,7 @@ else {
 function insRow386()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.1. Los art&iacute;culos que se requieren recolectar conforme al numeral 1 del Art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la presente resoluci&oacute;n;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table386').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table386').insertRow(0);
@@ -6177,7 +6177,7 @@ else {
 function insRow387()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.2.3. Los Identificadores de Cuenta Financiera, en la medida en que est&eacute;n disponibles para el Operador de Plataforma Sujeto a Reporte y la jurisdicci&oacute;n de residencia del Vendedor Reportable est&eacute; incluida en lista;</p> </td></tr></tbody>";
 var z=document.getElementById('Table387').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table387').insertRow(0);
@@ -6193,7 +6193,7 @@ else {
 function insRow388()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.3. El (los) Identificador(es) de Cuenta Financiera, en la medida en que est&eacute; disponible para el Operador de Plataforma Sujeto a Reporte la jurisdicci&oacute;n de residencia del Vendedor Reportable o la jurisdicci&oacute;n en la que se encuentra la propiedad inmueble est&eacute; incluida en lista;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table388').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table388').insertRow(0);
@@ -6209,7 +6209,7 @@ else {
 function insRow389()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.1. Los art&iacute;culos que se requieren recolectar conforme al numeral 1 del Art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la presente resoluci&oacute;n;</p> </td></tr></tbody>";
 var z=document.getElementById('Table389').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table389').insertRow(0);
@@ -6225,7 +6225,7 @@ else {
 function insRow390()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.4. Cuando sea diferente del nombre del Vendedor Reportable, el nombre del titular de la cuenta financiera a la que se paga o acredita la Contraprestaci&oacute;n, en la medida disponible para el Operador de Plataforma Sujeto a Reporte, as&iacute; como cualquier otra informaci&oacute;n de identificaci&oacute;n disponible para la Plataforma Sujeto a Reporte cuando sea diferente del nombre del Vendedor Reportable, el nombre del titular de la cuenta financiera a la que se paga o acredita la Contraprestaci&oacute;n, en la medida disponible para el Operador de Plataforma Sujeto a Reporte, as&iacute; como cualquier otra informaci&oacute;n de identificaci&oacute;n disponible para el Operador de Plataforma Sujeto a Reporte;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table390').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table390').insertRow(0);
@@ -6241,7 +6241,7 @@ else {
 function insRow391()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.3. El (los) Identificador(es) de Cuenta Financiera, en la medida en que est&eacute; disponible para el Operador de Plataforma Sujeto a Reporte la jurisdicci&oacute;n de residencia del Vendedor Reportable o la jurisdicci&oacute;n en la que se encuentra la propiedad inmueble est&eacute; incluida en lista;</p> </td></tr></tbody>";
 var z=document.getElementById('Table391').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table391').insertRow(0);
@@ -6257,7 +6257,7 @@ else {
 function insRow392()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Numeral modificado por el art&iacute;culo <A href='resolucion_dian_0228_2025.htm#8' >8</A> de la Resoluci&oacute;n 228 de 30 de septiembre de 2025, 'por la cual se adicionan los numerales 3.2.1. y 3.2.2. al numeral 3.2. del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, se modifica el numeral 1.3. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 1.9 del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.2.1 al numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.5. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A>, el numeral 3.1 del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, el numeral 7.2 del numeral 7 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A>, los numerales 1.3. y 1.3.2. del numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A>, y los numerales 2.2.3., 2.3.1. y 2.3.3. del numeral 2 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.4' >1.6.10.4</A> y se deroga el numeral 3.1.1. del numeral 3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.2' >1.6.10.2</A> y el numeral 1.3 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.6.10.3' >1.6.10.3</A> de la Resoluci&oacute;n n&uacute;mero 000227 de 2025, que incorpor&oacute; la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0199_2024.htm#0' >199</A> de 2024, por la cual se establece para el a&ntilde;o gravable 2025 y siguientes, el contenido, las caracter&iacute;sticas t&eacute;cnicas y los plazos para la presentaci&oacute;n de la informaci&oacute;n que deben suministrar los Operadores de Plataformas Sujetos a Reportar a la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN) de conformidad con la Ley 1661 de 2013 y en cumplimiento del 'Acuerdo Multilateral de Autoridades Competentes en relaci&oacute;n con el Intercambio Autom&aacute;tico de Informaci&oacute;n de ingresos derivados a trav&eacute;s de Plataformas Digitales', publicada en el Diario Oficial No. 53.260 de 1 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table392').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table392').insertRow(0);
@@ -6273,7 +6273,7 @@ else {
 function insRow393()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 &#160;de 2025:</span></p><p>2.3.4. Cuando sea diferente del nombre del Vendedor Reportable, el nombre del titular de la cuenta financiera a la que se paga o acredita la Contraprestaci&oacute;n, en la medida disponible para el Operador de Plataforma Sujeto a Reporte, as&iacute; como cualquier otra informaci&oacute;n de identificaci&oacute;n disponible para la Plataforma Sujeto a Reporte cuando sea diferente del nombre del Vendedor Reportable, el nombre del titular de la cuenta financiera a la que se paga o acredita la Contraprestaci&oacute;n, en la medida disponible para el Operador de Plataforma Sujeto a Reporte, as&iacute; como cualquier otra informaci&oacute;n de identificaci&oacute;n disponible para el Operador de Plataforma Sujeto a Reporte;</p> </td></tr></tbody>";
 var z=document.getElementById('Table393').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table393').insertRow(0);
@@ -6321,7 +6321,7 @@ else {
 function insRow396()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_18444_2026.htm#0' >18444</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table396').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table396').insertRow(0);
@@ -6353,7 +6353,7 @@ else {
 function insRow398()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_18444_2026.htm#0' >18444</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table398').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table398').insertRow(0);
@@ -6369,7 +6369,7 @@ else {
 function insRow399()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_18444_2026.htm#0' >18444</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table399').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table399').insertRow(0);
@@ -6433,7 +6433,7 @@ else {
 function insRow403()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_11800_2025.htm#0' >11800</A> de 2025</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table403').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table403').insertRow(0);
@@ -6449,7 +6449,7 @@ else {
 function insRow404()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table404').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table404').insertRow(0);
@@ -6465,7 +6465,7 @@ else {
 function insRow405()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table405').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table405').insertRow(0);
@@ -6481,7 +6481,7 @@ else {
 function insRow406()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table406').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table406').insertRow(0);
@@ -6497,7 +6497,7 @@ else {
 function insRow407()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_904821_2021.htm#INICIO' >904821</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_18444_2026.htm#0' >18444</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table407').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table407').insertRow(0);
@@ -6513,7 +6513,7 @@ else {
 function insRow408()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table408').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table408').insertRow(0);
@@ -6529,7 +6529,7 @@ else {
 function insRow409()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Cap&iacute;tulo adicionado &#160;por el art&iacute;culo 1 de la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table409').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table409').insertRow(0);
@@ -6545,7 +6545,7 @@ else {
 function insRow410()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1734_2026.htm#0' >1734</A> de 2026</p><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_11800_2025.htm#0' >11800</A> de 2025</p> </td></tr></tbody>";
 var z=document.getElementById('Table410').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table410').insertRow(0);
@@ -6561,7 +6561,7 @@ else {
 function insRow411()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table411').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table411').insertRow(0);
@@ -6577,7 +6577,7 @@ else {
 function insRow412()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table412').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table412').insertRow(0);
@@ -6593,7 +6593,7 @@ else {
 function insRow413()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1217_2026.htm#0' >1217</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table413').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table413').insertRow(0);
@@ -6609,7 +6609,7 @@ else {
 function insRow414()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_904821_2021.htm#INICIO' >904821</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table414').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table414').insertRow(0);
@@ -6625,7 +6625,7 @@ else {
 function insRow415()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table415').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table415').insertRow(0);
@@ -6641,7 +6641,7 @@ else {
 function insRow416()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Resoluci&oacute;n DIAN 46 de 2019; Art. <A href='resolucion_dian_0046_2019.htm#9' >9</A> </p><p>Resoluci&oacute;n DIAN <A href='resolucion_dian_0227_2025.htm#0' >227</A> de 2025; Art. <A href='resolucion_dian_0227_2025.htm#1.6.5.1.3.1' >1.6.5.1.3.1</A> Inc. 2o.; Art. <A href='resolucion_dian_0227_2025.htm#1.6.5.1.3.2' >1.6.5.1.3.2</A> &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table416').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table416').insertRow(0);
@@ -6657,7 +6657,7 @@ else {
 function insRow417()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914499_2021.htm#INICIO' >914499</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_1734_2026.htm#0' >1734</A> de 2026</p><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table417').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table417').insertRow(0);
@@ -6673,7 +6673,7 @@ else {
 function insRow418()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914499_2021.htm#INICIO' >914499</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table418').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table418').insertRow(0);
@@ -6689,7 +6689,7 @@ else {
 function insRow419()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Circular DIAN <A href='circular_dian_0020_2020.htm#inicio' >20</A> de 2020 </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_907106_2021.htm#INICIO' >907106</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table419').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table419').insertRow(0);
@@ -6705,7 +6705,7 @@ else {
 function insRow420()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_9481_2024.htm#0' >9481</A> de 2024</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
 var z=document.getElementById('Table420').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table420').insertRow(0);
@@ -6721,7 +6721,7 @@ else {
 function insRow421()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 08001-23-33-000-2023-00090-01(<A href='08001-23-33-000-2023-00090-01(28318)_20240516.htm#0' >28318</A>) de 16 de mayo de 2024, C.P. Dr. Wilson Ramos Gir&oacute;n. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
 var z=document.getElementById('Table421').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table421').insertRow(0);
@@ -6737,7 +6737,7 @@ else {
 function insRow422()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00053-00(<A href='11001-03-27-000-2021-00053-00(25650)_20221027.htm#inicio' >25650</A>) de 27 de octubre de 2022, C.P. Dr. Milton Chaves Garc&iacute;a. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00092-00(<A href='11001-03-27-000-2021-00092-00(26190)_20230622.htm#0' >26190</A>) de 22/06/2023, Consejero Ponente Dr. Myriam Stella Guti&eacute;rrez Arg&uuml;ello.</p> </td></tr></tbody>";
 var z=document.getElementById('Table422').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table422').insertRow(0);
@@ -6753,7 +6753,7 @@ else {
 function insRow423()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00053-00(<A href='11001-03-27-000-2021-00053-00(25650)_20221027.htm#inicio' >25650</A>) de 2022/10/27, Consejero Ponente Dr. Milton Chaves Garc&iacute;a.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Resoluci&oacute;n DIAN 46 de 2019; Art. <A href='resolucion_dian_0046_2019.htm#9' >9</A> </p><p>Resoluci&oacute;n DIAN <A href='resolucion_dian_0227_2025.htm#0' >227</A> de 2025; Art. <A href='resolucion_dian_0227_2025.htm#1.6.5.1.3.1' >1.6.5.1.3.1</A> Inc. 2o.; Art. <A href='resolucion_dian_0227_2025.htm#1.6.5.1.3.2' >1.6.5.1.3.2</A> &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table423').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table423').insertRow(0);
@@ -6769,7 +6769,7 @@ else {
 function insRow424()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914499_2021.htm#INICIO' >914499</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table424').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table424').insertRow(0);
@@ -6785,7 +6785,7 @@ else {
 function insRow425()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914499_2021.htm#INICIO' >914499</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table425').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table425').insertRow(0);
@@ -6801,7 +6801,7 @@ else {
 function insRow426()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Circular DIAN <A href='circular_dian_0020_2020.htm#inicio' >20</A> de 2020 </p> </td></tr></tbody>";
 var z=document.getElementById('Table426').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table426').insertRow(0);
@@ -6817,7 +6817,7 @@ else {
 function insRow427()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio Tributario DIAN <A href='oficio_dian_75762_2006.htm#1' >75762</A> de 2006</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_9481_2024.htm#0' >9481</A> de 2024</p> </td></tr></tbody>";
 var z=document.getElementById('Table427').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table427').insertRow(0);
@@ -6833,7 +6833,7 @@ else {
 function insRow428()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914504_2021.htm#INICIO' >914504</A> de 2021</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 08001-23-33-000-2023-00090-01(<A href='08001-23-33-000-2023-00090-01(28318)_20240516.htm#0' >28318</A>) de 16 de mayo de 2024, C.P. Dr. Wilson Ramos Gir&oacute;n. </p> </td></tr></tbody>";
 var z=document.getElementById('Table428').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table428').insertRow(0);
@@ -6849,7 +6849,7 @@ else {
 function insRow429()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Circular DIAN <A href='circular_dian_0003_2026.htm#0' >3</A> de 2026 </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00053-00(<A href='11001-03-27-000-2021-00053-00(25650)_20221027.htm#inicio' >25650</A>) de 27 de octubre de 2022, C.P. Dr. Milton Chaves Garc&iacute;a. </p> </td></tr></tbody>";
 var z=document.getElementById('Table429').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table429').insertRow(0);
@@ -6865,7 +6865,7 @@ else {
 function insRow430()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio Tributario DIAN <A href='oficio_dian_75762_2006.htm#1' >75762</A> de 2006</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Demanda de nulidad contra este art&iacute;culo. Negada. Consejo de Estado, Secci&oacute;n Cuarta, Expediente No. 11001-03-27-000-2021-00053-00(<A href='11001-03-27-000-2021-00053-00(25650)_20221027.htm#inicio' >25650</A>) de 2022/10/27, Consejero Ponente Dr. Milton Chaves Garc&iacute;a.</p> </td></tr></tbody>";
 var z=document.getElementById('Table430').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table430').insertRow(0);
@@ -6881,7 +6881,7 @@ else {
 function insRow431()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>La modificaci&oacute;n a la Resoluci&oacute;n de Minhacienda 8 de 2000 por el art&iacute;culo 8 de la Resoluci&oacute;n 1739 de 31 de julio de 2026, elimin&oacute; la obligaci&oacute;n de suministro de formularios y recibos oficiales.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
 var z=document.getElementById('Table431').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table431').insertRow(0);
@@ -6897,7 +6897,7 @@ else {
 function insRow432()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
 var z=document.getElementById('Table432').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table432').insertRow(0);
@@ -6913,7 +6913,7 @@ else {
 function insRow433()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Consejo de Estado</span></p><p>- Control inmediato de legalidad sobre esta norma. Consejo de Estado, Sala Plena, Expediente No. 11001-03-15-000-2020-03590-00, Fallo de 2020/10/26, Consejero Ponente Dr. Jos&eacute; Roberto S&aacute;chica M&eacute;ndez. Art&iacute;culo declarado ajustado a derecho. (tr&aacute;nsito a cosa juzgada relativa).</p> </td></tr></tbody>";
 var z=document.getElementById('Table433').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table433').insertRow(0);
@@ -6929,7 +6929,7 @@ else {
 function insRow434()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_12631_2026.htm#0' >12631</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_9593_2026.htm#0' >9593</A> de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio Tributario DIAN <A href='oficio_dian_75762_2006.htm#1' >75762</A> de 2006</p> </td></tr></tbody>";
 var z=document.getElementById('Table434').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table434').insertRow(0);
@@ -6945,7 +6945,7 @@ else {
 function insRow435()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_914504_2021.htm#INICIO' >914504</A> de 2021</p> </td></tr></tbody>";
 var z=document.getElementById('Table435').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table435').insertRow(0);
@@ -6961,7 +6961,7 @@ else {
 function insRow436()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Circular DIAN <A href='circular_dian_0003_2026.htm#0' >3</A> de 2026 </p> </td></tr></tbody>";
 var z=document.getElementById('Table436').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table436').insertRow(0);
@@ -6977,7 +6977,7 @@ else {
 function insRow437()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio Tributario DIAN <A href='oficio_dian_75762_2006.htm#1' >75762</A> de 2006</p> </td></tr></tbody>";
 var z=document.getElementById('Table437').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table437').insertRow(0);
@@ -6993,7 +6993,7 @@ else {
 function insRow438()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>La modificaci&oacute;n a la Resoluci&oacute;n de Minhacienda 8 de 2000 por el art&iacute;culo 8 de la Resoluci&oacute;n 1739 de 31 de julio de 2026, elimin&oacute; la obligaci&oacute;n de suministro de formularios y recibos oficiales.</p> </td></tr></tbody>";
 var z=document.getElementById('Table438').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table438').insertRow(0);
@@ -7041,7 +7041,7 @@ else {
 function insRow441()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_12631_2026.htm#0' >12631</A> de 2026</p><p>Concepto DIAN <A href='oficio_dian_9593_2026.htm#0' >9593</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table441').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table441').insertRow(0);
@@ -7089,7 +7089,7 @@ else {
 function insRow444()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_16116_2025.htm#0' >16116</A> de 2025</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table444').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table444').insertRow(0);
@@ -7105,7 +7105,7 @@ else {
 function insRow445()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_905868_2022.htm#INICIO' >905868</A> de 2022</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table445').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table445').insertRow(0);
@@ -7121,7 +7121,7 @@ else {
 function insRow446()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Formulario 445 adicionado por el art&iacute;culo <A href='resolucion_dian_0013_2026.htm#2' >2</A> de la Resoluci&oacute;n 13 de 7 de mayo de 2026, 'por la cual se adiciona el art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.2.2.40' >1.2.2.40</A> al Cap&iacute;tulo 2 del T&iacute;tulo 2 de la Parte 1 y un nuevo formulario al numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#3' >3o</A> de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.487 de 11 de mayo de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Formulario 425 adicionado por el art&iacute;culo <A href='resolucion_dian_4285_2026.htm#2' >2</A> de la Resoluci&oacute;n 4285 de 26 de marzo de 2026, 'por la cual se adicionan el art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.2.2.39' >1.2.2.39</A> al Cap&iacute;tulo 2 del T&iacute;tulo 2 de la Parte 1 y un nuevo formulario al numeral 1. Tabla de Formularios del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#3' >3o</A> de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria', publicada en el Diario Oficial No. 53.441 de 27 de marzo de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table446').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table446').insertRow(0);
@@ -7137,7 +7137,7 @@ else {
 function insRow447()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>&lt;4&gt; &#160;Anexos 2839 y 2840 modificados por el art&iacute;culo <A href='resolucion_dian_0021_2026.htm#2' >2</A> de la Resoluci&oacute;n 21 de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;3&gt; Anexos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834 y 2835 por el art&iacute;culo <A href='resolucion_dian_0012_2026.htm#3' >3</A> de la Resoluci&oacute;n 12 de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;2&gt; Anexo T4.9 -1401- adicionado por el art&iacute;culo <A href='resolucion_dian_0234_2025.htm#3' >3</A> de la Resoluci&oacute;n 234 de 5 de noviembre de 2025, 'por la cual se adopta el Servicio Inform&aacute;tico R&eacute;gimen Zona Econ&oacute;mica y Social Especial (SI ZESE) y se corrige un yerro de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0228_2025.htm#0' >0228</A> del 30 de septiembre de 2025', publicada en el Diario Oficial No. 53.296 de 6 de noviembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;1&gt; Anexos 1001, 1005, 1647, 5247, 5248, 5249, 5250, 5251, 5252, 1476, 2574, 2823, 2824, 2825, 2829, y 2840 modificados; y, anexos 2821, 2822, 2854 y 2856 adicionados por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table447').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table447').insertRow(0);
@@ -7153,7 +7153,7 @@ else {
 function insRow448()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.1 - Formato 1159- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table448').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table448').insertRow(0);
@@ -7169,7 +7169,7 @@ else {
 function insRow449()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.1.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_18024_2026.htm#0' >18024</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table449').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table449').insertRow(0);
@@ -7185,7 +7185,7 @@ else {
 function insRow450()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.4 - Formato 2273- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_18024_2026.htm#0' >18024</A> de 2026</p> </td></tr></tbody>";
 var z=document.getElementById('Table450').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table450').insertRow(0);
@@ -7201,7 +7201,7 @@ else {
 function insRow451()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2273- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.4.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table451').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table451').insertRow(0);
@@ -7217,7 +7217,7 @@ else {
 function insRow452()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.5 - Formato 1023- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Secci&oacute;n adicionada por el art&iacute;culo <A href='resolucion_dian_0008_2026.htm#1' >1</A> de la Resoluci&oacute;n 8 de 25 de marzo de 2026, 'por la cual se adiciona la Secci&oacute;n 5 'Procedimiento para el recaudo y pago de la tarifa del 0.1% establecida en el art&iacute;culo 21 de la Ley 2251 de 2022 sobre operaciones de transporte terrestre de carga' al Cap&iacute;tulo 2 del T&iacute;tulo 8 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.440 de 26 de marzo de 2026. Rige a partir del 1 de abril de 2026.</p> </td></tr></tbody>";
 var z=document.getElementById('Table452').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table452').insertRow(0);
@@ -7233,7 +7233,7 @@ else {
 function insRow453()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 1023 - Versi&oacute;n 7</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.5.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Concepto DIAN <A href='oficio_dian_16116_2025.htm#0' >16116</A> de 2025</p> </td></tr></tbody>";
 var z=document.getElementById('Table453').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table453').insertRow(0);
@@ -7249,7 +7249,7 @@ else {
 function insRow454()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.7 - Formato 1026- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>Oficio DIAN <A href='oficio_dian_905868_2022.htm#INICIO' >905868</A> de 2022</p> </td></tr></tbody>";
 var z=document.getElementById('Table454').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table454').insertRow(0);
@@ -7265,7 +7265,7 @@ else {
 function insRow455()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>ANEXO T3.7. </p><p>ESPECIFICACIONES T&Eacute;CNICAS PR&Eacute;STAMOS BANCARIOS OTROGADOS. </p><p>Formato &#160;1026- Versi&oacute;n 6</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.7.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Formulario 445 adicionado por el art&iacute;culo <A href='resolucion_dian_0013_2026.htm#2' >2</A> de la Resoluci&oacute;n 13 de 7 de mayo de 2026, 'por la cual se adiciona el art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.2.2.40' >1.2.2.40</A> al Cap&iacute;tulo 2 del T&iacute;tulo 2 de la Parte 1 y un nuevo formulario al numeral 1 del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#3' >3o</A> de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria'', publicada en el Diario Oficial No. 53.487 de 11 de mayo de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Formulario 425 adicionado por el art&iacute;culo <A href='resolucion_dian_4285_2026.htm#2' >2</A> de la Resoluci&oacute;n 4285 de 26 de marzo de 2026, 'por la cual se adicionan el art&iacute;culo <A href='resolucion_dian_0227_2025.htm#1.2.2.39' >1.2.2.39</A> al Cap&iacute;tulo 2 del T&iacute;tulo 2 de la Parte 1 y un nuevo formulario al numeral 1. Tabla de Formularios del art&iacute;culo <A href='resolucion_dian_0227_2025.htm#3' >3o</A> de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria', publicada en el Diario Oficial No. 53.441 de 27 de marzo de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table455').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table455').insertRow(0);
@@ -7281,7 +7281,7 @@ else {
 function insRow456()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.9 - Formato 2277- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>&lt;4&gt; &#160;Anexos 2839 y 2840 modificados por el art&iacute;culo <A href='resolucion_dian_0021_2026.htm#2' >2</A> de la Resoluci&oacute;n 21 de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;3&gt; Anexos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834 y 2835 por el art&iacute;culo <A href='resolucion_dian_0012_2026.htm#3' >3</A> de la Resoluci&oacute;n 12 de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;2&gt; Anexo T4.9 -1401- adicionado por el art&iacute;culo <A href='resolucion_dian_0234_2025.htm#3' >3</A> de la Resoluci&oacute;n 234 de 5 de noviembre de 2025, 'por la cual se adopta el Servicio Inform&aacute;tico R&eacute;gimen Zona Econ&oacute;mica y Social Especial (SI ZESE) y se corrige un yerro de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0228_2025.htm#0' >0228</A> del 30 de septiembre de 2025', publicada en el Diario Oficial No. 53.296 de 6 de noviembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>&lt;1&gt; Anexos 1001, 1005, 1647, 5247, 5248, 5249, 5250, 5251, 5252, 1476, 2574, 2823, 2824, 2825, 2829, y 2840 modificados; y, anexos 2821, 2822, 2854 y 2856 adicionados por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table456').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table456').insertRow(0);
@@ -7297,7 +7297,7 @@ else {
 function insRow457()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2277- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.9.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.1 - Formato 1159- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table457').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table457').insertRow(0);
@@ -7313,7 +7313,7 @@ else {
 function insRow458()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.1.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table458').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table458').insertRow(0);
@@ -7329,7 +7329,7 @@ else {
 function insRow459()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1022- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.10.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.4 - Formato 2273- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table459').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table459').insertRow(0);
@@ -7345,7 +7345,7 @@ else {
 function insRow460()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.11 - Formato 2274- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2273- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.4.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table460').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table460').insertRow(0);
@@ -7361,7 +7361,7 @@ else {
 function insRow461()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2274- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.11.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.5 - Formato 1023- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table461').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table461').insertRow(0);
@@ -7377,7 +7377,7 @@ else {
 function insRow462()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.14 - Formato 1013- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 1023 - Versi&oacute;n 7</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.5.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table462').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table462').insertRow(0);
@@ -7393,7 +7393,7 @@ else {
 function insRow463()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.14.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.7 - Formato 1026- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table463').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table463').insertRow(0);
@@ -7409,7 +7409,7 @@ else {
 function insRow464()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.18 - Formato 1001- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 11.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>ANEXO T3.7. </p><p>ESPECIFICACIONES T&Eacute;CNICAS PR&Eacute;STAMOS BANCARIOS OTROGADOS. </p><p>Formato &#160;1026- Versi&oacute;n 6</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.7.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table464').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table464').insertRow(0);
@@ -7425,7 +7425,7 @@ else {
 function insRow465()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1001 - Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.18.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.9 - Formato 2277- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table465').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table465').insertRow(0);
@@ -7441,7 +7441,7 @@ else {
 function insRow466()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.21 - Formato 1005- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.21 -Formato 1005- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 9. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2277- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.9.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table466').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table466').insertRow(0);
@@ -7457,7 +7457,7 @@ else {
 function insRow467()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;1005- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.21.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1005- Versi&oacute;n 8</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.21.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table467').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table467').insertRow(0);
@@ -7473,7 +7473,7 @@ else {
 function insRow468()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.26 -Formato 1647- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 3.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1022- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.10.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table468').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table468').insertRow(0);
@@ -7489,7 +7489,7 @@ else {
 function insRow469()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>ANEXO T3.26. ESPECIFICACIONES T&Eacute;CNICAS INGRESOS RECIBIDOS PARA TERCEROS. &#160;</p><p>Formato &#160;1647 - Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.26.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.11 - Formato 2274- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table469').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table469').insertRow(0);
@@ -7505,7 +7505,7 @@ else {
 function insRow470()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.29 - Formato 1004- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2274- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.11.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table470').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table470').insertRow(0);
@@ -7521,7 +7521,7 @@ else {
 function insRow471()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1004- Versi&oacute;n 8</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.29.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.14 - Formato 1013- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table471').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table471').insertRow(0);
@@ -7537,7 +7537,7 @@ else {
 function insRow472()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.30 - Formato 2275- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.14.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table472').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table472').insertRow(0);
@@ -7553,7 +7553,7 @@ else {
 function insRow473()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.30.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.18 - Formato 1001- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 11.</p> </td></tr></tbody>";
 var z=document.getElementById('Table473').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table473').insertRow(0);
@@ -7569,7 +7569,7 @@ else {
 function insRow474()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.31 -Formato 5247- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1001 - Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.18.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table474').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table474').insertRow(0);
@@ -7585,7 +7585,7 @@ else {
 function insRow475()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5247 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.31.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.21 - Formato 1005- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.21 -Formato 1005- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 9. </p> </td></tr></tbody>";
 var z=document.getElementById('Table475').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table475').insertRow(0);
@@ -7601,7 +7601,7 @@ else {
 function insRow476()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.32 -Formato 5248- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;1005- Versi&oacute;n 9</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.21.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1005- Versi&oacute;n 8</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.21.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table476').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table476').insertRow(0);
@@ -7617,7 +7617,7 @@ else {
 function insRow477()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 5248 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.32.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.26 -Formato 1647- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 3.</p> </td></tr></tbody>";
 var z=document.getElementById('Table477').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table477').insertRow(0);
@@ -7633,7 +7633,7 @@ else {
 function insRow478()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.33 -Formato 5249- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>ANEXO T3.26. ESPECIFICACIONES T&Eacute;CNICAS INGRESOS RECIBIDOS PARA TERCEROS. &#160;</p><p>Formato &#160;1647 - Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.26.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table478').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table478').insertRow(0);
@@ -7649,7 +7649,7 @@ else {
 function insRow479()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5249 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.33.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.29 - Formato 1004- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table479').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table479').insertRow(0);
@@ -7665,7 +7665,7 @@ else {
 function insRow480()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.34 -Formato 5250- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1004- Versi&oacute;n 8</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.29.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table480').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table480').insertRow(0);
@@ -7681,7 +7681,7 @@ else {
 function insRow481()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5250 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.34.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.30 - Formato 2275- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table481').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table481').insertRow(0);
@@ -7697,7 +7697,7 @@ else {
 function insRow482()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.35 -Formato 5251- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.30.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table482').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table482').insertRow(0);
@@ -7713,7 +7713,7 @@ else {
 function insRow483()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5251 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.35.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.31 -Formato 5247- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table483').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table483').insertRow(0);
@@ -7729,7 +7729,7 @@ else {
 function insRow484()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.36 -Formato 5252- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5247 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.31.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table484').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table484').insertRow(0);
@@ -7745,7 +7745,7 @@ else {
 function insRow485()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5252 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.36.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.32 -Formato 5248- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table485').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table485').insertRow(0);
@@ -7761,7 +7761,7 @@ else {
 function insRow486()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.45 - Formato 2276- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 5248 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.32.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table486').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table486').insertRow(0);
@@ -7777,7 +7777,7 @@ else {
 function insRow487()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2276- Versi&oacute;n 4</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.45.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.33 -Formato 5249- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table487').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table487').insertRow(0);
@@ -7793,7 +7793,7 @@ else {
 function insRow488()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.46 -Formato 1476- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 13.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5249 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.33.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table488').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table488').insertRow(0);
@@ -7809,7 +7809,7 @@ else {
 function insRow489()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1476 - Versi&oacute;n 12</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.46.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.34 -Formato 5250- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table489').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table489').insertRow(0);
@@ -7825,7 +7825,7 @@ else {
 function insRow490()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.48 - Formato 1481- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5250 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.34.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table490').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table490').insertRow(0);
@@ -7841,7 +7841,7 @@ else {
 function insRow491()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.48.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.35 -Formato 5251- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table491').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table491').insertRow(0);
@@ -7857,7 +7857,7 @@ else {
 function insRow492()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5251 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.35.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table492').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table492').insertRow(0);
@@ -7873,7 +7873,7 @@ else {
 function insRow493()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2631- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.49.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.36 -Formato 5252- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 2.</p> </td></tr></tbody>";
 var z=document.getElementById('Table493').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table493').insertRow(0);
@@ -7889,7 +7889,7 @@ else {
 function insRow494()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato 2683- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;5252 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.36.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table494').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table494').insertRow(0);
@@ -7905,7 +7905,7 @@ else {
 function insRow495()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2683- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.50.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.45 - Formato 2276- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table495').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table495').insertRow(0);
@@ -7921,7 +7921,7 @@ else {
 function insRow496()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.54 - Formato 2279- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2276- Versi&oacute;n 4</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.45.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table496').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table496').insertRow(0);
@@ -7937,7 +7937,7 @@ else {
 function insRow497()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2279- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.54.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.46 -Formato 1476- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 13.</p> </td></tr></tbody>";
 var z=document.getElementById('Table497').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table497').insertRow(0);
@@ -7953,7 +7953,7 @@ else {
 function insRow498()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.55 - Formato 2575- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;1476 - Versi&oacute;n 12</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.46.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table498').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table498').insertRow(0);
@@ -7969,7 +7969,7 @@ else {
 function insRow499()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2575- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.55.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.48 - Formato 1481- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table499').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table499').insertRow(0);
@@ -7985,7 +7985,7 @@ else {
 function insRow500()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.56 -Formato 2574- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 3.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 10</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.48.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table500').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table500').insertRow(0);
@@ -8001,7 +8001,7 @@ else {
 function insRow501()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2574- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.56.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table501').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table501').insertRow(0);
@@ -8017,7 +8017,7 @@ else {
 function insRow502()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Consultar:</p><p>- Formato modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3. -Formato - modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2631- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.49.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table502').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table502').insertRow(0);
@@ -8033,7 +8033,7 @@ else {
 function insRow503()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.57.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.57.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.57.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato 2683- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table503').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table503').insertRow(0);
@@ -8049,7 +8049,7 @@ else {
 function insRow504()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.58 -Formato 2823- &#160;publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.58 -Formato 2823- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.58 -Formato 2823- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2683- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.50.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table504').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table504').insertRow(0);
@@ -8065,7 +8065,7 @@ else {
 function insRow505()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.58.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.58.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.58.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.54 - Formato 2279- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table505').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table505').insertRow(0);
@@ -8081,7 +8081,7 @@ else {
 function insRow506()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.59 -Formato 2824- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.59 -Formato 2824- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.59 -Formato 2824- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2279- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.54.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table506').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table506').insertRow(0);
@@ -8097,7 +8097,7 @@ else {
 function insRow507()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.59.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.59.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.59.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.55 - Formato 2575- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table507').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table507').insertRow(0);
@@ -8113,7 +8113,7 @@ else {
 function insRow508()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.60 -Formato 2825- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.60 -Formato 2825- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.60 -Formato 2825- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2575- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.55.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table508').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table508').insertRow(0);
@@ -8129,7 +8129,7 @@ else {
 function insRow509()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2825 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.60.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2825- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.60.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2825 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.60.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.56 -Formato 2574- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Versi&oacute;n 3.</p> </td></tr></tbody>";
 var z=document.getElementById('Table509').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table509').insertRow(0);
@@ -8145,7 +8145,7 @@ else {
 function insRow510()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.61 -Formato 2826- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.61 -Formato 2826- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2574- Versi&oacute;n 2</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.56.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table510').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table510').insertRow(0);
@@ -8161,7 +8161,7 @@ else {
 function insRow511()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2826- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.61.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2826- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.61.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. Consultar:</p><p>- Formato modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3. -Formato - modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table511').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table511').insertRow(0);
@@ -8177,7 +8177,7 @@ else {
 function insRow512()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Formato modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.57.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.57.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2820- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.57.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table512').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table512').insertRow(0);
@@ -8193,7 +8193,7 @@ else {
 function insRow513()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2827- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.62.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2827- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.62.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.58 -Formato 2823- &#160;publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.58 -Formato 2823- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.58 -Formato 2823- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table513').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table513').insertRow(0);
@@ -8209,7 +8209,7 @@ else {
 function insRow514()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.63 - Formato 2828- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.63 - Formato 2828- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.58.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.58.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2823- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.58.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table514').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table514').insertRow(0);
@@ -8225,7 +8225,7 @@ else {
 function insRow515()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2828- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.63.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2828- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.63.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.59 -Formato 2824- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.59 -Formato 2824- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.59 -Formato 2824- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table515').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table515').insertRow(0);
@@ -8241,7 +8241,7 @@ else {
 function insRow516()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.64 - Formato 2829- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.64 - Formato 2829- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.64 - Formato 2829- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.59.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.59.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2824- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.59.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table516').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table516').insertRow(0);
@@ -8257,7 +8257,7 @@ else {
 function insRow517()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.64.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.64.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.64.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.60 -Formato 2825- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.60 -Formato 2825- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.60 -Formato 2825- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table517').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table517').insertRow(0);
@@ -8273,7 +8273,7 @@ else {
 function insRow518()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.65 - Formato 2853- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.65 - Formato 2853- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2825 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.60.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2825- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.60.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2825 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.60.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table518').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table518').insertRow(0);
@@ -8289,7 +8289,7 @@ else {
 function insRow519()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2853 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.65.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2853- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.65.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.61 -Formato 2826- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.61 -Formato 2826- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table519').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table519').insertRow(0);
@@ -8305,7 +8305,7 @@ else {
 function insRow520()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.66 - Formato 2834- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p><p>- Anexo T3.66 - Formato 2834- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.66 - Formato 2834- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2826- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.61.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2826- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.61.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table520').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table520').insertRow(0);
@@ -8321,7 +8321,7 @@ else {
 function insRow521()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.66.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.66.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.66.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3. - Formato - publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Formato modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table521').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table521').insertRow(0);
@@ -8337,7 +8337,7 @@ else {
 function insRow522()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.67 - Formato 2835- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. </p><p>- Anexo T3.67 - Formato 2835- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.67 - Formato 2835- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2827- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.62.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2827- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.62.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table522').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table522').insertRow(0);
@@ -8353,7 +8353,7 @@ else {
 function insRow523()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.67.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.67.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.67.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.63 - Formato 2828- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.63 - Formato 2828- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table523').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table523').insertRow(0);
@@ -8369,7 +8369,7 @@ else {
 function insRow524()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.68 - Formato 2839- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. </p><p>- Anexo T3.68 -Formato 2839- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.68 -Formato 2839- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2828- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.63.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2828- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.63.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table524').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table524').insertRow(0);
@@ -8385,7 +8385,7 @@ else {
 function insRow525()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.68.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.68.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.68.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.64 - Formato 2829- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.64 - Formato 2829- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>- Anexo T3.64 - Formato 2829- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table525').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table525').insertRow(0);
@@ -8401,7 +8401,7 @@ else {
 function insRow526()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.68 - Formato 2840- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.68 - Formato 2840- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.64.PDF</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.64.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2829- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.64.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table526').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table526').insertRow(0);
@@ -8417,7 +8417,7 @@ else {
 function insRow527()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2840 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.69.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2840 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.69.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.65 - Formato 2853- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.65 - Formato 2853- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table527').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table527').insertRow(0);
@@ -8433,7 +8433,7 @@ else {
 function insRow528()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.70 - Formato 2821- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.70 - Formato 2821- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2853 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.65.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2853- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.65.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table528').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table528').insertRow(0);
@@ -8449,7 +8449,7 @@ else {
 function insRow529()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2821- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.70.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.66 - Formato 2834- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. &#160;</p><p>- Anexo T3.66 - Formato 2834- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.66 - Formato 2834- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
 var z=document.getElementById('Table529').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table529').insertRow(0);
@@ -8465,7 +8465,7 @@ else {
 function insRow530()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.71 - Formato 2822- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.71 - Formato 2822- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.66.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.66.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2834 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.66.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table530').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table530').insertRow(0);
@@ -8481,7 +8481,7 @@ else {
 function insRow531()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2822- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.71.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.67 - Formato 2835- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2027 y siguientes. </p><p>- Anexo T3.67 - Formato 2835- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.67 - Formato 2835- modificado por la Resoluci&oacute;n <A href='resolucion_dian_0012_2026.htm#0' >12</A> de 29 de abril de 2026, 'por la cual se modifica parcialmente la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.477 de 30 de abril de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table531').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table531').insertRow(0);
@@ -8497,7 +8497,7 @@ else {
 function insRow532()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.72 - Formato 2854- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.72 - Formato 2854- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.67.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 12 de 2026:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0012_2026-ANEXO T3.67.PDF</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2835 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.67.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table532').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table532').insertRow(0);
@@ -8513,7 +8513,7 @@ else {
 function insRow533()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato 2854 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.72.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.68 - Formato 2839- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. </p><p>- Anexo T3.68 -Formato 2839- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.68 -Formato 2839- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table533').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table533').insertRow(0);
@@ -8529,7 +8529,7 @@ else {
 function insRow534()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.73 - Formato 2856- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.73 - Formato 2856- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 21 de 2026:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0021_2026-ANEXO T3.68.pdf</p><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.68.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato 2839 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.68.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table534').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table534').insertRow(0);
@@ -8545,7 +8545,7 @@ else {
 function insRow535()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.73.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.68 - Formato 2840- publicado como anexo con las modificaciones introducidas por la Resoluci&oacute;n <A href='resolucion_dian_0021_2026.htm#10' >21</A> de 17 de julio de 2026, 'por la cual se modifican los art&iacute;culos <A href='resolucion_dian_0227_2025.htm#1.3.10.1' >1.3.10.1</A>, <A href='resolucion_dian_0227_2025.htm#1.3.2.1' >1.3.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.4.7.3' >1.3.4.7.3</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.2.1' >1.3.5.2.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.8.1' >1.3.5.8.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.5.12.1' >1.3.5.12.1</A>., <A href='resolucion_dian_0227_2025.htm#1.3.12.17' >1.3.12.17</A>. y <A href='resolucion_dian_0227_2025.htm#3' >3</A> parcialmente de la Resoluci&oacute;n n&uacute;mero 000227 del 23 de septiembre 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se establecen plazos extraordinarios para la presentaci&oacute;n de la informaci&oacute;n ex&oacute;gena tributaria correspondiente a los formatos 2820, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2833, 2834, 2835, 2839 y 2840', publicada en el Diario Oficial No. 53.560 de 21 de julio de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p><p>- Anexo T3.68 - Formato 2840- modificado por los art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table535').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table535').insertRow(0);
@@ -8561,7 +8561,7 @@ else {
 function insRow536()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo T3.74 - Formato 2624- adicionado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2028 y siguientes. &#160;</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto modificado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2840 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.69.pdf</p><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>Formato &#160;2840 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT3.69.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table536').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table536').insertRow(0);
@@ -8577,7 +8577,7 @@ else {
 function insRow537()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo adicionado por el art&iacute;culo <A href='resolucion_dian_0234_2025.htm#3' >3</A> de la Resoluci&oacute;n 234 de 5 de noviembre de 2025, 'por la cual se adopta el Servicio Inform&aacute;tico R&eacute;gimen Zona Econ&oacute;mica y Social Especial (SI ZESE) y se corrige un yerro de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0228_2025.htm#0' >0228</A> del 30 de septiembre de 2025', publicada en el Diario Oficial No. 53.296 de 6 de noviembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Contenido del anexo no publicado en el Diario Oficial. </p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.70 - Formato 2821- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.70 - Formato 2821- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table537').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table537').insertRow(0);
@@ -8593,7 +8593,7 @@ else {
 function insRow538()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo sustituido con la versi&oacute;n 2 publicada en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2821- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.70.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table538').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table538').insertRow(0);
@@ -8609,7 +8609,7 @@ else {
 function insRow539()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.11.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.71 - Formato 2822- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.71 - Formato 2822- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table539').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table539').insertRow(0);
@@ -8625,7 +8625,7 @@ else {
 function insRow540()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo sustituido con la versi&oacute;n 3 publicada en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;2822- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.71.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table540').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table540').insertRow(0);
@@ -8641,7 +8641,7 @@ else {
 function insRow541()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.12.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.72 - Formato 2854- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.72 - Formato 2854- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table541').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table541').insertRow(0);
@@ -8657,7 +8657,7 @@ else {
 function insRow542()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo sustituido por el anexo publicado en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato 2854 - Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.72.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table542').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table542').insertRow(0);
@@ -8673,7 +8673,7 @@ else {
 function insRow543()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.13.pdf</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.73 - Formato 2856- modificado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2026 y siguientes. &#160;</p><p>- Anexo T3.73 - Formato 2856- adicionado por el art&iacute;culo <A href='resolucion_dian_0233_2025.htm#23' >23</A> y <A href='resolucion_dian_0233_2025.htm#29' >29</A> de la Resoluci&oacute;n 233 de 30 de octubre de 2025, 'por la cual se modifica y adiciona parcialmente la resoluci&oacute;n 00<A href='resolucion_dian_0227_2025.htm#0' >0227</A> de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de informaci&oacute;n tributaria', publicada en el Diario Oficial No. 53.290 de 31 de octubre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial. </p> </td></tr></tbody>";
 var z=document.getElementById('Table543').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table543').insertRow(0);
@@ -8689,7 +8689,7 @@ else {
 function insRow544()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo adicionado por la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto adicionado por la Resoluci&oacute;n 233 de 2025:</span></p><p>Formato &#160;- Versi&oacute;n 1</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0233_2025_ANEXO_T3.73.pdf</p> </td></tr></tbody>";
 var z=document.getElementById('Table544').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table544').insertRow(0);
@@ -8705,7 +8705,7 @@ else {
 function insRow545()
 {
 var description = new Array();
-description[0] = "<tbody><tr><td><p>- Anexo adicionado por la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+description[0] = "<tbody><tr><td><p>- Anexo T3.74 - Formato 2624- adicionado por el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#30' >30</A> de la Resoluci&oacute;n 33 de 30 de octubre de 2026, 'por la cual se modifica el t&iacute;tulo <A href='resolucion_dian_0227_2025.htm#T&Iacute;TULO 1.3' >3</A> de la Resoluci&oacute;n 000227 del 23 de septiembre de 2025, &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria y se adicionan secciones y art&iacute;culos al mencionado t&iacute;tulo', publicada en el Diario Oficial No. 53.674 de 30 de octubre de 2026. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Seg&uacute;n lo dispuesto en el art&iacute;culo <A href='resolucion_dian_0033_2026.htm#29' >29</A>, la modificaci&oacute;n introducida por la Resoluci&oacute;n 33 de 2026 tendr&aacute; aplicaci&oacute;n a partir del a&ntilde;o gravable 2028 y siguientes. &#160;</p> </td></tr></tbody>";
 var z=document.getElementById('Table545').rows[0];
 if (z==null) {
 	var x=document.getElementById('Table545').insertRow(0);
@@ -8716,5 +8716,149 @@ if (z==null) {
 else {
 	document.getElementById('Table545').deleteRow(0);
 	document.getElementById('Table545').style.display = "none";
+	}
+}
+function insRow546()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo adicionado por el art&iacute;culo <A href='resolucion_dian_0234_2025.htm#3' >3</A> de la Resoluci&oacute;n 234 de 5 de noviembre de 2025, 'por la cual se adopta el Servicio Inform&aacute;tico R&eacute;gimen Zona Econ&oacute;mica y Social Especial (SI ZESE) y se corrige un yerro de la Resoluci&oacute;n n&uacute;mero 00<A href='resolucion_dian_0228_2025.htm#0' >0228</A> del 30 de septiembre de 2025', publicada en el Diario Oficial No. 53.296 de 6 de noviembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p><p>Contenido del anexo no publicado en el Diario Oficial. </p> </td></tr></tbody>";
+var z=document.getElementById('Table546').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table546').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table546').style.display = "block";
+	}
+else {
+	document.getElementById('Table546').deleteRow(0);
+	document.getElementById('Table546').style.display = "none";
+	}
+}
+function insRow547()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo sustituido con la versi&oacute;n 2 publicada en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+var z=document.getElementById('Table547').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table547').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table547').style.display = "block";
+	}
+else {
+	document.getElementById('Table547').deleteRow(0);
+	document.getElementById('Table547').style.display = "none";
+	}
+}
+function insRow548()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.11.pdf</p> </td></tr></tbody>";
+var z=document.getElementById('Table548').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table548').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table548').style.display = "block";
+	}
+else {
+	document.getElementById('Table548').deleteRow(0);
+	document.getElementById('Table548').style.display = "none";
+	}
+}
+function insRow549()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo sustituido con la versi&oacute;n 3 publicada en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+var z=document.getElementById('Table549').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table549').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table549').style.display = "block";
+	}
+else {
+	document.getElementById('Table549').deleteRow(0);
+	document.getElementById('Table549').style.display = "none";
+	}
+}
+function insRow550()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.12.pdf</p> </td></tr></tbody>";
+var z=document.getElementById('Table550').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table550').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table550').style.display = "block";
+	}
+else {
+	document.getElementById('Table550').deleteRow(0);
+	document.getElementById('Table550').style.display = "none";
+	}
+}
+function insRow551()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo sustituido por el anexo publicado en la Resoluci&oacute;n 241 de 24 de diciembre de 2025, 'por la cual se sustituye el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.9' >9</A> del T&iacute;tulo 6, de la Parte 1 y el numeral 2 del art&iacute;culo 3o de Anexos de la Parte 1 de la Resoluci&oacute;n n&uacute;mero 000<A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &Uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir del 1o de enero de 2026</p> </td></tr></tbody>";
+var z=document.getElementById('Table551').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table551').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table551').style.display = "block";
+	}
+else {
+	document.getElementById('Table551').deleteRow(0);
+	document.getElementById('Table551').style.display = "none";
+	}
+}
+function insRow552()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p><span class='b_aj'>Texto original de la Resoluci&oacute;n 227 de 2025:</span></p><p>&lt;Anexo publicado en el Diario Oficial&gt;</p><p>&lt;Consultar PDF del Diario Oficial directamente en el siguiente enlace:</p><p>https://normograma.com/documentospdf/PDF/R_DIAN_0227_2025_ANEXOT6.13.pdf</p> </td></tr></tbody>";
+var z=document.getElementById('Table552').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table552').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table552').style.display = "block";
+	}
+else {
+	document.getElementById('Table552').deleteRow(0);
+	document.getElementById('Table552').style.display = "none";
+	}
+}
+function insRow553()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo adicionado por la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+var z=document.getElementById('Table553').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table553').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table553').style.display = "block";
+	}
+else {
+	document.getElementById('Table553').deleteRow(0);
+	document.getElementById('Table553').style.display = "none";
+	}
+}
+function insRow554()
+{
+var description = new Array();
+description[0] = "<tbody><tr><td><p>- Anexo adicionado por la Resoluci&oacute;n 240 de 24 de diciembre de 2025, 'por la cual se adiciona el Cap&iacute;tulo <A href='resolucion_dian_0227_2025.htm#CAP&Iacute;TULO 1.6.11' >11</A> 'Intercambio de Informaci&oacute;n de Proveedores de Servicios de Criptoactivos' al T&iacute;tulo 6 de la Parte 1 de la Resoluci&oacute;n n&uacute;mero <A href='resolucion_dian_0227_2025.htm#0' >227</A> del 23 de septiembre de 2025 'Resoluci&oacute;n &uacute;nica en Materia Tributaria, Aduanera y Cambiaria en lo de competencia de la Unidad Administrativa Especial Direcci&oacute;n de Impuestos y Aduanas Nacionales (DIAN)', publicada en el Diario Oficial No. 53.347 de 26 de diciembre de 2025. Rige a partir de su publicaci&oacute;n en el Diario Oficial.</p> </td></tr></tbody>";
+var z=document.getElementById('Table554').rows[0];
+if (z==null) {
+	var x=document.getElementById('Table554').insertRow(0);
+	var y=x.insertCell(0);
+	y.innerHTML=description;
+	document.getElementById('Table554').style.display = "block";
+	}
+else {
+	document.getElementById('Table554').deleteRow(0);
+	document.getElementById('Table554').style.display = "none";
 	}
 }
