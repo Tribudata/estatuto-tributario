@@ -1,0 +1,91 @@
+name: Actualizar y publicar Estatuto Tributario concordado
+
+on:
+  schedule:
+    # 6:23 a. m. y 6:23 p. m. hora Bogotá (UTC-5)
+    - cron: "23 11,23 * * *"
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Forzar descarga y regeneración aunque el normograma no reporte cambios"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["plantillas/**", "scripts/**", "data/*.json"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: estatuto-tributario
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    outputs:
+      publicar: ${{ steps.decidir.outputs.publicar }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get install -y --no-install-recommends poppler-utils   # pdftotext para los conceptos del CTCP
+
+      - name: Consultar normograma DIAN
+        id: sync
+        # si el normograma no responde, igual se publica con los datos ya guardados en el repositorio
+        continue-on-error: true
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.forzar }}" = "true" ]; then
+            python scripts/actualizar.py --forzar
+          else
+            python scripts/actualizar.py
+          fi
+
+      - name: Guardar cambios en el repositorio
+        if: steps.sync.outputs.cambios == 'true'
+        run: |
+          git config user.name "tribudata-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git commit -m "ET, DUR 1625 y Res. 227: sincronización con normograma DIAN ($(cat data/fuente/corte.txt | tr -d '\r'))" || echo "Sin cambios para guardar"
+          git push
+
+      - name: ¿Publicar?
+        id: decidir
+        run: |
+          if [ "${{ steps.sync.outputs.cambios }}" = "true" ] || [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "publicar=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "publicar=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Construir sitio
+        if: steps.decidir.outputs.publicar == 'true'
+        run: python scripts/construir_sitio.py --base-url "${{ vars.BASE_URL || 'https://estatuto.tribudata.co/' }}"
+
+      - name: Subir artefacto de Pages
+        if: steps.decidir.outputs.publicar == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publicar:
+    needs: actualizar
+    if: needs.actualizar.outputs.publicar == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

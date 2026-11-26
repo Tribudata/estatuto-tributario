@@ -1,0 +1,1447 @@
+{
+"t-2023-0621": {
+"id": "t-2023-0621",
+"anio": 2023,
+"num": "0621",
+"fecha": "2023-12-31",
+"tema": "Responsabilidades del revisor fiscal por sanciones tributarias",
+"resumen": "",
+"consulta": "“La firma de revisoría en su contrato con la compañía expresa que la información de declaraciones tributarias debe ser enviada mínimo tres (3) días hábiles antes del vencimiento de la declaración para el cumplimiento de revisión, aprobación y firma de esta. Sin embargo, la declaración de renta de la compañía fue enviada con 9 días de antelación, el representante de la firma de revisoría fiscal no dio respuesta a la administración (a pesar de que esta haber escribió en varias ocasiones preguntando por el estado de la declaración). No fue hasta que faltaban dos (2) días hábiles para el vencimiento de esta que la revisoría envió la declaración revisada y con la solicitud de los cambios (pasados 7 días hábiles del envío de la información). Esto conllevó a un atraso en la presentación, firma y pago de la declaración de un día, generando una sanción por $14.000.000. En este caso, la consulta principal es: ya que hubo incumplimiento por parte de la revisoría fiscal en los tiempos de revisión y esto conllevó al incumplimiento el presentación, firma y pago, sería la revisoría fiscal quien debe cubrir dicha sanción? Y si no, ¿cómo se debe sancionar este incumplimiento? (…)”",
+"respuesta": "Con respecto a la solicitud, el CTCP se ha pronunciado en diversas ocasiones acerca de las responsabilidades del contador público. Para obtener información detallada al respecto, podrá consultar, entre otros, el concepto 2020-0652, en cual se indicó: “El responsable de los estados financieros y la presentación de las declaraciones tributarias es la administración de la entidad; en el mismo sentido, la responsabilidad por el cumplimiento de las obligaciones fiscales recae en el contribuyente o representante legal directo y no en el contador o revisor fiscal, lo que no significa que los contadores públicos en Colombia no asuman responsabilidades frente a sus actuaciones, para lo cual se tendrán en cuenta las normas profesionales, legales y reglamentarias. Mediante el concepto 2018-852, el CTCP se pronunció sobre las responsabilidades del Contador Público, y corresponderá a las distintas autoridades establecer el alcance de las mismas.” Resaltado propio Se entiende con base en su escrito, que lo solicitado por el revisor fiscal es que se le suministrara para revisión la declaración tributaria elaborada por la administración y si éste la devolvió con dos días de anticipación, se entiende que estaba cumpliendo con el compromiso acordado dentro del plazo solicitado por el revisor fiscal. Como se anotó, la responsabilidad ya, de su ajuste y presentación corresponde a la administración.",
+"ponente": "Jimmy Jay Bolaño Tarrá",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=edb105cf-5792-48c5-bede-c9fe60373013",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0594": {
+"id": "t-2023-0594",
+"anio": 2023,
+"num": "0594",
+"fecha": "2023-12-31",
+"tema": "Criptoactivos",
+"resumen": "",
+"consulta": "“(…) respetuosamente solicito se resuelva la consulta que se eleva a través del presente escrito. 1. Existen actualmente algunas criptomonedas que tiene como característica fundamental que cuentan con un valor estable (stablecoins) y que se encuentran soportadas por un activo subyacente. Así, por ejemplo, podría emitirse una criptomoneda soportada en un (1) peso colombiano. Respecto de este tipo de activos, el Consejo Técnico de la Contaduría Pública emitió el documento de orientación técnica no. 20 sobre “Criptoactivos: Gestión Contable en Colombia” el 5 de junio de 2023 en el que señaló lo siguiente: Otros tipos de activos criptográficos, a menudo denominados \"tokens respaldados por activos\", \"activos digitalizados\" o \"activos tokenizados\" pueden otorgar al titular el derecho a un activo subyacente. Estos tokens pueden utilizarse para transferir la propiedad de los activos subyacentes sin trasladarlos físicamente. Si estos tokens le dan al tenedor el derecho a este activo subyacente, la contabilidad probablemente estará impulsada por la naturaleza del activo subyacente y el estándar contable relevante (Informe, PWC). Generalmente, estas transacciones no monetarias deberán …",
+"respuesta": "Con respecto a los planteamientos e inquietudes del consultante, debemos señalar que el Documento de Orientación Técnica No. 20 – Criptoactivos: Gestión Contable en Colombia, excluye a las entidades vigiladas por la Superintendencia Financiera en su alcance. Dentro de su redacción, se mencionan los “Tokens respaldados por activos”, y en el párrafo correspondiente se indica que estas transacciones son “no monetarias”. Esta afirmación está en línea con la consideración general de que los criptoactivos deben reconocerse ya sea como inventarios para la venta o como activos intangibles. Así mismo, este Consejo se ha pronunciado en diversos conceptos, incluyendo el 2018-04721, donde se destaca que, en Colombia, las criptomonedas no han sido aceptadas como moneda de curso legal, situación que persiste en la actualidad, y el concepto 2021-05482, en el cual se respaldan los lineamientos dados por el IASB en relación con una decisión de agenda de este Organismo. Nos permitimos resaltar lo siguiente: (…) “Efectivo El párrafo GA3 de la NIC 32 señala que \"la moneda (efectivo) es un activo financiero porque representa un medio de pago y, por ello, es la base sobre la que se miden y reconocen todas las transacciones en los estados financieros. Un depósito de efectivo en un banco o entidad financiera similar es un activo financiero porque representa, para el depositante, un derecho contractual para obtener efectivo de la entidad o para girar un cheque u otro instrumento similar contra el saldo del mismo, a favor de un acreedor, en pago de un pasivo financiero\". El Comité observó que la descripción de efectivo del párrafo GA3 de la NIC 32 supone que se espera que el efectivo se use como un medio de intercambio (es decir, usado en el intercambio de bienes o servicios) y como la unidad …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=57b3258f-9aa8-4e2d-b0e2-3b920ac40217",
+"menciones": [
+"et:26"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"NIC 32"
+],
+"traslado": false,
+"trib": 11,
+"con_texto": true
+},
+"t-2023-0600": {
+"id": "t-2023-0600",
+"anio": 2023,
+"num": "0600",
+"fecha": "2023-12-31",
+"tema": "Propiedades, planta y equipo – Medición posterior",
+"resumen": "",
+"consulta": "“(…) De manera atenta y respetuosa me dirijo a Usted con el fin de solicitar un concepto sobre la viabilidad o no de llevar a cabo avaluó (sic) comercial de un terreno con el fin de actualizar el valor de este bien raíz en la cuenta de PROPIEDAD PLANTA Y EQUIPO y el PATRIMONIO de la empresa, y a su vez de dar cumplimiento a la ley y a una recomendación de un ente de control. El terreno tiene un área aproximada de 180 hectáreas ubicado en el sector rural utilizado para la disposición final de residuos sólidos, a la fecha el terreno esta ocupado en un 50% con los residuos sólidos, el otro 50% esta libre pero su fin es de trasladar también en su momento a esta área disponible los residuos sólidos hasta ocupar la totalidad del lote. De acuerdo lo expuesto anteriormente y para dar cumplimiento a la recomendación del ente de control, ¿la empresa podría llevar a cabo un avalúo comercial al 50% del terreno que está libre, o se podría avaluar la totalidad del terreno? Asignarle una vida útil limitada por que esta área estaría sujeta de depreciación de manera conjunta con las celdas sanitarias, teniendo en cuenta que con el tiempo se van a construir nuevas celdas en el futuro, en esa forma …",
+"respuesta": "En primer lugar, es importante aclarar que una vez emitidos los decretos que ponen en vigencia los estándares de contabilidad e información financiera en Colombia, el tratamiento contable debe realizarse conforme al marco técnico normativo aplicable a cada entidad. Dado que la consulta no especifica a qué grupo pertenece la entidad en cuestión, pero se hace alusión a la Sección 27 en su contexto, este concepto se desarrolla teniendo como referencia el Marco Técnico Normativo de la NIIF para las Pymes correspondiente al Grupo 2, que se encuentra contenido en el Anexo 21 del Decreto Único Reglamentario 2420 de 2015. Por otra parte, es importante recordar que cada elemento de los estados financieros está sujeto a un proceso de reconocimiento, medición, presentación y revelación, el cual debe ser analizado por la administración para reflejar su realidad financiera. En consecuencia, con base en la información proporcionada en la consulta, se infiere que, el terreno se trata como una propiedad, planta y equipo y que según la política contable actual de la entidad, el mismo se está midiendo mediante el modelo del costo2. Entiende el CTCP, por lo tanto, que la entidad tiene la expectativa de cambiar su política contable para medir el terreno en adelante aplicando el modelo de revaluación3 permitido por la Sección 17. Este cambio implica la necesidad de determinar el valor razonable del activo mediante un avalúo técnico, como es habitual en estos casos. Además, se deben seguir las pautas establecidas en los párrafos 17.15B a 17.15D, los cuales abordan el modelo de revaluación y su mantenimiento en períodos posteriores. Dado lo expuesto anteriormente y sin la intención de resolver casos particulares, como ya se mencionó, recomendamos la lectura del concepto 2018-1244 emitido por …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=4fa2a373-79a8-4887-9dd4-8729a17a4993",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0212": {
+"id": "t-2023-0212",
+"anio": 2023,
+"num": "0212",
+"fecha": "2023-12-30",
+"tema": "Ingresos – comunidades religiosas",
+"resumen": "",
+"consulta": "“Quisiera su direccionamiento en cuento a las forma de reportar las ofrendas y/o donaciones que realizan las personas a las iglesias y que no hay forma de obtener datos para el registro contable y por consiguiente en la exógena”.",
+"respuesta": "Mediante concepto 2023-02871 este Consejo precisó: “Una comunidad religiosa debe realizar cumplimiento a las leyes que versan en materia contable (…) en Colombia. Por lo cual en materia de normas de contabilidad e información financiera, de aseguramiento de información y revisoría fiscal deberá cumplir con lo preceptuado en la Ley 1314 de 2009 y su Decreto reglamentario 2420 de 2015, la Ley 43 de 1990 y el Código de Comercio al cual remite el artículo 15 de la Ley 1314 de 2009”. En relación con el reconocimiento de ofrendas y/o donaciones, la comunidad religiosa debe establecer un tratamiento en una política contable de ingresos conforme a las directrices del marco técnico normativo al cual pertenezca, considerando para: • El Grupo 1 (NIIF Plenas), aplicar la NIIF 15 – Ingresos de actividades ordinarias procedentes de contratos con clientes, • El Grupo 2 (NIIF para las Pymes), aplicar la Sección 23 – Ingresos de actividades ordinarias, y • El Grupo 3 (NIF para Microempresas), aplicar el Capítulo XII – Ingresos. En cuanto a la identificación del tercero que realiza ofrendas y/o donaciones en las comunidades religiosas, es importante aclarar que el CTCP solo se pronuncia sobre temas contables, financieros, de aseguramiento y de revisoría fiscal. En este sentido, no es competente para pronunciarse sobre el Número de Identificación Tributaria – NIT que se debe utilizar para registrar al tercero en el reporte contable o de la información exógena. Se recomienda que la entidad defina este procedimiento internamente y que las inquietudes en materia tributaria sean dirigidas a la Unidad Administrativa Especial – Dirección de Impuestos y Aduanas Nacionales – U.A.E. DIAN, u otras autoridades tributarias nacionales, municipales o distritales. CARLOS AUGUSTO MOLANO RODRÍGUEZ …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ffa70f91-6043-4e7c-b0de-72445f0ec53b",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"NIIF 15"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0540": {
+"id": "t-2023-0540",
+"anio": 2023,
+"num": "0540",
+"fecha": "2023-12-20",
+"tema": "Libros contables – registro",
+"resumen": "",
+"consulta": "“1. Agradeceré me informen cuáles son los libros obligatorios de contabilidad, según la interpretación actual que tenga dicha junta sobre el particular. 2. Así mismo, solicito se me indique cuál es el fundamento legal que respalda la respuesta proporcionada”.",
+"respuesta": "En respuesta a su consulta sobre el registro de los libros, le invitamos a leer el título IV del Código de Comercio, artículos 48 a 58, y a tener en cuenta lo establecido en los artículos 173 al 175 del Decreto-Ley 019 de 2012, los cuales se detallan a continuación: “Artículo 173. Libros del comerciante. El artículo 56 de Código del Comercio quedará así: Artículo 56. Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a la reglamentación del Gobierno. Los libros podrán llevarse en archivos electrónicos, que garanticen en forma ordenada la inalterabilidad, la integridad y seguridad de la información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con la reglamentación que expida el Gobierno Nacional”. Modifíquese el numeral 5 del artículo 57 del Código de Comercio: 5. Arrancar hojas, alterar el orden de las mismas o mutilar los libros, o alterar los archives electrónicos”. “Artículo 175. Registro de los libros de comercio. El numeral 7 del artículo 28 del Código de Comercio, quedará así: 7. Los libros de registro de socios o accionistas, y los de actas de asamblea y juntas de socios”. Así mismo, transcribimos lo señalado en respuesta a consultas emitidas por el CTCP entorno a los libros oficiales de contabilidad y su registro: Concepto CTCP Comentario 2023-0403 “Es importante destacar que, tal como se mencionó en la respuesta a De octubre 3 de 2023 la segunda pregunta, lo fundamental es que estos registros cumplan con los marcos técnicos normativos y se generen de acuerdo con la normatividad vigente en Colombia. Además, es esencial que su conservación, independientemente del medio …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=6748fe03-b861-4f3d-8066-77f696c71965",
+"menciones": [
+"et:632"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 2,
+"con_texto": true
+},
+"t-2023-0529": {
+"id": "t-2023-0529",
+"anio": 2023,
+"num": "0529",
+"fecha": "2023-12-20",
+"tema": "Impuestos diferidos - compensación",
+"resumen": "",
+"consulta": "“Un contrato de arrendamiento, que genera un activo subyacente 1000 UM y un pasivo por arrendamiento de acuerdo con la NIIF 16 990 UM en su medición posterior del cierre, con respecto al impuesto diferido, este se reconoce independiente en activo y el pasivo como en la opción 1 o se puede netear reconociendo el pasivo o el activo solamente opción 2, teniendo en cuenta que la diferencia corresponde al mismo contrato de arrendamiento.”",
+"respuesta": "Dando respuesta a su consulta, los impuestos diferidos generados con ocasión a un contrato de arrendamiento bajo NIIF 16 estos deben ser reconocidos por la naturaleza que les corresponden (activo o pasivos), cumpliendo con los lineamientos establecidos en el anexo 1 del Decreto Único Reglamentario 2420 de 2015 de la NIC 12 – Impuesto a las ganancias, en la cual se indica que los activos o pasivos por impuestos diferidos solo se pueden compensar si se cumplen los requisitos que se establecen en la norma en mención para tal propósito. Algunos numerales de la norma señalan: “10 Cuando la base fiscal de un activo o un pasivo no resulte obvia inmediatamente, es útil considerar el principio fundamental sobre el que se basa esta Norma, esto es, que la entidad debe, con ciertas excepciones muy limitadas, reconocer un pasivo (activo) por impuestos diferidos, siempre que la recuperación o el pago del importe en libros de un activo o pasivo vaya a producir pagos fiscales mayores (menores) que los que resultarían si tales recuperaciones o pagos no tuvieran consecuencias fiscales (…)” “51 La medición de los pasivos por impuestos diferidos y los activos por impuestos diferidos reflejará las consecuencias fiscales que se derivarían de la forma en que la entidad espera, al final del periodo sobre el que se informa, recuperar o liquidar el importe en libros de sus activos y pasivos.” “74 Una entidad debe compensar activos por impuestos diferidos con pasivos por impuestos diferidos si, y solo si: a. tiene reconocido legalmente el derecho de compensar, activos corrientes por impuestos contra pasivos corrientes por impuestos; y b. los activos por impuestos diferidos y los pasivos por impuestos diferidos se derivan del impuesto a las ganancias correspondientes a la misma autoridad fiscal, …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=d90d5a49-6322-4528-84d2-2fcd59c8e3b3",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF plenas (Grupo 1)",
+"NIC 12",
+"NIIF 16"
+],
+"traslado": false,
+"trib": 42,
+"con_texto": true
+},
+"t-2023-0512": {
+"id": "t-2023-0512",
+"anio": 2023,
+"num": "0512",
+"fecha": "2023-12-12",
+"tema": "Alcance consulta 2023-0429",
+"resumen": "",
+"consulta": "“Pertenece al régimen tributario especial – ESAL debido a que realiza una actividad meritoria en el sector Cultura, con base al análisis del marco contable pertenece al Grupo 2 NIIF para PYMES. Es una entidad autónoma con personería jurídica propia, se rige por el derecho privado en lo que respecta a su organización y es de naturaleza mixta. Para efectos de la presentación de Estados Financieros comparativos 2022-2021, se presenta la siguiente situación frente a la revelación de reinversión de excedentes de acuerdo con Decreto Único Reglamentario 2150 de 2017; Para el año 2021 la Asamblea General aprobó excedentes fiscales por valor de $595.730.334 y los excedentes contables fueron por valor de $548.821.173. Lo anterior generó que el registro contable efectuado como valor a reinvertir es el excedente fiscal lo cual se refleja en el Estado de Cambios del Patrimonio, por tanto, nos surge la inquietud si bajo el entendido que este es el excedente que determina la Ley fiscal bajo el Decreto 2150 de 2017 y teniendo en cuenta que, para este caso en particular, por la existencia de diferencias entre los tratamientos contables y fiscales, lo cual es normal debido a la independencia y …",
+"respuesta": "Con respecto a la inquietud del peticionario y considerando las aclaraciones recibidas, con relación a la asignación permanente1 para una forma societaria (corporación) clasificada como asistencialista. Siendo la contabilidad una sola y que las preguntas versan sobre el tratamiento de los excedentes fiscales, estas no son de competencia del CTCP y le corresponde a la autoridad fiscal (DIAN) su resolución, por lo que nos permitimos señalar lo manifestado en el concepto 2020-08762 emitido por este Consejo, donde al respecto indicó: “(…) Para contextualizar la respuesta al consultante, referenciaremos los principales requerimientos en carácter tributario respecto de los excedentes en una entidad inscrita en el Régimen Tributario Especial. No obstante, solo nos referiremos a cuestiones contables, pero no a situaciones tributarias que no son de competencia del CTCP: • El beneficio neto o excedente (para efectos fiscales) incluye la totalidad de los ingresos de cualquier naturaleza, a los que se les resta el valor de los egresos que tengan relación de causalidad con los ingresos o con el cumplimiento de su objeto social, incluyendo en los egresos las inversiones que hagan en cumplimiento de este (artículo 357 del Estatuto tributario); • El beneficio neto tendrá la calidad de exento, cuando se destine directa o indirectamente, en el año siguiente a aquel en el cual se obtuvo, a programas que desarrollen el objeto social y la actividad meritoria de la entidad (artículo 358 del Estatuto tributario); Definición DOT 14, página 45. “a. Aportes permanentes: Son activos sin contraprestación directa entregados a una ESAL, no rembolsables al aportante ni siquiera a la liquidación de la entidad. Al momento de la constitución se efectúan aportes iniciales por los fundadores, pero no …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=4282497a-3d89-46e9-b654-fdb05761467a",
+"menciones": [
+"dur:1.2.1.5.1.29",
+"et:357",
+"et:358"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 35,
+"con_texto": true
+},
+"t-2023-0536": {
+"id": "t-2023-0536",
+"anio": 2023,
+"num": "0536",
+"fecha": "2023-12-12",
+"tema": "Ingresos brutos contables y Notas crédito",
+"resumen": "",
+"consulta": "“(…) Algunas normas tributarias acuden al termino “Ingresos Brutos” para referirse a la forma de liquidar los correspondientes impuestos, resulta adecuado que el CTCP se refiera a dicho termino ya que en algunas ocasiones la norma tributaria nos dirige a la técnica contable para determinar criterios de tratamiento, pero este término no tiene una definición concreta. Por ejemplo, el Art 904 ET señala que la base gravable del impuesto unificado bajo el régimen simple son los ingresos brutos ordinarios y extraordinarios, percibidos en el respectivo periodo gravable, los ingresos a tener en cuenta para la base gravable son los del Art 28 ET (Art 1.5.8.1.4. del DUR 1625, modificado por el artículo 2 del Decreto 1091 de 2020) es decir los determinados en la técnica contable; los ingresos contables pueden ser afectados por disminuciones que permiten reflejar la realidad de los ingresos percibidos debido a diferentes circunstancias como son errores humanos, devoluciones totales o parciales, rebajas o descuentos etc. Para la técnica contable vigente para el grupo 2 (Anexo 2 Decreto 2483 de 2018 NIIF para PYMES) los ingresos son “Incrementos en los beneficios económicos, producidos a lo …",
+"respuesta": "En referencia a la consulta y de acuerdo al párrafo anterior, es importante señalar que el CTCP no tiene competencia para abordar asuntos tributarios de las sociedades, como los planteados por el peticionario. Las inquietudes en materia tributaria deben ser dirigidas a la Unidad Administrativa Especial – Dirección de Impuestos y Aduanas Nacionales – U.A.E. DIAN. Además, es relevante recordar que el artículo 4º de la Ley 1314 de 2009 establece la “Independencia y autonomía de las normas tributarias frente a las de contabilidad y de información financiera ”. Por lo tanto, “Únicamente para fines fiscales, cuando se presente incompatibilidad entre las normas contables y de información financiera y las de carácter tributario, prevalecerán estas últimas”. Con relación al ámbito contable y financiero, se da respuesta a los planteamientos e inquietudes del consultante: 1. ¿Cuál podría ser una definición acertada de ingreso bruto, para efectos de las evaluaciones tributarias que se basan en la técnica contable? Mediante el concepto 2022-04891 emitido por el CTCP, con relación a los “ingresos brutos contables”, se manifestó: “(…) Es pertinente señalar que el término “ingreso bruto” al que se hace mención en la consulta, no está expresado en las normas de contabilidad ni de información financiera. Conforme a los marcos técnicos legales vigentes, la NIIF 15 de las NIIF Plenas, la Sección 23 de la NIIF para las Pymes y el Capítulo 12 de la NIF para las Microempresas no tratan el concepto de ingresos brutos ni de ingresos netos por separado, dado que el “ingreso de actividades ordinarias” por definición comprende las entradas brutas de beneficios económicos recibidos y por recibir, por parte de la entidad y por cuenta propia, si bien es cierto que se deducen de esas entradas brutas …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=e3a9ec90-74ab-4e4f-9930-2e7cf69a5d52",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"NIIF 15",
+"Sección 23 NIIF para las Pymes"
+],
+"traslado": false,
+"trib": 18,
+"con_texto": true
+},
+"t-2023-0522": {
+"id": "t-2023-0522",
+"anio": 2023,
+"num": "0522",
+"fecha": "2023-12-11",
+"tema": "Registro de aportes – ONG",
+"resumen": "",
+"consulta": "“(…) TERMINOS Primero – Reconocimiento de las ONG sin ánimo de lucro en Colombia. En virtud del Decreto Ley 19 de 2012, art 50 y la Ley 1564 de 2012, art 58, último texto que señala: Artículo 58. Representación de personas jurídicas extranjeras y organizaciones no gubernamentales sin ánimo de lucro. La representación de las sociedades extranjeras con negocios permanentes en Colombia se regirá por las normas del Código de Comercio. Las demás personas jurídicas de derecho privado y las organizaciones no gubernamentales sin ánimo de lucro con domicilio en el exterior que establezcan negocios o deseen desarrollar su objeto social en Colombia, constituirán apoderados con capacidad para representarlas judicialmente. Para tal efecto protocolizarán en una notaría del respectivo circuito la prueba idónea de la existencia y representación de dichas personas jurídicas y del poder correspondiente. Además, un extracto de los documentos protocolizados se inscribirá en la oficina pública correspondiente. Las personas jurídicas extranjeras que no tengan negocios permanentes en Colombia estarán representadas en los procesos por el apoderado que constituyan con las formalidades previstas en este …",
+"respuesta": "Primero: En caso de que una ONG extranjera sin ánimo de lucro constituya representación directa en Colombia, el dinero que reciba inicialmente dicha “oficina de representación” a efectos de adquirir los predios y pagar los gastos administrativos consecuentes de dicha implementación, deberán registrarse inicialmente en una cuenta contable del patrimonio o en qué otra cuenta contable. Tal como se enuncia en el Documento de Orientación Técnica – DOT 14 emitido en el 2015 – Entidades sin ánimo de lucro1, y con la entrada en vigencia de los marcos técnicos normativos, se hace necesario evaluar a una entidad con el fin de clasificarla en alguno de los tres grupos establecidos en Colombia. Esto determinará cómo llevar la contabilidad, ya sea de acuerdo con la NIF para microempresas, la NIIF para las Pymes o las NIIF Plenas, según corresponda. El reconocimiento y presentación de partidas en los estados financieros, especialmente aquellas que conforman el patrimonio, dependerá de la capacidad de influencia de los constituyentes de la entidad. En este contexto, es pertinente referirse al literal “b Elementos de los estados financieros”, del numeral “2 Estados Financieros” del documento mencionado: “No hay diferencia entre los elementos de los estados financieros de una entidad lucrativa y los de una ESAL, por lo cual las definiciones incluidas en los marcos técnicos normativos son las mismas para ellas. Sin embargo, dada su naturaleza, estas entidades pueden presentar partidas que no son muy frecuentes en las entidades comerciales, dadas las restricciones que hay a menudo sobre los activos, la existencia de subvenciones estatales en muchos casos, las diferentes modalidades de contribuciones y la naturaleza de los aportes. Con respecto a este último punto, es bueno anotar que …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=54370bba-4be0-4ff5-acfe-626921dc4742",
+"menciones": [
+"et:19",
+"et:20",
+"et:20-2",
+"et:30",
+"et:356",
+"et:356-2",
+"et:364"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 1819 de 2016",
+"NIIF 10",
+"Sección 9 NIIF para las Pymes"
+],
+"traslado": false,
+"trib": 26,
+"con_texto": true
+},
+"t-2023-0523": {
+"id": "t-2023-0523",
+"anio": 2023,
+"num": "0523",
+"fecha": "2023-12-01",
+"tema": "Reconocimiento – Impuesto de renta",
+"resumen": "",
+"consulta": "“(…) Escribo en calidad de Contador Público que está en proceso de asumir en contrato de prestación de servicios, la contabilidad de una PYME, en donde, a la fecha y en orden natural, ya se encuentra elaborado el cierre contable del año 2022 y se ha generado toda la información financiera de parte del Contador saliente. En el proceso de recepción de la información me he encontrado con un par de hechos que me llaman la atención y que, uno de ellos puede afectar la Utilidad fiscal y por ende el Impuesto de Renta, y el otro caso podría considerarse como una compensación de saldos o sobrestimación de activos y pasivos, según se mire. La situación que encuentro es que el Contador saliente, AL CIERRE DEL AÑO 2022 ha realizado el proceso de determinación del Impuesto de Renta 2022, pero en su proceso de reconocimiento contable (insisto, en el cierre del año 2022) ha procedido a registrar el correspondiente Gasto por Impuesto de Renta, ha liquidado o Acreditado las cuentas de Retenciones practicadas a la Empresa, ha calculado el posible Anticipo de Impuesto de Renta 2023 y ha generado la cuenta de Impuesto de Renta por Pagar. La consulta se centra en conocer el concepto sobre si ese …",
+"respuesta": "Mediante el concepto 2023-01241 emitido por el CTCP el 13 de junio del año en curso, con fecha de radicado 18 de abril del 2023, se dio respuesta a esta misma consulta. JAIRO ENRIQUE CERVERA RODRÍGUEZ Consejero – CTCP",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=f8f26f0a-3090-4da9-8441-5dfa27aaa507",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 34,
+"con_texto": true
+},
+"t-2023-0484": {
+"id": "t-2023-0484",
+"anio": 2023,
+"num": "0484",
+"fecha": "2023-11-27",
+"tema": "Propiedad Horizontal – Temas varios",
+"resumen": "",
+"consulta": "Las consultas que se realizan es de una Propiedad Horizontal que se rige bajo la Ley 675 de 2001. Existe en curso un proceso de impugnación de asamblea ordinaria celebrada el 17 de marzo del 2023 del Edificio (…) – Propiedad Horizontal en dónde el mayor dueño con un coeficiente según lo presentado en Asamblea es del 53,51% es la Sociedad (…) – S.A. cabe anotar que en éste momento el proceso está en etapa conciliatoria, para lo cual se realizó la Asamblea extraordinaria el 23 de Septiembre de 2023 y la asamblea en uso de sus facultades nombró una comisión conciliadora, a la cual pertenecemos. Los estados financieros de la vigencia 2022, presentados en la Asamblea fueron certificados y dictaminados por contadores públicos con tarjetas profesionales vigentes. La administradora y el contador renunciaron el 15 de Julio del 2023 actualmente existe otro administrador nombrado por el Consejo de administración de la Copropiedad. 1. El presupuesto de la Propiedad Horizontal desde el 2006, no se ha presentado para aprobación de Asamblea, porque quién realiza esa función es el Consejo de administración según lo escrito en el reglamento de propiedad horizontal, dónde el mayor número de …",
+"respuesta": "En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: 1. ¿Qué tiempo existe para hacer el cambio de reglamento de propiedad horizontal, siendo conocedores la administración, la revisoría fiscal, el Consejo de administración de todos los errores del actual Reglamento de la Propiedad Horizontal, porque en el articulado vulnera las normas contenidas en la Ley 675 y que se entienden por no escritos? Se recomienda tener en cuenta lo indicado en la Ley 675 de 2001, en el artículo 46 decisiones que requieren mayoría calificada1, numeral 5°. Reforma a los estatutos y reglamento. ¿Si el Consejo de administración actual, es el que posee el mayor número de coeficientes, de igual la administración y la revisoría fiscal no convocan a Asamblea extraordinaria para realizar cambios al reglamento y no se logra el 20% de coeficientes de los demás copropietarios cuál es el mecanismo para convocar a Asamblea extraordinaria para cambiar el reglamento? Al respecto, se sugiere revisar los procedimientos establecidos en el artículo 392 de la Ley 675 de 2001 para conocer los mecanismos específicos para convocar a una asamblea extraordinaria con el propósito de cambiar el reglamento. 2. ¿Las convocatorias a Asambleas ordinarias y extraordinarias de la propiedad horizontal según la ley y el reglamento de la propiedad establecen que se debe adjuntar la lista de deudores morosos, que debe contener este anexo E: nombre, valor, coeficiente, etc.? Como se mencionó en el carácter del CTCP, este Organismo no tiene competencia para abordar estos asuntos. Se recomienda observar lo indicado en el parágrafo 2° del artículo 46 de la Ley 675 de 2001. 3. ¿El proyecto de presupuesto debe anexarse a las convocatorias de asambleas ordinarias y se debe establecer las cuotas de …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=e3e2c02d-51a8-4314-ae81-f3eba40a4a9a",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 22,
+"con_texto": true
+},
+"t-2023-0419": {
+"id": "t-2023-0419",
+"anio": 2023,
+"num": "0419",
+"fecha": "2023-11-20",
+"tema": "Aportes en especie",
+"resumen": "",
+"consulta": "“(…) El suscrito, (…), ciudadano colombiano, identificado con la cédula de ciudadanía número (…) de Bogotá, en ejercicio del DERECHO DE PETICIÓN en interés particular consagrado en el artículo 23 de la Constitución Política Colombiana y desarrollado en el Título II, Capítulo I del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, modificado en lo pertinente por la Ley 1755 de 2015 y 2080 de 2021, acudo ante su Entidad para solicitar aclaración del Tratamiento Contable aplicable bajo las siguientes: 1.1. A través del Concepto No. 1-2020-013242 del 5 de junio de 2020, el Consejo Técnico de la Contaduría Pública (en adelante “CTCP”) estableció que la entrega de aportes en especie puede asimilarse a una transacción de permuta, mediante la cual el socio o partícipe entrega un bien o derecho, a cambio de recibir participaciones de la Entidad. En este caso, dice el CTCP que, las normas del grupo 1 o 2 requieren que el costo de dicho elemento se mida por su valor razonable y, en caso de no medirse por su valor razonable, su costo se medirá por el importe en libros del activo entregado. 1.2. En este sentido, en el referido Concepto se hizo mención de las siguientes …",
+"respuesta": "Ante todo es necesario aclararle que los conceptos a que se hacen referencia como emitidos por el CTCP: Concepto No. 1-2020-013242 del 5 de junio de 2020 y el Concepto No. 1-2022-007736, corresponden a conceptos a las consultas 2020-0556 y 2022-186. PETICIÓN 1: ¿Cómo se registra contablemente bajo estándares NIIF un aporte en especie de una cuenta por cobrar por parte del acreedor a la sociedad deudora, cuyo valor nominal (facial) es X pero su costo fiscal es Y (inferior) al haber sido adquirida con descuento (factoring)? Considerando que la transacción se realiza de forma directa entre el deudor y el acreedor le sugerimos a la entidad revisar lo descrito en los estatutos respecto a los pagos de acciones en especie, y lo previsto en el artículo 398 del Código de Comercio para el pago de acciones en especie. Ahora, tratándose del reconocimiento y medición de aportes diferentes a los realizados en efectivo (aportes en especie), el párrafo 22.7 de la NIIF para las PYMES, establece: \"Emisión inicial de acciones u otros instrumentos de patrimonio 22.7 Una entidad reconocerá la emisión de acciones o de otros instrumentos de patrimonio como patrimonio cuando emita esos instrumentos y otra parte esté obligada a proporcionar efectivo u otros recursos a la entidad a cambio de éstos: (a) si los instrumentos de patrimonio se emiten antes de que la entidad reciba el efectivo u otros recursos, la entidad presentará el importe por cobrar como una compensación al patrimonio en su estado de situación financiera, no como un activo; (b) si la entidad recibe el efectivo u otros recursos antes de que se emitan los instrumentos de patrimonio, y no se puede requerir a la entidad el reembolso del efectivo o de los otros recursos recibidos, la entidad reconocerá el correspondiente incremento …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=2f9e5950-689f-4068-af40-120c60269712",
+"menciones": [
+"et:319"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"NIIF 2"
+],
+"traslado": false,
+"trib": 5,
+"con_texto": true
+},
+"t-2023-0434": {
+"id": "t-2023-0434",
+"anio": 2023,
+"num": "0434",
+"fecha": "2023-11-10",
+"tema": "Inquietudes – Grupo 3",
+"resumen": "",
+"consulta": "“(…) Paso a realizar las siguientes preguntas respecto de los preparadores de información del Grupo 3. 1. ¿Los preparadores de información del Grupo 3, se encuentran sujetos a efectuar ajustes por diferencia en cambio? 2. ¿Los preparadores de información del Grupo 3, se encuentran sujetos a efectuar ajustes a valor razonable? 3. ¿Los preparadores de información del Grupo 3, se encuentran sujetos a calcular impuesto diferido? 4. ¿Una sociedad ya existente que migre al Grupo 3 (en cumplimiento de los requisitos), que tiempo deberá permanecer en dicho grupo, si con posterioridad deja de cumplir los mencionados requisitos?... 3 años como sucede con las nuevas sociedades?... Las nuevas entidades que se constituyan podrán permanecer en el grupo 3 y aplicar la norma de información financiera del anexo 3 de este Decreto, hasta por un período de 3 años, aún en el evento de no cumplir los requisitos estipulados en el presente artículo. (…)”",
+"respuesta": "1. ¿Los preparadores de información del Grupo 3, se encuentran sujetos a efectuar ajustes por diferencia en cambio? Respecto a la pregunta planteada, aunque la NIF para microempresas, denominada “contabilidad simplificada” no trate específicamente sobre la transacción, suceso o condición relacionado con ajustes por diferencia en cambio, las transacciones en moneda extranjera correspondientes a partidas monetarias deberán ser convertidas a la moneda funcional de la entidad para propósitos de la presentación de estados financieros de propósito general. La Entidad podrá, de conformidad con el Capítulo II – Conceptos y principios generales, del Anexo No. 3 del D.U.R. 2420 de 2015, utilizar de acuerdo con las circunstancias, bases de medición de la NIIF para las Pymes o las NIIF plenas, cumpliendo todos los requisitos que dichas bases de medición establezcan. De presentarse transacciones en moneda extranjera, la diferencia en cambio es un rubro del estado de resultados que se origina al convertir un determinado número de unidades de una moneda a otra moneda, utilizando tasas de cambio diferentes (ver párrafo 8 de la NIC 21). La diferencia en cambio (en el estado de resultados) se genera por mantener activos y pasivos monetarios en una moneda extranjera1, es decir derechos a recibir (o la obligación de entregar) una cantidad fija o determinable de unidades monetarias 2. Todos los activos y pasivos monetarios mantenidos en moneda extranjera deben expresarse en el estado de situación financiera a la tasa de cambio de cierre 3, dicha diferencia por actualización a la tasa de cambio de cierre, se reconocerá en el estado de resultados 4 a menos que se utilice la contabilidad de coberturas 5, o se trate de una partida monetaria que forme parte de la inversión neta de un negocio en …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=4cae6a8e-a843-466e-bc1a-4c6bf8159f95",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 1819 de 2016",
+"Marco técnico NIIF plenas (Grupo 1)",
+"Marco técnico microempresas (Grupo 3)",
+"NIC 21",
+"NIIF 21"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0455": {
+"id": "t-2023-0455",
+"anio": 2023,
+"num": "0455",
+"fecha": "2023-11-09",
+"tema": "Certificaciones ante la DIAN – Revisor Fiscal",
+"resumen": "",
+"consulta": "“(…) En visita de la Dian relacionada con el trámite de una compensación en renta que nuestra compañía esta tramitando, nos solicita que el revisor fiscal certifique para el 2022 año que está revisando la Base de los conceptos por salariales y justifique y certifique una conciliación de pérdidas fiscales. Este año hicimos en mayo cambio de revisor fiscal, la Dian solicita que las certificaciones deben ser firmadas por el revisor fiscal anterior que firmo la renta ya que él tiene los papeles de trabajo y conoce las cifras y son hechos ocurridos durante su periodo de ejercicio, procedimos a solicitarle esta información, pero argumenta que NO está obligado a hacerlo y que es ilógico que se le solicite. 1. ¿Pregunta el Revisor Fiscal anterior debe certificarme lo que solicita la Dian? ¿Existe alguna normatividad que le obligue? La revisoría actual también argumenta que como son hechos sobre los cuales el revisor anterior tiene conocimiento, debe certificarlos. (…)”",
+"respuesta": "Como bien se indica en su consulta, la solicitud realizada por la DIAN es para que sea certificada por el revisor fiscal, que lo es quien está en ejercicio, y no por el ex revisor fiscal. Las explicaciones que pueda solicitar cualquier entidad del Estado sobre certificaciones o dictámenes emitidos por un revisor fiscal, lo cual puede hacer con fundamento en sus facultades o funciones tal como se indica en las diferentes normas, es para quien las emitió, en este caso, para quien era el revisor fiscal al emitirlas en su condición de tal, y quien responde por las consecuencias de esa certificación o dictamen. Por tanto, en nuestro concepto, se debe distinguir si el Organismo Estatal está solicitando una certificación al revisor fiscal, la cual debe atender con fundamento en lo ordenado por el artículo 207 del Código de Comercio, o si es una comprobación para quien en su momento suscribió las certificaciones que se entregaron al Organismo o institución que las haya solicitado o suscrito por mandato legal. Cualquier aclaración al respecto, le recomendamos dirigirla directamente a la DIAN, por tratarse de la Unidad Especial responsable de la fiscalización impositiva y por tanto, de las declaraciones que se le deben entregar.",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=5186d3ea-1faa-40b5-b0b8-9a60c8ddbc92",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 9,
+"con_texto": true
+},
+"t-2023-0457": {
+"id": "t-2023-0457",
+"anio": 2023,
+"num": "0457",
+"fecha": "2023-10-31",
+"tema": "Nombramiento revisor fiscal – registro PH",
+"resumen": "",
+"consulta": "“¿Siendo el nombramiento del revisor fiscal potestativo, es necesario su registro en la Alcaldia Local y la DIAN? ¿Es obligatorio que el revisor fiscal que es potestativo, vigile que el representante legal de la copropiedad haya inscrito su nombramiento mediante asamblea (el revisor fiscal) ante la alcaldía local y ante la DIAN?”",
+"respuesta": "Mediante el concepto 2023-00601, el CTCP precisó: “(…) • La inscripción del nombramiento del revisor fiscal: se realiza mediante la presentación ante el funcionario o entidad competente de los documentos que lo acrediten como tal (acta de asamblea general de copropietarios). (Ley 675 de 2001 art 8)”. El CTCP se ha pronunciado en diferentes ocasiones sobre las funciones y alcance del revisor fiscal en una copropiedad, para lo cual le recomendamos revisar, entre otros, los conceptos: 2023-0436, 2023-0119, En consecuencia, es importante precisar que dentro de las funciones del revisor fiscal no está el vigilar las actuaciones del representante legal, esta función es de competencia plena de la asamblea general de copropietarios. Así mismo, quién está obligado a hacer el registro del revisor fiscal en una propiedad horizontal es el administrador, como se indicó en concepto 110802 del 02/03/2012, emitido por la Secretaría General Alcaldía Mayor de Bogotá: 1. \"¿Es obligación registrar ante la Alcaldía al Revisor Fiscal realizados (sic) en Asambleas de copropietarios, en una copropiedad Residencial, (sic) ya que la ley 675/01, no establece obligación de nombrar Revisor Fiscal para copropiedades Residenciales (sic)?\" 2. \"Como básicamente la certificación lo que da (sic) es publicidad ante terceros, no se requiere certificación de la Alcaldía, para que se reconozca al Revisor Fiscal, ya que los mismos copropietarios en Asamblea fueron quien (sic) lo eligieron.\" Al respecto cabe hacer las siguientes precisiones: La Ley 675 de 2001 fijó el marco normativo del régimen de propiedad horizontal, y en su artículo 1° determina que su objeto es regular la forma especial de dominio, denominado propiedad horizontal, en la que concurren derechos de propiedad exclusiva sobre bienes privados …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=7baa2106-1f99-41d8-a282-3b21679ef6e3",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0413": {
+"id": "t-2023-0413",
+"anio": 2023,
+"num": "0413",
+"fecha": "2023-10-23",
+"tema": "Tarifa de tributación en el sector de extracción y comercialización del carbón",
+"resumen": "",
+"consulta": "",
+"respuesta": "Doctora ANDREA LILIANA ROMERO LÓPEZ Secretaria General CORTE CONSTITUCIONAL DE COLOMBIA E-mail: [correo] Respuesta al Oficio No.0321 – Acción Pública de Inconstitucionalidad Expediente.D0015187 REFERENCIA: No. del Radicado 1-2023-028996 Fecha de Radicado 16 de agosto del 2023 Nº de Radicación CTCP 2023-0413 Tema Tarifa de tributación en el sector de extracción y comercialización del carbón En atención a la amable invitación de la Honorable Corte Constitucional de Colombia, a presentar un concepto técnico dentro de la Acción Pública de Inconstitucionalidad identificada con la “Referencia: Expediente.D0015187. Ley 2277 de 2022, artículo 10, que modifica el artículo 240 del Estatuto Tributario; artículo 19 que modifica el artículo 115 del Estatuto Tributario. Magistrado Ponente: Antonio José Lizarazo Ocampo”. Respecto de temas que versan sobre la tarifa de tributación y los posibles impactos del aumento de esta carga al sector de extracción y comercialización del carbón, así como las experiencias internacionales en el diseño e implementación de regímenes fiscales para industrias extractivas (correspondientes a los aspectos i), ii), iii) y iv) solicitados por la Corte), se debe precisar inicialmente que estos asuntos, corresponden, en nuestro entendimiento, a temas de índole estrictamente tributaria. En atención a lo indicado por la Ley 1314 de 2009 “Por la cual se regulan los principios y normas de contabilidad e información financiera y de aseguramiento de información aceptados en Colombia, se señalan las autoridades competentes, el procedimiento para su expedición y se determinan las entidades responsables de vigilar su cumplimiento”, ésta es explícita en cuanto a la independencia y autonomía de las normas tributarias, frente a las normas de contabilidad y de …",
+"ponente": "Jimmy Jay Bolaño Tarrá",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=660df8bc-23dd-47ed-a250-cae6e739af59",
+"menciones": [
+"et:115",
+"et:240"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 2277 de 2022"
+],
+"traslado": false,
+"trib": 10,
+"con_texto": true
+},
+"t-2023-0454": {
+"id": "t-2023-0454",
+"anio": 2023,
+"num": "0454",
+"fecha": "2023-10-20",
+"tema": "Gastos diferidos – Impuesto predial",
+"resumen": "",
+"consulta": "“(…) Comedida y atentamente, me permito elevar a ustedes la siguiente consulta. Bajo normas internacionales de información financiera ‐ NIIF para Pymes‐, es debido o procedente que una sociedad propietaria de locales comerciales y de apartamentos, reconozca en Diferidos los impuestos prediales que debe pagar al municipio donde se encuentran ubicados estos bienes, y a su vez estos impuestos los difiera dentro del mismo año amortizándolos en los doce meses del periodo contable correspondiente. Que partidas y conceptos, es procedente o se deben reconocer bajo NIIF para pymes, como diferidos?”.",
+"respuesta": "Para dar respuesta a la inquietud planteada, es pertinente aclarar inicialmente que la NIIF para las Pymes es un estándar de preparación y presentación de estados financieros de propósito general, y dentro de su alcance no se incluye el tratamiento contable relacionado con el registro de transacciones específicas como la planteada por el peticionario. Así mismo, el concepto de “diferidos” no se encuentra definido en esta normatividad. Con relación al tema del reconocimiento del impuesto predial, el CTCP dio respuesta detallada mediante el concepto 2019-0869, el cual podrá encontrar en el siguiente enlace: JAIRO ENRIQUE CERVERA RODRÍGUEZ Consejero – CTCP",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ab647e68-7b91-4e1d-b8d0-f73e9d201559",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 5,
+"con_texto": true
+},
+"t-2023-0449": {
+"id": "t-2023-0449",
+"anio": 2023,
+"num": "0449",
+"fecha": "2023-10-20",
+"tema": "Responsabilidad del Contador",
+"resumen": "",
+"consulta": "“(…) Un contador ejerce su labor en una empresa durante todo el año presentando los Estados Financieros Intermedios y los Estados Financieros del año, sin embargo no presenta (ni firma) la Declaración de Renta de dicho año. Mi consulta es: La Empresa podría solicitar información al contador que presentó los Estados Financieros Intermedios y definitivos del año en caso de que la DIAN solicitará información de la Declaración de Renta de esa vigencia?”",
+"respuesta": "Es importante señalar que el CTCP no tiene competencia para abordar asuntos tributarios de las sociedades, como los planteados por el peticionario. Las inquietudes sobre esta materia deben ser dirigidas a la Unidad Administrativa Especial – Dirección de Impuestos y Aduanas Nacionales – U.A.E. DIAN. Con respecto a las relaciones del Contador Público con los usuarios de sus servicios, se tendrán en cuenta las disposiciones establecidas en los artículos 41 a 51 de la Ley 43 de 1990, incluyendo además las disposiciones contenidas en el contrato de prestación de servicios o en el contrato laboral. La responsabilidad profesional del Contador Público está limitada al período especificado en el contrato y a las actuaciones realizadas de acuerdo con el mismo. En cuanto a la información contable necesaria para determinar las bases fiscales relacionadas con la declaración de renta, esta debe estar disponible por parte de la entidad para dar respuesta a los requerimientos de los diferentes entes de control del estado, en cumplimiento del Anexo 61 del Decreto Único Reglamentario 2420 de 2015, responsabilidad que compete conforme al acuerdo contractual a quien se encuentre ejerciendo el cargo, por cuanto la responsabilidad fiscal es del contribuyente. JAIRO ENRIQUE CERVERA RODRÍGUEZ Consejero – CTCP https://www.ctcp.gov.co/publicaciones-ctcp/compilaciones-normativas/anexo-6-del-dur-2420-de-2015-normas-sobre-sistema-/compilacion- anexo-6-a-diciembre-31-de-2020-normas",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=dfbb35d8-df43-4064-955a-eca9b943f728",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0448": {
+"id": "t-2023-0448",
+"anio": 2023,
+"num": "0448",
+"fecha": "2023-10-19",
+"tema": "Beneficio a empleados por vacaciones anticipadas",
+"resumen": "",
+"consulta": "“Me podrían colaborar con la siguiente consulta: 1. Una Sociedad SAS en Dic/2023 envía a todos sus empleados a vacaciones colectivas, como consecuencia de ello a algunos empleados que aun no tienen derecho por no cumplir el año de servicio se les pagan vacaciones anticipadas a. Para efectos del impuesto de renta 2023 es deducible en RENTA este pago anticipado de vacaciones a empleados? b. En la nómina electrónica de Diciembre de 2023 como se reporta este pago de vacaciones anticipadas teniendo en cuenta que no constituye un gasto aun? c. Para el caso de un empleado que ingreso en Julio de 2023 Y al corte de diciembre tendría derecho a 7 días de vacaciones, pero como le pagan por anticipado 15 días ( los cuales incluyen los 7 que ya tenia el derecrecho) como se reportan en la nómina electrónica los otros 8 días que no se han causado pero se le pagan?”",
+"respuesta": "En referencia a la consulta y de acuerdo al párrafo anterior, es importante señalar que el CTCP no tiene competencia para abordar asuntos tributarios de las sociedades, como los planteados por el peticionario. Las inquietudes en materia tributaria deben ser dirigidas a la Unidad Administrativa Especial – Dirección de Impuestos y Aduanas Nacionales – U.A.E. DIAN. Sin embargo, dentro de las respuestas emitidas por parte del CTCP respecto del tema relacionado con el beneficio a empleados por vacaciones anticipadas (objeto de la consulta), pueden consultarse diferentes • Reconocimiento pasivo por vacaciones (CTCP No. 2020-0251) • Beneficios a empleados (CTCP No. 2018-1102) 0409c3a2a0ea • Grupo 2 tratamiento de vacaciones anticipadas bajo NIIF (CTCP No. 2016-7) d1272aaf2a87 CARLOS AUGUSTO MOLANO RODRÍGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=40886d4a-d874-4da8-82c7-de94039ee9d4",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0445": {
+"id": "t-2023-0445",
+"anio": 2023,
+"num": "0445",
+"fecha": "2023-10-17",
+"tema": "Donaciones o auxilios amparados en convenios o acuerdos Internacionales",
+"resumen": "",
+"consulta": "“(…) En el marco de la Ley 788 de 2002 artículo 96, modificado por el artículo 138 de la Ley 2010 de 2019 reglamentado por el Decreto 540 de 2004, se configuró un programa de utilidad común en Colombia, se cumple con la normatividad vigente para que dichos recursos sean exentos de impuestos, sin embargo el manejo contable de los recursos entregados por la Fundación Donante del exterior no es clara y tampoco se encuentra algún tipo de norma o técnica contable referente al tema. En ese sentido, la primera consulta se refiere al tratamiento y manejo contable que se le debe dar a los recursos recibidos. ¿Si son parte del ingreso o se manejan en un pasivo como ingresos recibidos para terceros?, entendiendo que la realidad económica de la empresa no es que dichos recursos recibidos generen una utilidad o excedente económico, sino que por el contrario generan una utilidad social y no afecten el estado de resultados de la entidad. Como segunda consulta, si los recursos se manejan como un pasivo y la entidad donante exige factura para recibir dichos recursos, ¿cómo se puede facturar electrónicamente sin que para la Dian estos recursos sean un ingreso de la empresa?”",
+"respuesta": "En primer lugar, es importante aclarar que una vez emitidos los decretos que ponen en vigencia los estándares de contabilidad e información financiera en Colombia, el tratamiento contable debe realizarse conforme al marco técnico normativo aplicable a cada entidad. Dado que la consulta no especifica a qué grupo pertenece la entidad en cuestión, este concepto se desarrolla teniendo como referencia el Marco Técnico Normativo de la NIIF para las Pymes correspondiente al Grupo 2, que se encuentra contenido en el Anexo 2 del Decreto Único Reglamentario 2420 de 2015. En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: ¿Si son parte del ingreso o se manejan en un pasivo como ingresos recibidos para terceros? Con relación al tratamiento contable, los fondos provenientes de auxilios o donaciones de entidades o gobiernos extranjeros convenidos con el Gobierno Colombiano, destinados a realizar programas de utilidad común y amparados por acuerdos intergubernamentales, deben reconocerse según la Sección 24 – Subvenciones del Gobierno, de la NIIF para las Pymes, la cual establece: Reconocimiento y medición Criterio establecido en la Sección 24 Subvenciones que no imponen condiciones de rendimiento Se reconocerán como ingreso cuando los importes futuro de manera específica obtenidos por la subvención sean exigibles. Subvenciones que imponen condiciones de rendimiento Se reconocerán como ingreso solo cuando se cumplan las futuro de manera específica condiciones de rendimiento. Subvenciones recibidas antes de que se satisfagan los Se reconocerán como pasivo. criterios de reconocimiento de ingresos de actividades ordinarias Medición de la subvención recibida Una entidad medirá las subvenciones al valor razonable del activo recibido o por recibir. Ayuda …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ca2abede-016e-48b4-b573-995e7dbd0aa2",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 2010 de 2019",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"Sección 24 NIIF para las Pymes"
+],
+"traslado": false,
+"trib": 8,
+"con_texto": true
+},
+"t-2023-0389": {
+"id": "t-2023-0389",
+"anio": 2023,
+"num": "0389",
+"fecha": "2023-10-10",
+"tema": "Firma declaraciones en PH",
+"resumen": "",
+"consulta": "“Buen día, quisiera saber si un revisor fiscal está obligado a firmar una declaración de retención en la fuente, cuando según su juicio no se están tomando las bases correctas en el momento de calcular la retención en la fuente pero no sustenta por medio de alguna norma su postura y, por otra parte, el equipo contable y tributario de la Propiedad Horizontal le indica al revisor fiscal el por qué de las bases tomadas y lo sustenta por medio de conceptos emitidos por la DIAN. ¿es posible que ella se niegue rotundamente a no firmar ? considerando que existe la opción de firmar con salvedades y que ella puede emitir un comunicado/certificado a la propiedad horizontal sustentando con normas su posición.”",
+"respuesta": "Dando respuesta al peticionario, este Consejo consdiera que el revisor fiscal tiene la obligación de firmar el impuesto, mas no es responsable de los datos consignados en la declaración de su cliente ni de las interpretaciones que éste haga sobre los conceptos emitidos por la administración tributaria. Asi mismo hace una aclaración del alcance del CTCP para pronunciarse en las respuestas a las consultas o derechos de petición, solo en temas Contables, Financieros y de aseguramiento, por lo anterior, mediante el concepto 2021-03471 que emitió el CTCP, se reitera: CARLOS AUGUSTO MOLANO RODRÍGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=1176c24b-a1d6-4993-b399-722f00f4d4cd",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 12,
+"con_texto": true
+},
+"t-2023-0429": {
+"id": "t-2023-0429",
+"anio": 2023,
+"num": "0429",
+"fecha": "2023-10-09",
+"tema": "Impuesto diferido",
+"resumen": "",
+"consulta": "“Para el año 2021 la Asamblea General aprobó excedentes fiscales por valor de $595.730.334 y los excedentes contables fueron por valor de $548.821.173, presentando así una diferencia de $46.909.161; Para efectos de la presentación de Estados Financieros comparativos 2022-2021 referente a los excedentes fiscales y contables se presentó aplicando dicha diferencia en el Patrimonio. Por lo anterior, hacemos la solicitud del concepto de reconocimiento, medición y presentación en términos contables para la dicha situación”.",
+"respuesta": "En primer término, debemos aclarar que, una vez emitidos los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe ser aplicado de acuerdo con el marco técnico normativo correspondiente a la entidad. Como no se indica en la consulta el grupo al que pertenece la entidad en cuestión, este concepto se basa en el Marco Técnico Normativo de la NIIF para las PYMES correspondiente al Grupo 2, contenido en Anexo 2 del Decreto Único Reglamentario 2420 de 2015. Mediante el concepto 2022-05221 que emitió el CTCP, en respuesta a una consulta similar, se indicó: “La sección 29 - Impuesto a las ganancias de la NIIF para Pymes, indica en el reconocimiento general del impuesto diferido2: Tomado del DUR 2420 de 2015, Anexo 2 NIIF para Pymes, Sección 29 Impuesto a las ganancias, Párrafo 29.8 “Una entidad reconocerá un activo o pasivo por impuestos diferidos por el impuesto por recuperar o pagar en periodos futuros como resultado de transacciones o sucesos pasados. Este impuesto surge de la diferencia entre los importes en libros de los activos y pasivos de la entidad en el estado de situación financiera y los importes atribuidos a los mismos por parte de las autoridades fiscales (estas diferencias se denominan “diferencias temporarias”), y la compensación de pérdidas o créditos fiscales no utilizados hasta el momento procedentes de periodos anteriores”. Las diferencias temporarias no requieren ser registradas en la contabilidad. (…) Lo que se debe reconocer son el activo o pasivo por impuesto diferido, cuya medición se determina por las tasas impositivas que se aplican a las diferencias temporarias3: “Una entidad medirá un pasivo (o activo) por impuestos diferidos usando las tasas impositivas y la legislación fiscal que hayan …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=e401b024-eab5-41cd-87d6-d540d90800c9",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 16,
+"con_texto": true
+},
+"t-2023-0344": {
+"id": "t-2023-0344",
+"anio": 2023,
+"num": "0344",
+"fecha": "2023-10-05",
+"tema": "Expensas comunes extraordinarias e IVA en PH",
+"resumen": "",
+"consulta": "“De manera respetuosa, solicito de su amable gentileza despejando la duda y suministrando información respecto a la normatividad que resulte aplicable sobre si en las propiedades horizontales de uso mixto se puede cobrar expensas adicionales a la cuota de administración con causa en el uso del salón comunal y si dicho cobro debe ser facturado cobrando IVA”.",
+"respuesta": "Con respecto a la pregunta del peticionario, es importante destacar que el CTCP no tiene competencia para pronunciarse sobre los temas relacionados con el cobro de expensas adicionales a la cuota de aministración en propiedades horizontales. Este tema está contemplado en el régimen de propiedad horizontal, consagrado en la Ley 675 de 2021. Le recomendamos que consulte la Orientación Técnica No. 15 “Copropiedades de uso residencial o mixto Grupos 1, 2 y 3”, emitida por este Consejo. En esta orientación se hace referencia a expesas comunes extraordinarias de la siguiente forma: Las expensas comunes extraordinarias surgen cuando se presentan imprevistos, o cuando los recursos reservados en el Fondo de imprevistos no son suficientes para atender las expensas comunes necesarias en que incurre la copropiedad; su monto y destinación solo podrá establecerse y aprobarse por la Asamblea de Propietarios. El incumplimiento del pago de las expensas causará intereses de mora de una y media veces el interés bancario corriente certificado por la Superintendencia Financiera de Colombia, a menos que la Asamblea de Propietarios determine una tasa inferior (Núm. 4°, Art. 38, y Art. 30, de la Ley 675 de 2001)”. CARLOS AUGUSTO MOLANO RODRÍGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=5e304b53-f7cf-4df3-8bae-5e935a52a151",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0480": {
+"id": "t-2023-0480",
+"anio": 2023,
+"num": "0480",
+"fecha": "2023-09-25",
+"tema": "Inquietudes Contador público – Revisor Fiscal",
+"resumen": "",
+"consulta": "“(…) Que es cierto que la DIAN con la creación de la factura electrónica ya realiza cruces, según la norma. Pero en la empresa donde ejerzo contablemente, llevan las facturas electrónicas de gastos personales, de pagos de universidad de algunos empleados, de gastos de mercados de empleados, en este último a fin de pagarles como salario o bonificación, lamentablemente en esa sociedad siempre hay que buscar la forma de actuar ilegal. 1. ¿la empresa se puede llevar las facturas electrónicas por todo concepto de empleados y otros terceros, de gastos ajenos a la realidad económica y actividad generadora de renta para bajar o sacar dineros de la empresa de la manera más evasiva? 2. ¿la empresa puede llevar los prestamos a socios al inventario, siendo estos susceptibles de incrementar el patrimonio de uno y otro lado? 3. ¿Puede el contador negarse a firmar estos estados financieros y/o reflejar en las revelaciones tal situación? 4. ¿Puede el revisor fiscal de la empresa aceptar estos registros contables, ocultándolos o no reflejándolos en las notas a los estados financieros? 5. ¿Puede el revisor fiscal, que lleva más tiempo que el contador pasar por alto facturas de ventas que no son …",
+"respuesta": "1. ¿la empresa se puede llevar las facturas electrónicas por todo concepto de empleados y otros terceros, de gastos ajenos a la realidad económica y actividad generadora de renta para bajar o sacar dineros de la empresa de la manera más evasiva? 2. ¿la empresa puede llevar los préstamos a socios al inventario, siendo estos susceptibles de incrementar el patrimonio de uno y otro lado? 4. ¿Puede el revisor fiscal de la empresa aceptar estos registros contables, ocultándolos o no reflejándolos en las notas a los estados financieros? 5. ¿Puede el revisor fiscal, que lleva más tiempo que el contador pasar por alto facturas de ventas que no son verdaderas a fin de acogerse al beneficio de auditoria? 6. ¿Si hay ventas y compras electrónicas y no hay bancarización, es aceptable este cruce y deducciones de renta, a fin de bajar rentas y acogerse al beneficio de auditoria? En cuanto a las inconsistencias de orden fiscal (Preguntas 1, 2, 4, 5 y 6) descritas en la consulta, este Consejo trató el tema en el concepto 2019-0894, en el cual se expuso lo siguiente: “El artículo 1° de la Ley 43 de 1990, menciona la facultad entregada por parte del estado a los contadores públicos relacionada con la fe pública de hechos propios del ámbito de su profesión, esto requiere: observar las normas de ética profesional, actuar con sujeción a las normas de auditoría de general aceptación, cumplir con las normas legales vigentes y vigilar que el registro de la información contable se fundamente en principios de contabilidad generalmente aceptados en Colombia (Art. 8°, Ley 43 de 1990). Otros artículos de la Ley 43 de 1990, que se refieren a situaciones como las expuestas en su consulta son las siguientes: 1. Podría ser causal de suspensión de la inscripción de un contador público la violación de las …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=6f45c9c4-1e49-4f97-84b2-352dd304ddb8",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 222 de 1995",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 8,
+"con_texto": true
+},
+"t-2023-0325": {
+"id": "t-2023-0325",
+"anio": 2023,
+"num": "0325",
+"fecha": "2023-08-04",
+"tema": "Impuesto diferido – Compensación",
+"resumen": "",
+"consulta": "“(…) por medio del presente escrito presento ante ustedes consulta con base en las siguientes consideraciones: 1. El Consejo Técnico de la Contaduría Pública tiene el carácter de organismo de normalización técnica de normas de contabilidad, de información financiera y de aseguramiento de la información y se encuentra facultado para servir de órgano consultivo para los particulares sobre aspectos técnicos de la contabilidad. 2. La NIC 32 – Presentación: Instrumentos Financieros, en su párrafo 42 establece lo siguiente: “Un activo y un pasivo financiero se compensarán, y su importe neto se presentará en el estado de situación financiera cuando y sólo cuando la entidad: a. tenga, en el momento actual, el derecho, exigible legalmente, de compensar los importes reconocidos; y b. tenga la intención de liquidar por el importe neto, o de realizar el activo y liquidar el pasivo simultáneamente. En la contabilización de una transferencia de un activo financiero que no cumpla los requisitos para su baja en cuentas, la entidad no compensará el activo transferido con el pasivo asociado (véase la NIIF 9, párrafo 3.2.22)”. 3. La NIC 12 – Impuesto a las Ganancias, en sus párrafos 71 al 76 …",
+"respuesta": "En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: 1. ¿Cuándo la entidad reconoce el impuesto diferido activo, como resultado del análisis de recuperabilidad de pérdidas fiscales, la autoridad tributaria tiene la obligación de reconocer un pasivo por dicho valor? Con relación a esta pregunta, el CTCP no tiene competencia para pronunciarse sobre el reconocimiento de obligaciones del sector público. El tratamiento contable de estos pasivos se encuentra dentro del Régimen de Contabilidad Pública emitido por el organismo normalizador y regulador – Contaduría General de la Nación. Es pertinente señalar que, para el reconocimiento de impuestos diferidos de naturaleza activa relacionados con pérdidas y créditos fiscales no utilizados en una entidad del Grupo 1, como se indica en la consulta, se deben cumplir con los requerimientos de la NIC 12 – Impuesto a las ganancias, párrafos 34 a 36, incluidos en el anexo 1 del Decreto Único Reglamentario 2420 de 2015. Esto incluye la consideración de la probabilidad de generación de suficientes ganancias fiscales futuras contra las cuales se puedan compensar. 2. Con base en la pregunta 1, ¿se puede determinar que existe un contrato entre la entidad y la autoridad tributaria? La relación entre una entidad, como la indicada en la consulta, y la autoridad tributaria, se basa en el cumplimiento de obligaciones fiscales establecidas por las leyes y regulaciones tributarias vigentes en el país. Por lo tanto, al no generarse una relación mediante cláusulas contractuales o acuerdos, no se constituye un activo ni un pasivo financiero para las partes, como se entiende por parte del peticionario al hacer mención a la NIC 32 – Instrumentos Financieros: Presentación. Es importante mencionar que esta norma alude al …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=176d62ad-46a4-4cd3-9cf6-b8a5c47bc8b3",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF plenas (Grupo 1)",
+"NIC 12",
+"NIC 32",
+"NIIF 9"
+],
+"traslado": false,
+"trib": 57,
+"con_texto": true
+},
+"t-2023-0274": {
+"id": "t-2023-0274",
+"anio": 2023,
+"num": "0274",
+"fecha": "2023-07-31",
+"tema": "Ingresos cooperativas – transporte de pasajeros",
+"resumen": "",
+"consulta": "“La presente solicitud es acerca de los ingresos recibidos de la prestación de servicios de transporte de pasajeros, vehículo afiliado a una cooperativa de transporte que es la encargada de recibir dichos ingresos. El contribuyente en mención es una persona natural, responsable de I.V.A, agente retenedor y obligado a presentar renta en el régimen ordinario. Clasificado en el Grupo 2 NIIF para pymes. Las inquietudes son las siguientes: La Cooperativa en mención se encarga de recaudar el producido del bus de forma mensual (en el terminal de transporte), de estos ingresos se descuenta la comisión de los servicios de recaudo, cuota mensual del asociado, pago de salarios del conductor, pago de mantenimiento del vehículo, combustibles, lubricantes y entrega anticipos de viaje al conductor para pago de peajes, alimentación, hoteles y restaurante. El remanente es consignado en la cuenta bancaria del asociado. 1. ¿La Cooperativa debe facturar la comisión que cobra por el recaudo del producido del bus a nombre del asociado? 2. ¿El asociado debe emitir factura electrónica del total del producido a la Cooperativa para reconocer en la contabilidad dichos ingresos? 3. ¿Como se puede reconocer …",
+"respuesta": "En primer lugar, debemos resaltar que las respuestas del CTCP solo producen efectos contables, por ello nuestras orientaciones podrían diferir de lo requerido para efectos fiscales. En caso de existir inquietudes respecto de temas tributarios éstas deberían dirigirse a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales – DIAN. Respecto de los ingresos propios y de terceros: Los ingresos de la cooperativa corresponden únicamente a las entradas brutas de los beneficios económicos recibidos o por recibir directamente por parte de la entidad. Las cantidades percibidas en nombre de terceros (asociados) no constituyen entradas de beneficios económicos para la entidad y no generan aumentos en el patrimonio, dado que representan una intermediación en el servicio de transporte y, por lo tanto, deben ser reconocidas como pasivos. Lo anterior está señalado en el anexo 2 del Decreto Único Reglamentario 2420 de 2015 que incorpora la NIIF para las Pymes, específicamente en la Sección 23 – Ingresos de actividades ordinarias: Párrafo 23.4 “Una entidad incluirá en los ingresos de actividades ordinarias solamente las entradas brutas de beneficios económicos recibidos y por recibir por parte de la entidad, actuando por cuenta propia. Una entidad excluirá de los ingresos de actividades ordinarias todos los importes recibidos por cuenta de terceras partes tales como impuestos sobre las ventas, impuestos sobre productos o servicios o impuestos sobre el valor añadido. En una relación de agencia, una entidad (el agente) incluirá en los ingresos de actividades ordinarias solo el importe de su comisión. Los importes recibidos por cuenta del principal no son ingresos de actividades ordinarias de la entidad”. Subrayado fuera del texto. Respecto de la facturación de la …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=af562441-bb97-4741-80dc-79c367a0c2bc",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0287": {
+"id": "t-2023-0287",
+"anio": 2023,
+"num": "0287",
+"fecha": "2023-07-31",
+"tema": "Revisor fiscal en comunidades religiosas",
+"resumen": "",
+"consulta": "“1. Sírvase indicar si una comunidad religiosa con personería jurídica otorgada por el Ministerio de Justicia está obligada a contar con revisor fiscal. 2. Sírvase indicar si en una comunidad religiosa que al momento de constituirse contempla la figura de contador y de revisor fiscal, este último tiene la facultad de firmar las declaraciones de impuestos de dicha comunidad religiosa. En caso de que la respuesta a este interrogante sea afirmativa, sírvase indicar en qué casos el revisor fiscal de una comunidad religiosa podría firmar las declaraciones de impuestos tales como ReteICA y Rete fuente de dicha comunidad religiosa.”",
+"respuesta": "Una comunidad religiosa debe realizar cumplimiento a las leyes que versan en materia contable y de revisoría fiscal en Colombia. Por lo cual en materia de normas de contabilidad e información financiera, de aseguramiento de información y revisoría fiscal deberá cumplir con lo preceptuado en la Ley 1314 de 2009 y su Decreto reglamentario 2420 de 2015, la Ley 43 de 1990 y el Código de Comercio al cual remite el artículo 15 de la Ley 1314 de 2009. Al tener la obligación de tener revisor fiscal por mandato legal o estatutario, éste debe cumplir con las funciones que le han sido legalmente y estatutariamente asignadas, al igual que los administradores deben cumplir con lo señalado en el artículo 23 de la Ley 222 de 1995. Mediante concepto del CTCP No. 2007-2041 indicó: “(…) entre los derechos fundamentales contemplados por la Carta Política, consagra el Artículo 14 que “Toda persona tiene derecho al reconocimiento de su personalidad jurídica”. Igualmente el tercer inciso del Artículo 15, ibídem, preceptúa que “para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados en los términos que señala la ley. (…) la Sentencia de la Corte Constitucional T-352 de 1997, usan el término “congregación religiosa” como sinónimo de “comunidad religiosa”, sinonimia que se confirma conforme se colige de la acepción consignada en el Diccionario Océano, de sinónimos y antónimos (edición 2002), según la cual son la “reunión de personas religiosas o seglares que se rigen por los mismos estatutos o que tienen unos mismos fines piadosos”. Estas comunidades o congregaciones se caracterizan por sus fines sin ánimo de lucro y en tal virtud, al tenor de lo expuesto por …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=43fdca24-75e0-4753-b6cf-75e5963c6a7d",
+"menciones": [
+"et:580"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 222 de 1995"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0198": {
+"id": "t-2023-0198",
+"anio": 2023,
+"num": "0198",
+"fecha": "2023-07-18",
+"tema": "Hipótesis negocio en marcha – entidad en liquidación",
+"resumen": "",
+"consulta": "“Una entidad ingresa a partir del 01/01/20XX en estado de liquidación, y posteriormente entrega gran parte de su propiedad planta y equipo a un tercero bajo un contrato de comodato con el fin de restituir algún tiempo después. 1) Sabiendo que de estos activos (al menos en el corto plazo) no se espera obtener un valor estimado de efectivo u otra contraprestación. ¿Cuál debería ser su reconocimiento inicial en el balance inicial de liquidación? 2) Sabiendo que de estos activos (al menos en el corto plazo) no se espera obtener un valor estimado de efectivo u otra contraprestación. ¿Cuál debería ser su medición posterior en el estado de los activos netos en liquidación? 3) ¿Debería continuar la depreciación en consideración que los activos siguen en uso (ajeno) y aun no se tiene certeza de la disposición de venta? (Se pone a consideración que el agente liquidador reconocerá el uso que se dio mientras estuvieron entregados en comodato para determinar su valor de venta). La entidad antes del inicio de liquidación cuenta con partidas de impuesto diferido. 1) ¿Que tratamiento se debe otorgar a dichas partidas cuando con certeza en la próxima presentación de renta su estado será de …",
+"respuesta": "Preguntas: 1) Sabiendo que de estos activos (al menos en el corto plazo) no se espera obtener un valor estimado de efectivo u otra contraprestación. ¿Cuál debería ser su reconocimiento inicial en el balance inicial de liquidación? 2) Sabiendo que de estos activos (al menos en el corto plazo) no se espera obtener un valor estimado de efectivo u otra contraprestación. ¿Cuál debería ser su medición posterior en el estado de los activos netos en liquidación? 3) ¿Debería continuar la depreciación en consideración que los activos siguen en uso (ajeno) y aun no se tiene certeza de la disposición de venta? (Se pone a consideración que el agente liquidador reconocerá el uso que se dio mientras estuvieron entregados en comodato para determinar su valor de venta). Por referirse inicialmente a un contrato de comodato, el Código Civil lo define en su artículo 2200 como: “El comodato o préstamo de uso es un contrato en que una de las partes entrega a la otra gratuitamente una especie mueble o raíz, para que haga uso de ella, y con cargo de restituir la misma especie después de terminar el uso. Este contrato no se perfecciona sino por la tradición de la cosa”. Encontrándose la entidad en estado de liquidación, las directrices para el reconocimiento de los activos son las establecidas en el anexo 5 del DUR 2420 de 2015, sin perjuicio de que existan o no existan activos disponibles que sirvan como fuente de pago. Por ende, los activos involucrados en el contrato de comodato, deberán ser reconocidos por el comodante (entidad en liquidación) siempre y cuando no haya transferido los riesgos y beneficios principales derivados de la propiedad de estos activos, caso contrario deberá darlos de baja en sus libros, pues la norma señala: Anexo 5 DUR 2420 de 2015 Numeral 32: “Una entidad que use …",
+"ponente": "Carlos Augusto Molano Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=054abf93-e3fa-4ce9-881b-74afc2c551e0",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 222 de 1995"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0297": {
+"id": "t-2023-0297",
+"anio": 2023,
+"num": "0297",
+"fecha": "2023-07-11",
+"tema": "Certificación dependientes – Contador Público",
+"resumen": "",
+"consulta": "“(…) Con el fin de obtener el beneficio tributario en Renta para una persona natural que a su vez, es profesional de la Contaduría Pública; conforme a lo reglado por el Artículo 1.2.4.1.18 del DUT 1625/2016, parágrafos 4 y 5 y en concordancia con la Ley 43 de 1990 que reglamenta la profesión de contador. ¿Existe alguna incompatibilidad para que yo, siendo profesional de la contaduría con tarjeta profesional vigente, pueda firmar mi propia certificación de dependientes? Me parece que no hace sentido pagar a otro profesional contable por una certificación de la cual, nadie mejor que yo conoce de las normas tributarias respecto de las leyes arriba mencionadas. Lo anterior dado que hace pocos meses me vinculé a una entidad privada, donde firmé mi propia certificación de dependiente económico respecto de mi madre, con el fin de obtener la deducción por dependientes vía retención en la fuente; y hasta el momento la empresa sigue haciendo este descuento, obviando la certificación esbozada previamente”.",
+"respuesta": "Ante todo, el decreto citado tiene en su artículo los numerales 4 y 5 y no parágrafos. Mediante el concepto 2020-01051 que emitió el CTCP, en respuesta a una consulta similar con relación a las “certificaciones del contador público”, manifestó: “(…) Las certificaciones que emite el contador público, no se pueden equiparar a trabajos de aseguramiento o de auditoria definidos en el anexo 4 del DUR 2420 de 2015. No existe una definición en nuestro ordenamiento legal de las “certificaciones”, pero podrían definirse como un documento suscrito por contador público que certifica un hecho expresado en la certificación y que tiene como objetivo servir de soporte ante un tercero al que se le asegura la verdad de un hecho. Dicha certificación puede ser elaborada por una empresa o entidad a la que le consta dicha situación, pero cuando esta es firmada por parte de un contador público se entenderá que “el acto respectivo se ajusta a los requisitos legales”2 y deberá tenerse en cuenta que el contador es “depositario de la confianza pública, da fe pública cuando con su firma y número de tarjeta profesional suscribe un documento en que certifique sobre determinados hechos económicos”3 (tomado de las consultas 2020-0020 y 2019-0760) Por lo anterior, es necesario que al firmar una certificación, el contador público exprese lo que ha encontrado a través de los soportes que respaldan dicha certificación, pero no debe emitir una seguridad razonable o limitada sobre lo certificado. Lo anterior debido que no se trata de un trabajo de aseguramiento. Algunas consideraciones que podrían ser tenidas en cuenta respecto de las certificaciones son las siguientes: • El certificado expedido por un contador público deberá ser claro, preciso y ceñido estrictamente a la verdad (artículo 69 de la Ley 43 …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=b98061fb-7aa2-4440-8e73-a7131c54ac44",
+"menciones": [
+"et:777"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0293": {
+"id": "t-2023-0293",
+"anio": 2023,
+"num": "0293",
+"fecha": "2023-07-11",
+"tema": "Revisoría Fiscal - Firma declaraciones",
+"resumen": "",
+"consulta": "“(…) Amablemente, solicito su colaboración con respecto a la siguiente consulta: Una empresa que en el año 2022 no era obligada a tener revisor fiscal, pero para el año 2023 ya es obligada y actualmente debe presentar unas correcciones en declaraciones de retenciones en la fuente del año gravable 2022, ¿Estas correcciones las debe firmar el contador que estaba durante el año 2022, quien firmó y presentó dichas declaraciones en su momento y que actualmente se encuentra entregando su cargo o debe ser el revisor fiscal que fue elegido para el año 2023? Para este mismo caso el representante legal que firmó estas declaraciones renunció el 4 de mayo, por lo tanto se eligió un nuevo representante legal ¿Por cuál representante legal debería ser firmadas estas correcciones?”",
+"respuesta": "En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: ¿Estas correcciones las debe firmar el contador que estaba durante el año 2022, quien firmó y presentó dichas declaraciones en su momento y que actualmente se encuentra entregando su cargo o debe ser el revisor fiscal que fue elegido para el año 2023? Mediante el concepto 2022-05231 que emitió el CTCP en respuesta a consulta similar sobre la “Firma de las declaraciones”, manifestó: “(…)si se observan las funciones establecidas para el revisor fiscal, tal como lo señala el artículo 580 del Estatuto Tributario, literal d) en concordancia con el numeral 9 del artículo 207 del Código de Comercio, quien debe firmar las declaraciones tributarias, es el revisor fiscal, no el ex revisor fiscal. Y, el revisor fiscal es quien ha sido elegido debidamente de acuerdo al Código de Comercio, ha aceptado el cargo y está ejerciendo el mismo. (…)” Así mismo, en el concepto 2021-01662, el CTCP se ha referido a la responsabilidad en la presentación de las declaraciones tributarias y del revisor fiscal, por lo cual le recomendamos su lectura, por cuanto en él también se expone: “El CTCP se ha referido en diferentes ocasiones acerca de las responsabilidades del contador público, como en los conceptos 2019- 07063, 2020-06204 y 2020-06375 que se refiere a la responsabilidad sobre las declaraciones tributarias, que podrá encontrar en el sitio En cuanto al inicio de la obligación de tener revisor fiscal con las obligaciones que le incumben a éste, parte para el caso, del parágrafo 2 del artículo 13 de la Ley 43 de 1990. ¿Por cuál representante legal debería ser firmadas estas correcciones? En relación a la segunda pregunta, el Consejo Técnico de la Contaduría Pública no tiene competencia para pronunciarse sobre …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=07bf03a1-30d5-459f-99f4-db30577d55cf",
+"menciones": [
+"et:580"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0286": {
+"id": "t-2023-0286",
+"anio": 2023,
+"num": "0286",
+"fecha": "2023-07-10",
+"tema": "Clasificación – Grupo 3",
+"resumen": "",
+"consulta": "“(…) En atención al artículo 313 de la Ley 2294 del 2023, el CTCP estima que, ¿existe un efecto en la clasificación de las entidades del grupo 3?. Esto porque el Decreto 1670 del 2021 remitió al DUR 1074 del 2015 para la clasificación de estas entidades. En el DUR 1074 del 2015 se establece una clasificación basada en los ingresos de actividades ordinaras, la cual está medida en UVT. 1. Ahora para clasificar las empresas del grupo 3, a partir del 1º de enero del 2024, esta clasificación deberá medirse en UVB? 2. Cuál será el valor que se debe considerar para establecer ese valor en UVB? (…)”",
+"respuesta": "El articulo 313 de la Ley 2294 de 2023, por el cual se expide el Plan Nacional de Desarrollo 2022- 2026 “Colombia potencia mundial de la vida”, establece: ARTÍCULO 313. UNIDAD DE VALOR BÁSICO -UVB-. Créase la Unidad de Valor Básico -UVB-. El valor de la Unidad de Valor Básico -UVB- se reajustará anualmente en la variación del Índice de Precios al Consumidor - IPC- sin alimentos ni regulados, certificado por el Departamento Administrativo Nacional de Estadística -DANE- , en el periodo comprendido entre el primero (1) de octubre del año anterior al año considerado y la misma fecha del año inmediatamente anterior a este. El Ministerio de Hacienda y Crédito Público publicará mediante Resolución antes del primero (1) de enero de cada año, el valor de la Unidad de Valor Básico -UVB- aplicable para el año siguiente. El valor de la UVB para el año 2023 será de diez mil pesos ($10.000,00). Todos los cobros; sanciones; multas; tarifas; requisitos financieros para la constitución, la habilitación, la operación o el funcionamiento de empresas públicas y/o privadas; requisitos de capital, patrimonio o ingresos para acceder y/o ser beneficiario de programas del estado; montos máximos establecidos para realizar operaciones financieras; montos mínimos establecidos para el pago de comisiones y contraprestaciones definidas por el legislador; cuotas asociadas al desarrollo de actividades agropecuarias y de salud; clasificaciones de hogares, personas naturales y personas jurídicas en función de su patrimonio y/o sus ingresos ; incentivos para la prestación de servicio público de aseo; y honorarios de los miembros de juntas o consejos directivos, actualmente denominados y establecidos con base en salarios mínimos o en Unidades de Valor Tributario -UVT- , deberán ser calculados con base en …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=54e8f65a-b20b-4ed8-91bf-af7b472690dc",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"Marco técnico microempresas (Grupo 3)"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0110": {
+"id": "t-2023-0110",
+"anio": 2023,
+"num": "0110",
+"fecha": "2023-06-29",
+"tema": "Tope de ingresos - obligación de revisor fiscal",
+"resumen": "",
+"consulta": "“Una compañía durante el año 2022 estuvo obligada a tener revisor fiscal porque durante el año 2021 obtuvo ingresos por más de 3.000.000.000 millones, pero durante el 2022 no superó los 3.000.000.000, por ende para el AÑO 2023 NO está obligada a tener revisor fiscal. La pregunta es, los estados financieros de 2022 y la renta de 2022 deben ser auditados y firmados por revisor fiscal o solo el contador, por el hecho de ya no estar obligados y porque se presentan en el año 2023..”",
+"respuesta": "El parágrafo 2o del artículo 13 de la Ley 43 de 1990 es claro en determinar que: \"Será obligatorio tener revisor fiscal en todas las sociedades comerciales, de cualquier naturaleza, cuyos activos brutos al 31 de diciembre del año inmediatamente anterior sean o excedan el equivalente de cinco mil salarios mínimos y/o cuyos ingresos brutos durante el año inmediatamente anterior sean o excedan al equivalente a tres mil salarios mínimos.\" De donde es fácil concluir que al tener la obligación de nombrar revisor fiscal, éste deberá cumplir con las funciones que le asigna el Código de Comercio y demás normas sobre la materia, como es el caso de la firma de las declaraciones tributarias que correspondan al año en que la empresa debía cumplir con dicho requisito según los artículos 580 y 581 del Estatuto Tributario (año CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA 2022 según la consulta), con las consecuencias que se derivan de su no cumplimiento, sin que se conozca excepción alguna, como la planteda por Ud. CARLOS AUGUSTO MOLANO RODRIGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=bfa6a718-ee44-4236-bef6-6afa47023e0f",
+"menciones": [
+"et:580",
+"et:581"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 3,
+"con_texto": true
+},
+"t-2023-0300": {
+"id": "t-2023-0300",
+"anio": 2023,
+"num": "0300",
+"fecha": "2023-06-28",
+"tema": "Revisoría fiscal - P.H.",
+"resumen": "",
+"consulta": "“(…) Cordial saludo me presento soy contador público y deseo especializarme en propiedad horizontal, por tal motivo, acudo a ustedes como entidad para que me informen todo lo referente a dicho concepto. es decir 1. los papeles de trabajo tienen alguna información particular que debe contemplar 2. debo rendir algún informe a otra entidad diferente a la asamblea 3. existe algún formato preestablecido o base que sirva para llevar mi labor o lo que considere pertinente 4 existe alguna agremiación de revisoría fiscal en propiedad horizontal en Colombia o el exterior a la cual me pueda dirigir (…)”",
+"respuesta": "En cuanto a las preguntas 1 y 3, este Consejo ha expedido los siguientes conceptos: No. CONCEPTO FECHA 2014-012 PAPELES DE TRABAJO 4/04/2014 No. CONCEPTO FECHA 2016-240 EVIDENCIA REVISOR FISCAL 9/04/2016 2016-451 PAPELES DE TRABAJO-AUDITORIA EXTERNA 22/08/2016 2019-1061 EVIDENCIA DE AUDITORÍA 5/11/2019 2021-0114 Revisor Fiscal – papeles de trabajo 12/04/2021 2021-0187 Formato de papeles de trabajo 31/03/2021 2021-0201 Evidencia para dictaminar EEFF 21/05/2021 2021-0636 Evidencia de auditoria 9/12/2021 Respecto a la pregunta 2, este Consejo se manifestó acerca de los informes del revisor fiscal, en la Orientación Técnica No. 15 - Copropiedades de Uso Residencial o Mixto (Grupo 1, 2 y 3), de la siguiente manera: Informes El dictamen es un informe que expresa el juicio profesional del revisor fiscal sobre los asuntos sometidos a su auditoría, entre los que se encuentran los estados financieros, los actos de los administradores, la correspondencia, los comprobantes y los libros de actas, la evaluación del control interno y el cumplimiento de las normas legales, entre las que se integran los aportes al sistema de seguridad social integral, las de propiedad intelectual y derechos de autor. El dictamen deberá emitirse por lo menos una vez al año, generalmente al cierre del período anual, cuando se presenten para aprobación de la Asamblea los estados financieros de propósito general. Tratándose de la revisoría fiscal potestativa, el tipo de informes y la periodicidad de estos deben ser fijados en el reglamento de propiedad horizontal, o por la Asamblea de Propietarios. Las instrucciones son informes que debe emitir el Revisor Fiscal para lograr que los bienes sociales estén adecuadamente protegidos en relación con factores internos o externos, históricos o prospectivos y para …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=f0f60baa-8811-4470-8207-969c84d98af1",
+"menciones": [
+"et:581"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Normas de aseguramiento (NIA)"
+],
+"traslado": false,
+"trib": 3,
+"con_texto": true
+},
+"t-2023-0222": {
+"id": "t-2023-0222",
+"anio": 2023,
+"num": "0222",
+"fecha": "2023-06-28",
+"tema": "Reconocimiento del ingreso",
+"resumen": "",
+"consulta": "“(…) ANTECEDENTES 1. La Empresa (Persona Jurídica) como sujeto pasivo del impuesto de renta y complementario, presta servicios a una empresa Multinacional, los servicios se facturan con fundamento en un documento de recibo y aprobación de los servicios prestados, enviado por la Multinacional, generalmente, entre los días 20 al 25 del mes siguiente a aquel en el cual se hizo la prestación de los servicios. De tal manera que los servicios prestados en el mes de diciembre de cada año, son aceptados por la Multinacional, autorizando la facturación, en los citados días del mes de enero del año siguiente. 2. La Empresa que prestó los servicios, con fundamento en el documento de aceptación y autorización de la Multinacional, procede a emitir o generar las correspondientes Facturas Electrónicas de Venta. 3. Al generar las Facturas Electrónicas de Venta, en el mes de enero, por los servicios prestados en el mes de diciembre del año anterior; en el sistema automáticamente se registran los Ingresos Operacionales, el IVA generado y la correspondiente Retención en la Fuente a Título de Renta. 4. La Multinacional en los certificados emitidos, anualmente, por concepto de Ingresos y Retenciones, …",
+"respuesta": "En primer término, debemos aclarar que habiéndose emitido los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe efectuarse teniendo en cuenta el marco técnico normativo que le corresponda a la entidad. Como no se indica en la consulta el grupo al que pertenece la entidad en cuestión, este concepto se elabora teniendo como referente el Marco Técnico Normativo correspondiente al Grupo 2 – NIIF para las PYMES, contenido en el anexo 2 del Decreto Único Reglamentario 2420 de 2015. Mediante artículo 4 de la Ley 1314 de 2009 se determinó una independencia entre las normas fiscales y las normas contables al señalar lo siguiente: “Las normas expedidas en desarrollo de esta ley, únicamente tendrán efecto impositivo cuando las leyes tributarias remitan expresamente a ellas o cuando estas no regulen la materia. A su vez, las disposiciones tributarias únicamente producen efectos fiscales. Las declaraciones tributarias y sus soportes deberán ser preparados según lo determina la legislación fiscal. Únicamente para fines fiscales, cuando se presente incompatibilidad entre las normas contables y de información financiera y las de carácter tributario, prevalecerán estas últimas. En su contabilidad y en sus estados financieros, los entes económicos harán los reconocimientos, las revelaciones y conciliaciones previstas en las normas de contabilidad y de información financiera”. El principio de reconocimiento establecido en el anexo 2 del DUR 2420 de 2015, párrafo 2.27 de la NIIF para las PYMES establece lo siguiente: “Reconocimiento es el proceso de incorporación en los estados financieros de una partida que cumple la definición de un activo, pasivo, ingreso o gasto y que satisface los siguientes criterios: (a) es probable …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ff4713ea-49cf-4541-9ce4-e17b8b246fc5",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 20,
+"con_texto": true
+},
+"t-2023-0244": {
+"id": "t-2023-0244",
+"anio": 2023,
+"num": "0244",
+"fecha": "2023-06-14",
+"tema": "Propiedad Horizontal – Cuentas separadas e Interés de mora",
+"resumen": "",
+"consulta": "“El Articulo 1.2.1.5.2.5 del Decreto 2170 del 2017, dispone: \"CUENTAS SEPARADAS PARA EFECTOS TRIBUTARIOS\", de acuerdo con lo anterior, las Copropiedades. a quienes se les aplica la norma, deben \"llevar las cuentas separadas de los activos, pasivos, ingresos. cuotas y gastos por las actividades gravadas por el impuesto sobre la renta y complementarios y las originadas en la aplicación de la Ley 675 del 2001\". Con base en lo anterior, CONSULTAMOS si la SEPARACION DE LAS CUENTAS, debe ocurrir, a nivel de cualquier BALANCE que se produzca de tal manera que, POR ejemplo, sean exclusivamente las cifras que allí se reportan de fuente GRAVADA e insertas en la declaración de renta, mientras que los balances, por ejemplo, que se someten a aprobación de la Asamblea, contienen en el mismo cuerpo, los dos grupos de GRAVADOS Y EXENTOS. Por consiguiente, las firmas de quienes suscriben los dos documentos tienen como soporte, las cifras que en cada de uno de ellos se consignan, ambas separadas, DEBITO CREDITO, como lo dispone la ley. Aprovecho la oportunidad para CONSULTAR, si lo previsto en el Artículo 30 de la Ley 675 del 2001, de que \"el retardo en el cumplimiento del pago de expensas causara …",
+"respuesta": "Con relación a la primera inquietud, mediante el concepto 2021-05291 que emitió el CTCP, en respuesta a una consulta similar con relación a “Cuentas separadas para efectos contables y tributarios”, se manifestó lo siguiente: “(…) Con respecto a la solicitud del peticionario, después de analizar su consulta no identificamos una pregunta de carácter técnico- contable; las copropiedades de uso residencial, comercial o mixto, de acuerdo con la Ley 675 de 2001, están obligados a llevar contabilidad, para hacerlo, deben aplicar el marco de información financiera que sea pertinente, si se trata de una copropiedad de uso residencial, es probable que el marco de información financiera aplicable sea el del Grupo 3 del DUR 2420 de 2015, un marco simplificado, no fundamentado en normas internacionales de información financiera, que utiliza el costo como base de medición, y que sólo requiere la preparación y presentación de un balance, que incorpore los activos y pasivos de la copropiedad, un estado de resultados, que incorpora los ingresos y gastos, y las notas a los estados financieros, esto es una estructura simplificada, con menores requerimientos a los que se establecían en el anterior Decreto 2649 de 1993, y que era aplicable para todo tipo de entidades, con ánimo y sin ánimo de lucro. Respecto de la separación de la contabilidad para efectos contables y tributarios, la contabilidad debe llevarse conforme al ordenamiento contable, sin perjuicio de que la información contable se concilie con la de orden tributario y se determinen las diferencias entre dichas bases, no obstante, si se utiliza el costo como base de medición, es probable que las diferencias no sean significativas, dado que las bases contables en su mayoría podrían ser iguales a lo requerido para efectos …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=a170a957-24fd-4d51-b7e0-f86339ac3221",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Decreto 2649 de 1993",
+"Ley 43 de 1990",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 9,
+"con_texto": true
+},
+"t-2023-0277": {
+"id": "t-2023-0277",
+"anio": 2023,
+"num": "0277",
+"fecha": "2023-06-13",
+"tema": "Inquietudes - Retiro revisor fiscal principal",
+"resumen": "",
+"consulta": "“(…) Contexto: una compañía posee una política para el manejo de pensionados la cual no ha sido divulgada, sin embargo, se pretenden aplicar la siguiente directriz principal: una vez cumplido las semanas y tiempo de cotización tal como lo indica la ley, el colaborador recibe la resolución de su pensión y la compañía retira al empleado con justa causa para el disfrute de esta nueva etapa; este colaborador dispondrá de 6 meses para entregar su cargo a quien será su reemplazo. Consulta: En efecto cuando un revisor fiscal quien es nombrado a través de asambleas anuales reciba la resolución de pensión y por ejemplo, ya está recibiendo mesada pensional hace 2 meses. 1.¿Cómo entra a operar el despido por justa causa y la entrega del cargo? 2. ¿Sería procedente una asamblea extraordinaria para el nombramiento de un Revisor Fiscal principal o en su defecto el suplente asume la responsabilidad hasta la nueva asamblea? 3. En la entrega del cargo, durante los 6 meses que establece la política... ¿quién debería firmar declaraciones, impuestos y demás documentación asociada? Desde la perspectiva de controles y mitigar riesgos asociados a este panorama, agradecemos nos compartan sus …",
+"respuesta": "Este Consejo dio respuesta a la peticionaria, a inquietudes similares, en el concepto 2023-0266 con fecha de radicación 10-05-2023, y en el cual se le manifestó: “Ante todo, es importante recordar que el Revisor Fiscal, es completamente independiente de la administración, que solamente está bajo la dependencia de la Ley, los Estatutos y la Asamblea quien tiene libertad para su vinculación y remoción en los términos de los artículos 187, 204 y 206 del Código de Comercio. Igualmente, el revisor fiscal suplente es para que cubra las ausencias del titular como lo establece el artículo 215 del citado Código de Comercio. Por tanto, la vinculación y desvinculación del revisor fiscal, está únicamente en cabeza de la asamblea de quien depende, como bien reza el artículo 210 del mencionado Código, independientemente de la forma de vinculación que tenga, lo cual también es del resorte exclusivo de la asamblea o junta de socios. Si existiere reglamento interno, en concepto de este Organismo, se entiende que éste aplica al personal administrativo y no al revisor fiscal, quien es su fiscalizador como bien lo establece la Ley y cuyas funciones en los términos del artículo 207 debe cumplirlas sobre todas las unidades y operaciones de la empresa, como se desprende de la Jurisprudencia constitucional entre éstas, la sentencia C-780 de 2001. Ayuda a dicho entendimiento los diferentes conceptos emitidos por la Superintendencia de Sociedades, entre ellos el reciente Concepto 16491/2012-03-15, en el cual concluyó que en relación con: “…la vinculación laboral del revisor fiscal con una sociedad, puede hacerse a través de un contrato de trabajo o uno de prestación de servicios en forma independiente…” Por tanto, si la decisión del retiro del revisor fiscal proviene de la asamblea general o …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=1f98d4b8-d25f-467b-ad6f-db0251a907a1",
+"menciones": [
+"et:580"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 3,
+"con_texto": true
+},
+"t-2023-0234": {
+"id": "t-2023-0234",
+"anio": 2023,
+"num": "0234",
+"fecha": "2023-06-13",
+"tema": "Certificados tributarios – incentivo CoCrea",
+"resumen": "",
+"consulta": "“(…) Se solicita a la entidad orientación en el siguiente caso derivado del incentivo de Cocrea. La empresa se encuentra avalada por Cocrea y a los aportantes en calidad de inversionistas se les otorgará el beneficio tributario del 165% que después de deducir el impuesto de renta será una deducción neta del 57.75%. Del valor de la inversión, aseguraremos de entrada el 57.75% con el certificado que emite Cocrea, por lo tanto, la empresa quedará con una cuenta por pagar al inversionista por el 42.25% restante. La pregunta es: 1. ¿Cómo se debe contabilizar el valor del 57.75% que se devolverá al inversionista mediante el certificado de Cocrea, es un ingreso no operacional o bajo qué concepto se debe contabilizar?”",
+"respuesta": "Este Consejo dio respuesta a dicha consulta en el concepto 2022-0440 y fecha de radicación 26-08- 2022 en el cual se conceptuó: “En primer término, debemos aclarar que habiéndose emitido los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe efectuarse teniendo en cuenta el marco técnico normativo que le corresponda a la entidad. Como no se indica en la consulta el grupo al que pertenece el consultante, este concepto se elabora teniendo como referente el Marco Técnico Normativo correspondiente al Grupo 2, contenido en el Decreto Único Reglamentario 2420 de 2015 y sus modificaciones, es decir, la NIIF para las PYMES. Para dar contexto a la consulta, relacionada con los bonos originados en la Corporación Colombia Crea Talento - CoCrea, teniendo en cuenta las normas que originan su creación, se incluye dentro de nuestro análisis lo relacionado en lo pertinente con la Ley 814 de 2003 modificada por la Ley 1607 de 2012, y en lo referente al artículo 195, en concordancia con el Decreto 697 de 2020. De acuerdo al Decreto 697 de 2020, el beneficio del 165% se otorga conforme a los artículos 2.12.2.3.1. y 2.12.2.3.2. El beneficio puede generar un saldo a favor o puede hacerse a través de un certificado de inversión o donación, con carácter negociable en el mercado secundario y que se puede fraccionar. 1. ¿Cómo debe registrar el vendedor ese certificado en su contabilidad? 3. Cuando el certificado es vendido en la vigencia fiscal siguiente ¿cómo debe registrarlo el comprador en su contabilidad? Se considera que una vez el vendedor recibe el título valor (certificado), deberá registrarlo en los estados financieros, aplicando la definición de activos financieros y los lineamientos de reconocimiento inicial, …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=48dea8c3-3ed5-4d9a-b2b9-f91cedeee29d",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 1607 de 2012",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0157": {
+"id": "t-2023-0157",
+"anio": 2023,
+"num": "0157",
+"fecha": "2023-06-13",
+"tema": "Inversión – Persona no obligada a llevar contabilidad",
+"resumen": "",
+"consulta": "“(…) Comedidamente agradezco se me oriente normativamente en cuanto a si una cuenta de ahorro tradicional se puede considerar como una inversión para una persona natural NO obligada a llevar contabilidad, lo anterior teniendo en cuenta las siguientes Consideraciones: La ley 2155 del 2021 estableció para el año gravable 2022, la opción de que los contribuyentes que hubieran tenido activos omitidos y/o pasivos inexistentes a 1 enero del 2022, podrían acogerse al impuesto de normalización tributaria, palabras más, palabras menos, consiste en que el contribuyente paga una tarifa de impuesto sobre dichos activos, en este caso, la tarifa del 17 %, también, la norma plantea la posibilidad de que el contribuyente pueda tomar como base gravable el 50 % de los activos omitidos y/o pasivos inexistentes, ello con el fin de que el impuesto de normalización sea menor, pero, el contribuyente se debe comprometer a que debe repatriar el valor de dichos activos, y que estos deben permanecer en Colombia al menos por dos años, los requisitos son: “Artículo 1.5.7.3 (decreto 1340 del 2021) repatriación de recursos omitidos que sean invertidos con vocación de permanencia. Cuando los contribuyentes …",
+"respuesta": "En primer lugar, dentro de las funciones del CTCP no se encuentra la de interpretar las leyes y normas emitidas por las diferentes autoridades, sino la de orientar en materia técnica-científica el cumplimiento de las mismas, relacionadas con la revisoría fiscal, normas de contabilidad, información financiera y aseguramiento de la información. Como bien lo señala el tratadista Jorge Tua Pereda en su teoría contable,” en esencia, la contabilidad maneja un conjunto de reglas que sirven para elaborar y comunicar información financiera, de manera que aquellas reglas pueden supeditarse a diferentes objetivos”1. Respecto de la Norma Internacional de Contabilidad No. 7 – Estado de Flujos de Efectivo, incorporada en el Anexo No. 1 del D.U.R. 2420 de 2015, enunciada dentro del contexto de la consulta, debe tenerse en cuenta que dicha norma es clara en lo referente al efectivo, equivalentes de efectivo, y a las actividades de inversión en definir al respecto que: “El efectivo comprende tanto el efectivo como los depósitos bancarios a la vista. Los equivalentes al efectivo son inversiones a corto plazo de gran liquidez, que son fácilmente convertibles en importes determinados de efectivo, estando sujetos a un riesgo poco significativo de cambios en su valor”, en tanto que las “Actividades de inversión son las de adquisición y disposición de activos a largo plazo, así como de otras inversiones no incluidas en los equivalentes al efectivo”. Como de lo expuesto en la consulta se entiende que el consultante tiene claridad sobre la aplicabilidad de dicha norma, no es relevante el profundizar mayormente en el tema, máxime que el enfoque de las inquietudes planteadas dentro de la consulta hacen alusión a una persona natural no obligada a llevar contabilidad, este Consejo entiende que la …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=2a4a26bc-c89d-43f7-aede-517a81305128",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 1943 de 2018",
+"Marco técnico NIIF plenas (Grupo 1)",
+"NIC 7"
+],
+"traslado": false,
+"trib": 34,
+"con_texto": true
+},
+"t-2023-0152": {
+"id": "t-2023-0152",
+"anio": 2023,
+"num": "0152",
+"fecha": "2023-06-13",
+"tema": "Regalías",
+"resumen": "",
+"consulta": "“(…) “1. ¿Cuál era el tratamiento contable y financiero que las empresas que explotan recursos naturales no renovables daban a la contraprestación económica a título de regalía que pagan al Estado, antes de la promulgación de la Ley 2277 de 2022, para liquidar el impuesto sobre la renta? 2. ¿Cuál es el tratamiento contable y financiero que las empresas que explotan recursos naturales no renovables deben dar a la contraprestación económica a título de regalía que pagan al Estado, luego de la promulgación de la Ley 2277 de 2022, para liquidar el impuesto sobre la renta? 3. ¿Cuál es el tratamiento contable y financiero que las empresas que usan el espectro electromagnético deben dar a la contraprestación económica que deben pagar al Estado por ese concepto, para liquidar el impuesto sobre la renta? ¿Esas empresas pueden deducir esa contraprestación de la renta líquida gravable del impuesto sobre la renta?”",
+"respuesta": "Traslado parcial por parte de la DIAN, respecto de la solicitud realizada a la Dirección de Impuestos y Aduanas Nacionales – DIAN por parte de la Corte Constitucional para responder unas preguntas formuladas dentro de la acción de inconstitucionalidad contra el artículo 19 de la Ley 2277 de 2022 “Por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones”, que cursa dentro del expediente D-15113 acumulado D-15114. Magistrada Ponente Cristina Pardo Schlesinger: 1. ¿Cuál era el tratamiento contable y financiero que las empresas que explotan recursos naturales no renovables daban a la contraprestación económica a título de regalía que pagan al Estado, antes de la promulgación de la Ley 2277 de 2022, para liquidar el impuesto sobre la renta? se considera pertinente hacer alusión a lo respondido en la consulta 2023-0040 en la cual se expuso: “(…) Ahora bien, tal como se expone en la consulta, las regalías tienen su sustento legal en el artículo 360 de la Constitución Política de Colombia, modificado por el acto legislativo 005 de 2011, “por el cual se constituye el Sistema General de Regalías, se modifican los artículos 360 y 361 de la Constitución Política y se dictan otras disposiciones sobre el Régimen de Regalías y Compensaciones”, donde en su artículo 1º. se ordena que: “La explotación de un recurso natural no renovable causará, a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte. (…) Entiéndase por regalías “el porcentaje sobre el producto bruto del mineral explotado que la Nación exige como propietaria de los recursos naturales no renovables, (…) Las regalías podrán exigirse o convenirse para su pago en especie o …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ca2241e8-a968-462a-915a-4fc0acf7124c",
+"menciones": [
+"et:115"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 2277 de 2022",
+"Marco técnico NIIF plenas (Grupo 1)",
+"NIC 2",
+"NIC 8",
+"NIIF 6"
+],
+"traslado": false,
+"trib": 36,
+"con_texto": true
+},
+"t-2023-0124": {
+"id": "t-2023-0124",
+"anio": 2023,
+"num": "0124",
+"fecha": "2023-06-13",
+"tema": "Reconocimiento – impuesto de renta",
+"resumen": "",
+"consulta": "“(…) Escribo en calidad de Contador Público que está en proceso de asumir en contrato de prestación de servicios (sic), la contabilidad de una PYME, en donde, a la fecha y en orden natural, ya se encuentra elaborado el cierre contable del año 2022 y se ha generado toda la información financiera de parte del Contador saliente. En el proceso de recepción de la información me he encontrado con un par de hechos que me llaman la atención y que, uno de ellos puede afectar la Utilidad fiscal y por ende el Impuesto de Renta, y el otro caso podría considerarse como una compensación de saldos o sobrestimación de activos y pasivos, según se mire. La situación que encuentro es que el Contador saliente, AL CIERRE DEL AÑO 2022 ha realizado el proceso de determinación del Impuesto de Renta 2022, pero en su proceso de reconocimiento contable (insisto, en el cierre del año 2022) ha procedido a registrar el correspondiente Gasto por Impuesto de Renta, ha liquidado o Acreditado las cuentas de Retenciones practicadas a la Empresa, ha calculado el posible Anticipo de Impuesto de Renta 2023 y ha generado la cuenta de Impuesto de Renta por Pagar. La consulta se centra en conocer el concepto sobre si ese …",
+"respuesta": "Cómo se indicó antes, las orientaciones son de carácter general y abstracta, por cuanto al CTCP no le es posible conocer todos los hechos y circunstancias que rodean el reconocimiento, medición, presentación y revelación de un hecho económico. Respecto del impuesto sobre la renta y complementarios, la Sección 29 de la NIIF para las PYMES establecen los requisitos para su reconocimiento y medición. De acuerdo con lo anterior, cada vez que la entidad presente estados financieros de propósito general intermedios o de fin de periodo deberá estimar el importe del impuesto sobre la renta y complementarios (impuesto corriente) considerando las normas contables y fiscales, para la depuración fiscal que determine la base gravable del impuesto en dicho periodo. Ver párrafos 29.4 a 29.6 de la NIIF para las PYMES, los cuales, para su facilidad, citamos a continuación: “Sección 29 Impuesto a las Ganancias (…) Reconocimiento y medición de impuestos corrientes 29.4 Una entidad reconocerá un pasivo por impuestos corrientes por el impuesto a pagar por las ganancias fiscales del periodo actual y los periodos anteriores. Si el importe pagado, correspondiente al periodo corriente y a los anteriores, excede el importe por pagar de esos periodos, la entidad reconocerá el excedente como un activo por impuestos corriente. 29.5 Una entidad reconocerá un activo por impuestos corriente por los beneficios de una pérdida fiscal que pueda ser aplicada para recuperar el impuesto pagado en un periodo anterior. 29.6 Una entidad medirá un pasivo (o activo) por impuestos corrientes a los importes que se esperen pagar (o recuperar) usando las tasas impositivas y la legislación que haya sido aprobada, o cuyo proceso de aprobación esté prácticamente terminado, en la fecha de presentación. Una entidad …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=c168cff2-b604-4e84-95ba-bb2c612af921",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"NIC 12",
+"Sección 29 NIIF para las Pymes"
+],
+"traslado": false,
+"trib": 100,
+"con_texto": true
+},
+"t-2023-0267": {
+"id": "t-2023-0267",
+"anio": 2023,
+"num": "0267",
+"fecha": "2023-06-11",
+"tema": "Requisitos Grupo 3 – aplicación MTN grupo 3 (Reconsideración al concepto 2023–0021 del 20 de enero del 2023)",
+"resumen": "",
+"consulta": "“(…) Cordialmente PIDO su concepto sobre: 1) El Decreto 1670 de 2021 (incluidas las normas legales vigentes y concordantes, si las hubiere) se estipulan los requisitos para pertenecer al grupo 3 lo que las conlleva a la simplificación contable. El citado decreto comienza a regir el 01 de enero de 2023. 2) Lo consultado aquí se refiere a una empresa obviamente obligada a llevar contabilidad. 3) ¿Se deben computar, para pertenecer al grupo 3, los ingresos de las ganancias ocasionales tales como los provenientes de la venta de propiedad planta y equipo poseído por más de dos años? 3) ¿La empresa está obligada a efectuar depreciaciones de su propiedad planta y equipo? 4) ¿La empresa está obligada a registrar la provisión del impuesto de renta? (…)”",
+"respuesta": "Con respecto a las preguntas del peticionario, el Anexo 3 del Decreto Único Reglamentario – DUR 2420 de 2015, establece las directrices que en materia contable deben observar las entidades clasificadas en el Grupo 3. A continuación, damos respuesta a las preguntas realizadas por el peticionario: ¿Se deben computar, para pertenecer al grupo 3, los ingresos de las ganancias ocasionales tales como los provenientes de la venta de propiedad planta y equipo poseído por más de dos años? Frente a la pregunta del peticionario, es importante considerar los requisitos mencionados en el artículo 1 del Decreto Reglamentario 1670 de 2021, que establece: “(…) Artículo 1.1.3.1. Marco Técnico Normativo de Información Financiera denominado Normas de Información Financiera para entidades pertenecientes al Grupo 3. Los preparadores de información financiera con propósito general que conforman el Grupo 3 deberán aplicar la Norma de Información Financiera del Anexo 3 de este Decreto. Sin embargo, podrán optar por aplicar la Norma de Información Financiera del Anexo 2 en los términos de los artículos 1.1.2.1. y 1.1.2.4. del presente Decreto. El Grupo 3 corresponde a las personas naturales y jurídicas obligadas a llevar contabilidad, a quienes sin estar obligados a llevarla pretendan hacerla valer como prueba, y a las microempresas que se clasifiquen como tal, de conformidad con lo establecido en el Capítulo 13, del Título 1, de la Parte 2, del Libro 2 del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo; siempre y cuando cumplan con la totalidad de los siguientes requisitos: (…) 6. No obtener ingresos de actividades ordinarias que superen los topes para microempresas de acuerdo al sector al que pertenezcan, conforme lo establecido en el Decreto 1074 …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=5837b7f4-d4ee-47ec-b23d-e875ad0fc4d2",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"Marco técnico microempresas (Grupo 3)"
+],
+"traslado": false,
+"trib": 9,
+"con_texto": true
+},
+"t-2023-0236": {
+"id": "t-2023-0236",
+"anio": 2023,
+"num": "0236",
+"fecha": "2023-06-05",
+"tema": "Cuentas PUC para registrar un impuesto",
+"resumen": "",
+"consulta": "“(…) impuesto nacional sobre productos plásticos de un solo uso utilizados para envasar, embalar o empacar bienes (…) 9. ¿Qué cuentas contables afecta este impuesto?”",
+"respuesta": "Con respecto a la solicitud del peticionario, el CTCP se ha pronunciado en diferentes ocasiones acerca del tema de uso de Planes Únicos de Cuentas. El concepto 2018-0157 mencionó que al entrar en vigencia los nuevos marcos de información financiera para los Grupos 1, 2 y 3 (Ley 1314 de 2009 y sus decretos reglamentarios), se entiende que es potestad de cada entidad definir su propio catálogo de cuentas, con fundamento en los requerimientos de reconocimiento, medición, presentación y revelación. En estos casos, las taxonomías de presentación y revelación de las NIIF plenas y de las NIIF para las Pymes, pueden ser un instrumento útil para estructurar dicho catálogo de cuentas, y conforme a las necesidades de la entidad. Ahora bien, algunas autoridades de supervisión en Colombia, en armonía con lo establecido en el artículo 11 de la Ley 1314 de 2009, han estructurado catálogos de cuentas, los cuales son obligatorios en su uso y para el reporte de información a estas autoridades. Estos catálogos que se utilizan para el registro de los hechos económicos de una entidad, que de llegar a diferir de las unidades de cuenta requeridas para la medición, presentación y revelación del marco de información financiera aplicable, deberá revelarse para su adecuado entendimiento e interpretación.",
+"ponente": "Jimmy Jay Bolaño Tarrá",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=608a2663-d845-4d33-b89e-d290b2f11308",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0202": {
+"id": "t-2023-0202",
+"anio": 2023,
+"num": "0202",
+"fecha": "2023-05-23",
+"tema": "Obligación inicio de actividades revisor fiscal",
+"resumen": "",
+"consulta": "“El asunto que me ocupa en este momento es sobre la firma del revisor fiscal para una empresa que apenas el año pasado cumplió con topes de ingresos para tener la obligatoriedad de tener revisor fiscal. A diciembre 31 de 2022 se cumplió este tope, pero los estados financieros quedaron en firme el 30 de marzo de 2023 y no tenemos claro si los estados financieros y las declaraciones de impuestos de enero, febrero y marzo de 2023 deben ir firmadas por el revisor fiscal, ya que la junta nombró revisoría fiscal en marzo de 2023, ya que los estados financieros quedaron en firme y aprobados en esa fecha.”",
+"respuesta": "En relación con la responsabilidad en la firma de los estados financieros y declaraciones de impuestos por los periodos de 2023 objeto de la consulta, este Consejo, en su concepto 2023-0110 en consulta similar específicamente aclaró: “El parágrafo 2o del artículo 13 de la Ley 43 de 1990 es claro en determinar que: Será obligatorio tener revisor fiscal en todas las sociedades comerciales, de cualquier naturaleza, cuyos activos brutos al 31 de diciembre del año inmediatamente anterior sean o excedan el equivalente de cinco mil salarios mínimos y/o cuyos ingresos brutos durante el año inmediatamente anterior sean o excedan al equivalente a tres mil salarios mínimos. De donde es fácil concluir que al tener la obligación de nombrar revisor fiscal, éste deberá cumplir con las funciones que le asigna el Código de Comercio y demás normas sobre la materia, como es el caso de la firma de las declaraciones tributarias que correspondan al año en que la empresa debía cumplir con dicho requisito según los CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA artículos 580 y 581 del Estatuto Tributario (año 2022 según la consulta), con las consecuencias que se derivan de su no cumplimiento, sin que se conozca excepción alguna (…).” Por tanto, primero hay que indicar que la obligatoriedad de presentar las declaraciones debidamente firmadas por el revisor fiscal es a partir de la fecha en que surge la obligación de contar con esta figura (1 enero 2023 para el caso consultado) y no desde su nombramiento. Segundo, es importante indicar, que las sociedades deben a fin de cada ejercicio social y por lo menos una vez al año, el 31 de diciembre, cortar sus cuentas, preparar y difundir estados financieros de propósito general, debidamente certificados (artículos 34 y 37 de la Ley 222 de 1995). En …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=33df3bd7-4206-46cd-abbe-14e1ca90a0e9",
+"menciones": [
+"et:580",
+"et:581"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 222 de 1995"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0186": {
+"id": "t-2023-0186",
+"anio": 2023,
+"num": "0186",
+"fecha": "2023-05-23",
+"tema": "Responsabilidad presupuesto e Inf. Exógena por Contador",
+"resumen": "",
+"consulta": "“Tengo una duda trabaje como contadora en propiedad horizontal hasta 31 de marzo de 2023, realice la entrega formal como lo establece el ámbito jurídico https://www.ambitojuridico.com/noticias/tributario/esto‐debe‐contener‐el‐acta‐de‐entrega‐o‐informe‐ del‐contador‐publico‐al‐momento , y coloque como pendientes por realizar la actualización de presupuesto del 2023, presentación de exógena 2022, pero él dice que debo presentarlo y entregarlo listo todo esto, sin remuneración realizada en abril de 2023 porque debí presentarlo en los primeros tres meses. Por favor su aclaración al respecto.”",
+"respuesta": "Como la consulta versa sobre aspectos contractuales en materia de entrega de información por un contador público que trabajó en este cargo en la propiedad horizontal, se reitera que aspectos jurídicos, como laborales no son del resorte funcional de Consejo por lo cual solamente se avoca lo referente al tema contable. Por lo tanto, debemos recordar que la Ley es clara en indicar que la responsabilidad del presupuesto y su elaboración le corresponde al administrador de la copropiedad. (Ver numerales 1 y 4, del artículo 51 de la Ley 675 de 2001). CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA En relación con la responsabilidad del profesional con la entrega de información exógena, en concepto 2022- 00751 emitido por este Consejo, se expuso: “Basados en los términos planteados en la consulta presentada, en nuestra opinión, la contadora pública de la sociedad debió dejar todos sus compromisos en regla con corte al 31 de enero de 2022, según los términos establecidos en su contrato. De igual manera, todos los soportes e información contable debieron quedar disponibles y organizados para que el nuevo contador público pueda continuar con la labor correspondiente y generar la información que se deba emitir en el presente año, lo cual debe ser concordante con el objeto y compromisos adquiridos en el respectivo contrato de su vinculación, dando cumplimiento a los lineamientos éticos de la profesión contenidos en la ley 43 de 1990 y en el anexo No. 4 del Decreto 2420 de 2015 y sus modificatorios. De igual manera, reiteramos la importancia que la administración revise los compromisos establecidos en el contrato de la contadora saliente, a fin de determinar hasta dónde llega su responsabilidad por la información correspondiente al año 2021. Y en el entendido que no esté contemplado el …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=4615c041-6e91-48d3-bc96-d32d329adaee",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0083": {
+"id": "t-2023-0083",
+"anio": 2023,
+"num": "0083",
+"fecha": "2023-05-23",
+"tema": "Tasa de cambio al cierre",
+"resumen": "",
+"consulta": "“Los saldos en moneda extranjera deben ser ajustados a la TRM del cierre del periodo informado (p.ej. dic 2022) como lo dispone la sección 30 de la NIIF Para Pymes en su numeral 30.18 o, aplicando lo dispuesto en el artículo 288 del Estatuto Tributario, ajustando a la TRM cada operación en moneda extranjera y no el saldo?”.",
+"respuesta": "La diferencia en cambio se debe reconocer de acuerdo con lo establecido en la sección 30 de la NIIF para las Pymes, así: Numeral “30.9 Al final de cada periodo sobre el que se informa, la entidad: (a) convertirá las partidas monetarias en moneda extranjera utilizando la tasa de cambio de cierre; (b) convertirá las partidas no monetarias que se midan en términos de costo histórico en una moneda extranjera, utilizando la tasa de cambio en la fecha de la transacción; y (c) convertirá las partidas no monetarias que se midan al valor razonable en una moneda extranjera, utilizando las tasas de cambio en la fecha en que se determinó dicho valor razonable”. En relación con el citado artículo 288 del Estatuto Tributario incluido en la consulta, por tratarse de un tema fiscal, las dudas deberán ser consultadas a la DIAN, en atención a lo preceptuado en la Ley 1314 de 2009. CARLOS AUGUSTO MOLANO RODRIGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=2314f178-ceda-44e2-9a8b-11d2c6806b4b",
+"menciones": [
+"et:288"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 3,
+"con_texto": true
+},
+"t-2023-0185": {
+"id": "t-2023-0185",
+"anio": 2023,
+"num": "0185",
+"fecha": "2023-05-15",
+"tema": "Impuesto Diferido – Diferencia en cambio",
+"resumen": "",
+"consulta": "“(…) me permito muy respetuosamente solicitar de esta entidad conceptúe sobre las siguientes dudas: 1. Contablemente cuando se crea un Forward se reconoce como una inversión Ej Derecho de Forward. Posteriormente (todos los meses) se ajusta la Diferencia en Cambio – Derecho de Forward Dr./Cr Ingresos, de acuerdo con la TRM. En el pasivo se reconoce obligación en Forward, y en los meses subsiguientes (hasta su cancelación) se reconoce un debito a gasto / Cr obligación forward, de acuerdo con la tasa pactada (De VP a VF) con la Entidad financiera. Se pregunta: a) ¿Por la diferencia (base contable y fiscal) que se presenta entre el derecho VS obligación, técnicamente genera impuesto diferido? b) ¿De acuerdo con el punto anterior se presenta diferencia permanente? O diferencia temporaria? ¿Y porque una u otra? c) ¿El Documento Forward se considera un título valor? 2. Cuando se hace un giro al exterior financiado, por una entidad financiera, se establece una tasa de interés en la moneda del exterior normalmente USD. Al reconocerse inicialmente su base es la TRM del momento, y contablemente cada mes se reconocería (por devengo) la diferencia en cambio a la TRM, Gasto/Pasivo financiero. …",
+"respuesta": "En primer término, debemos aclarar que habiéndose emitido los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe efectuarse teniendo en cuenta el marco técnico normativo que le corresponda a la entidad. Como no se indica en la consulta el grupo al que pertenece la entidad en cuestión, este concepto se elabora teniendo como referente el Marco Técnico Normativo de la NIIF para las PYMES correspondiente al Grupo 2, contenido en el anexo 2 del Decreto Único Reglamentario 2420 de 2015. En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: a) ¿Por la diferencia (base contable y fiscal) que se presenta entre el derecho VS obligación, técnicamente genera impuesto diferido? CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA De acuerdo con la Sección 29 - Impuestos a la Ganancias1: “Las diferencias temporarias son las que existen entre el importe en libros de un activo o pasivo en el estado de situación financiera y su base fiscal (…)”. Si existe diferencia entre el importe en libros del pasivo y la base fiscal del mismo, y esta diferencia tiene implicación en el impuesto a las ganancias futuro, se requiere el reconocimiento del impuesto de renta diferido. b) ¿De acuerdo con el punto anterior se presenta diferencia permanente? O diferencia temporaria? ¿Y porque una u otra? Las diferencias permanentes no se encuentran definidas en la norma, sin embargo, se hace referencia a las mismas para calificar aquellas diferencias entre las bases contables y fiscales que no tienen efectos impositivos en el futuro. Por ejemplo, el reconocimiento de gastos (ingresos) contables que no tienen efectos deducibles (gravados) en ningún periodo siguiente respecto al impuesto a la renta basados en activos o pasivos. …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=de76276d-18cc-4c1d-be36-32da5ac76d52",
+"menciones": [
+"et:288"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 26,
+"con_texto": true
+},
+"t-2023-0199": {
+"id": "t-2023-0199",
+"anio": 2023,
+"num": "0199",
+"fecha": "2023-05-15",
+"tema": "Deber de llevar contabilidad en una copropiedad",
+"resumen": "",
+"consulta": "“(…) muy comedidamente solicitó aclarar los siguientes interrogantes: 1. Es obligación de la Copropiedad llevar contabilidad 2. Qué tipo de contabilidad de acuerdo a la normatividad vigente. 3. Es obligación llevar los libros oficiales bien sea virtual o Físico 4. Los libros llevados en Excel (Auxiliar) cumplen con la normatividad vigente y con ello puedo certificar los Estados Financieros. 5. La copropiedad está Obligada a realizar retenciones en la Fuente, bajo que parámetros 6. La copropiedad está Obligada a presentar Información Exógena ante la Dian y ante Hacienda Municipal. 7. Que sucede si en la copropiedad la última retención en la fuente que presentó fue en Diciembre de 2017, desde esa fecha hasta Julio 2022 se volvió a presentar. Se aclara que no se presentó en el lapso de tiempo, no porque no había que efectuar retenciones, sino porque no lo hicieron habiendo pagos que cumplían con los bases para generar retención. 8. Con respecto a Información Exógena, no he podido establecer hasta que año se presentó. Estoy pendiente de presentarme ante la Dian, para verificar con ellos. Se aclara que el RUT de la copropiedad dentro de sus responsabilidades, calidades y atributos …",
+"respuesta": "Con respecto a las preguntas del peticionario, el CTCP se ha pronunciado en diferentes ocasiones acerca de la obligatoriedad de llevar contabilidad por parte las copropiedades, para lo cual podrá consultar, entre otros, el concepto 2020-0917, en el cual se mencionó que: “ Con respecto a la pregunta de peticionario, de acuerdo con los requerimientos establecidos en la Ley 675 de 2001 y en la Ley 1314 de 2009, si la copropiedad está obligada a llevar contabilidad deberá aplicar el marco de información financiera que sea pertinente, según la clasificación que al respecto haya realizado la administración de la entidad; en las unidades de uso residencial, es probable que el marco de información financiera aplicada sea el del Grupo 3, y que corresponde a una base de contabilidad simplificada, que no está fundamentada en las Normas Internacionales de Información financiera. De todas maneras, le recomendamos revisar los parámetros establecidos en el DUR 2420 de 2015, y sus modificatorios, en donde se establecen los elementos que se deben considerar a efectos de definir a que marco técnico normativo pertenece una entidad, y a partir de ello, aplicar los anexos 1, 2 o 3. También le será de utilidad revisar la DOT- Orientación Técnica No. 15 – copropiedades de uso residencial o mixto, en la cual se establecen directrices generales y contables sobre el manejo de la contabilidad y el presupuesto en una copropiedad. Este DOT lo podrá acceder en el siguiente link: En tal sentido, la orientación técnica No. 15 – copropiedades de uso residencia o mixto, en sus páginas 17 y 18 establece: Al originarse la persona jurídica en la constitución de la copropiedad, estas adquieren de inmediato el carácter de entidad (entidad reportante), es decir, la actividad económica organizada, definida e …",
+"ponente": "Jimmy Jay Bolaño Tarrá",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=3096d3b0-478c-4cc9-9443-76ee8d55c917",
+"menciones": [
+"et:364",
+"et:774"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Decreto 2649 de 1993",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 222 de 1995",
+"Ley 675 de 2001 (propiedad horizontal)",
+"Marco técnico NIIF plenas (Grupo 1)"
+],
+"traslado": false,
+"trib": 16,
+"con_texto": true
+},
+"t-2023-0158": {
+"id": "t-2023-0158",
+"anio": 2023,
+"num": "0158",
+"fecha": "2023-05-10",
+"tema": "Responsabilidad del Contador",
+"resumen": "",
+"consulta": "“(…) En mi calidad de Contadora de una sociedad comercial me permito solicitar su concepto sobre el proceso a seguir en lo siguiente: 1. La Representante Legal realizó compras a través de una tarjeta de crédito asignada de la sociedad (Valor aproximado de $90 millones) 2. Las compras fueron realizadas a través de plataformas digitales como Rappi, Mercadopago, Linio y otras 3. Las compras fueron registradas en la contabilidad con estos terceros con base en el extracto mensual de la tarjeta de crédito presentado por la Representante Legal 4. Muy a pesar de las repetidas solicitudes a la Representante Legal de aportar al área contable las facturas soporte y/o facturas electrónicas del vendedor inicial de la compra (ej. Exito, Olímpica, Pan pa ya), estas a la fecha no han sido aportadas, en razón a que las plataformas mencionadas (Rappi, Mercadopago, Linio y otras) son intermediarios de la compra, no son el vendedor inicial y facturador de la compra. 5. La Representante Legal en respuesta a las solicitudes realizadas informa que fueron autorizadas las compras y su registro con base en el extracto por la Junta Directiva de la compañía. 6. Para el cierre contable indague con la Junta …",
+"respuesta": "En orden a los planteamientos e inquietudes del consultante, nos permitimos señalar: 1. Como debo proceder frente al tema antes de la Asamblea de socios como Contadora 2. Como debo proceder frente a la Revisoría Fiscal Con relación a las inquietudes del peticionario, el CTCP no es competente para pronunciarse sobre estos temas en desarrollo de las actividades profesionales del contador, por ser hechos puntuales. No obstante, sea pertinente advertir que la CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA relación entre un contador público y la entidad para la cual presta sus servicios, deberá instrumentarse a través de un contrato o documento por escrito en el cual se establezcan los deberes y obligaciones de las dos partes, teniendo en cuenta lo preceptuado por el artículo 36 de la Ley 43 de 1990. Para efecto de los registros contables, el contador público deberá tener en cuenta lo definido como soportes en el Anexo 6 del Decreto Único Reglamentario 2420 de 2015 y hacer todas las revelaciones en las notas sobre los estados financieros que conlleven claridad para el usuario de los mismos. 3. Como debo proceder frente a la certificación de los Estados Financieros, si debo firmarla con la Representante Legal (persona que a la fecha no ha aportado las facturas solicitadas) 4. Cómo debo proceder frente a la firma de los Estados Financieros los cuales me está solicitando la Revisoría Fiscal y Representante Legal firmados. Mediante el concepto 2021-04381 que emitió el CTCP, manifestó: “(…) En el concepto 2020-00222 el CTCP en respuesta a una consulta similar, mencionó lo siguiente: “(…) Las responsabilidades y obligaciones de un Contador Público serán las establecidas en el Contrato que formaliza el acuerdo entre las partes; por otra parte, un Contador Público en sus actuaciones …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=8bb3107a-7167-4025-abde-411861623471",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 222 de 1995"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0131": {
+"id": "t-2023-0131",
+"anio": 2023,
+"num": "0131",
+"fecha": "2023-05-02",
+"tema": "Inventarios - impuestos",
+"resumen": "",
+"consulta": "“¿Como debe tratar contablemente el iva en compras de inventario y gastos, ¿Como mayor valor en la misma cuenta de inventario y del gasto? o ¿debe contabilizar el IVA en una cuenta de impuestos del gasto?.”",
+"respuesta": "En primer término, debemos aclarar que habiéndose emitido los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe efectuarse teniendo en cuenta el marco técnico normativo que le corresponda a la entidad. Como no se indica en la consulta el grupo al que pertenece el consultante, este concepto se elabora teniendo como referente el Marco Técnico Normativo de NIIF para PYMES correspondiente al Grupo 2, contenido en el Anexo 2 del Decreto Único Reglamentario 2420 de 2015 y sus modificaciones. La sección 13 Inventario en su numeral 13.6 indica: “El costo de adquisición de los inventarios comprenderá el precio de compra, los aranceles de importación y otros impuestos (que no sean recuperables posteriormente de las autoridades fiscales) y transporte, manejo y otros costos directamente atribuibles a la adquisición de mercaderías, materiales y servicios. Los descuentos comerciales, las rebajas y otras partidas similares se deducirán para determinar el costo de adquisición.” Negrita fuera de texto. Finalmente, los impuestos no descontables, entonces para el caso concreto del impuesto a las ventas, se pueden generar en tanto que los productos adquiridos que se llevarán al inventario lo generen, pero el producto final a vender se encuentre en la categoría de excluidos, es decir, que no generan dicho impuesto y por tanto el impuesto a las ventas ya generado en los elementos que componen el inventario no podrá recuperarse. CARLOS AUGUSTO MOLANO RODRIGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=99f8d64f-4a1f-48cc-9fde-f96a248d927a",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 10,
+"con_texto": true
+},
+"t-2023-0067": {
+"id": "t-2023-0067",
+"anio": 2023,
+"num": "0067",
+"fecha": "2023-05-02",
+"tema": "Reversión contable impuesto diferido",
+"resumen": "",
+"consulta": "“solicito su colaboración con respecto al manejo de la contabilización de la tarifa diferencial del impuesto Diferido, que se lleva al patrimonio en el momento que se materialice la venta de la propiedad de inversión en un futuro ¿como se reversaría el efecto reconocido en patrimonio en los resultados acumulados de ejercicios anteriores?”.",
+"respuesta": "En primer término, debemos aclarar que habiéndose emitido los decretos que ponen en vigencia los estándares de información financiera en Colombia, el tratamiento contable debe efectuarse teniendo en cuenta el marco técnico normativo que le corresponda a la entidad. Como no se indica en la consulta el grupo al que pertenece el consultante, este concepto se elabora teniendo como referente el Marco Técnico Normativo de NIIF para las PYMES correspondiente al Grupo 2, contenido en el Anexo 2 del Decreto Único Reglamentario 2420 de 2015 y sus modificaciones. Los impuestos diferidos se generan cuando existen diferencias temporarias, las cuales corresponden a las diferencias existentes entre el importe en libros de los activos y pasivos y la base fiscal de los mismos. Cuando sea probable que la recuperación o liquidación de los valores contabilizados vaya a dar lugar a pagos fiscales futuros mayores (menores) de los que se tendrían si tal recuperación o liquidación no tuviera consecuencias fiscales, la NIIF para las Pymes exige que la entidad reconozca un pasivo por el impuesto diferido (activo), con algunas excepciones muy limitadas. CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA En el concepto 2019-07621 del CTCP sobre la “reversión del pasivo por impuesto diferido”, se expresó: “29.18 La reversión de las diferencias temporarias deducibles dará lugar a deducciones en la determinación de las ganancias fiscales de periodos futuros. Será probable que se disponga de ganancias fiscales, contra las que utilizar las deducciones por diferencias temporarias, siempre que existan diferencias temporarias imponibles en cuantía suficiente, relacionadas con la misma autoridad fiscal y referidas a la misma entidad fiscal, cuya reversión se espere: (a) en el mismo periodo en el que se prevea que …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=3574f4c8-ef3d-43d2-a58f-6b160627e7da",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)"
+],
+"traslado": false,
+"trib": 10,
+"con_texto": true
+},
+"t-2023-0045": {
+"id": "t-2023-0045",
+"anio": 2023,
+"num": "0045",
+"fecha": "2023-04-24",
+"tema": "Contabilidad separada",
+"resumen": "",
+"consulta": "“¿A que se refiere con deberán llevar contabilidad separada en la que se discriminen claramente los ingresos, costos y gastos? ¿A un establecimiento permanente se le obliga, por normas fiscales, llevar la contabilidad a la que se refiere la Ley 1314 de 2009 o es una contabilidad fiscal (Conciliación Fiscal) para justificar el estudio de atribuciones en renta? ¿En el caso de algún tipo de inspección fiscal, si estamos hablando de un establecimiento permanente, cuales serían los documentos probatorios de los costos y gastos para tomarlos en renta? ¿El término de contabilidad separada que implica? ¿Para las sucursales, el estudio de atribuciones debería estar en la contabilidad por las politicas de reconocimiento de costos y gastos que estan afectando a la sucursal?”",
+"respuesta": "Primero que todo, es importante distinguir entre la información financiera y la contabilidad. La contabilidad es la fuente de la información financiera y para propósitos de su correcta presentación, se aplican los marcos técnicos correspondientes. Aunque existen diferentes técnicas y procedimientos para llevar a cabo la contabilidad, esto no implica una separación de los activos, pasivos y patrimonio de un mismo ente económico. Desde el año 1999, el CTCP ha sostenido en su concepto No. 263 que la contabilidad debe ser una sola para un mismo ente económico. El término \"contabilidad separada\" es un concepto técnico que se refiere al registro separado de elementos contables con el fin de controlar e informar sobre los estados financieros. Sin embargo, este término no está definido en los marcos técnicos normativos. De igual manera, la existencia de centros de costos en un software contable o ERP, no implica llevar varias contabilidades o una contabilidad separada. En cambio, los centros de costos se consideran como subsistemas dentro de la misma contabilidad, que se utilizan para identificar áreas específicas de la entidad y generar un estado de resultados desglosado, tal como lo requiere la NIC 1 en los numerales 102 o 103. En relación con las preguntas: ¿A que se refiere con deberán llevar contabilidad separada en la que se discriminen claramente los ingresos, costos y gastos? ¿El término de contabilidad separada que implica? Para aclarar el concepto de \"contabilidad separada\", es importante destacar que la NIIF para las Pymes no requiere información por segmentos, mientras que en las NIIF Plenas se puede hacer uso de la NIIF 8 - \"Segmentos de operación\". Por lo tanto, si se presenta información por segmentos, se deben seguir las pautas establecidas en dicha normativa: …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=869ade89-63c9-43a4-ab63-d9d8f8ba2e6c",
+"menciones": [
+"et:772-1"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Decreto 2649 de 1993",
+"Ley 43 de 1990",
+"Ley 1819 de 2016",
+"NIC 1",
+"NIIF 8"
+],
+"traslado": false,
+"trib": 15,
+"con_texto": true
+},
+"t-2023-0122": {
+"id": "t-2023-0122",
+"anio": 2023,
+"num": "0122",
+"fecha": "2023-04-20",
+"tema": "Regalías",
+"resumen": "",
+"consulta": "Copiamos a continuación el texto de la consulta remitida a la DIAN y la cual se traslada por esta Unidad al CTCP, para atender lo relacionado con las preguntas 1 y 5, como se relacionan en las consideraciones y concepto: “(…) HECHOS 1. La establece en su artículo 360 (sic) que La explotación de un recurso natural no renovable causará, a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte. La ley determinará las condiciones para la explotación de los recursos naturales no renovables. 2. El Código de Minas establecido mediante la Ley 685 de 2001 contempla en su Artículo 228 que el monto de las regalías y el sistema para liquidarlas y reajustarlas, serán los vigentes a la época del contrato de concesión y se aplicarán durante toda su vigencia. Las modificaciones que sobre estas materias adopte la ley, sólo se aplicarán a los contratos que se celebren y perfeccionen con posterioridad a su promulgación. 3. El Estatuto Tributario en su Artículo 107 establece los criterios cuyo cumplimiento, habilita a deducir de la renta bruta las expensas no proscritas o restringidas en las demás disposiciones del …",
+"respuesta": "De acuerdo con la comunicación de traslado parcial por parte de la DIAN, como se dejó manifiesto al inicio de las preguntas 1 y 5, para su resolución, se atienden en la siguiente forma: 1. ¿Qué tratamiento contable debe otorgársele al volumen de producción correspondiente a regalías a la luz del artículo 19 de la Ley 2277 de 2022? En relación con la pregunta 1, este Consejo dio respuesta a dicha consulta, mediante concepto 2023- 0077 en el cual se manifestó: “El artículo 19 de la Ley 2277 de 2022, establece lo siguiente: “ARTÍCULO 19. Modifíquese el artículo 115 del Estatuto Tributario, el cual quedará así: ARTÍCULO 115. DEDUCCIÓN DE IMPUESTOS PAGADOS Y OTROS. Es deducible el cien por ciento (100%) de los impuestos, tasas y contribuciones, que efectivamente se hayan pagado durante el año o período gravable por parte del contribuyente, que tengan relación de causalidad con su actividad económica, con excepción del Impuesto sobre la renta y complementarios. En el caso del gravamen a los movimientos financieros será deducible el cincuenta por ciento (50%) que haya sido efectivamente pagado por los contribuyentes durante el respectivo año gravable, independientemente que tenga o no relación de causalidad con la actividad económica del contribuyente, siempre que se encuentre debidamente certificado por el agente retenedor. Las deducciones de que trata el presente artículo en ningún caso podrán tratarse simultáneamente como costo y gasto de la respectiva empresa. Resalto no es del texto. PARÁGRAFO 1. La contraprestación económica a título de regalía de que tratan los artículos 360 y 361 de la Constitución Política no será deducible del impuesto sobre la renta ni podrá tratarse como costo ni gasto de la respectiva empresa, indistintamente de la denominación del pago y del …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=21710bfb-7b74-4c8a-9418-24dd4b5a81cb",
+"menciones": [
+"et:107",
+"et:115",
+"et:26"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 2277 de 2022",
+"NIC 12"
+],
+"traslado": false,
+"trib": 43,
+"con_texto": true
+},
+"t-2023-0105": {
+"id": "t-2023-0105",
+"anio": 2023,
+"num": "0105",
+"fecha": "2023-04-20",
+"tema": "Diferencia en cambio realizada Art. 32 E.T. Contrato de Concesión",
+"resumen": "",
+"consulta": "“(…) Por medio de la presente, solicito el favor aclarar la siguiente inquietud. El Art 32. E.T., establece el tratamiento fiscal de los contratos de concesión para efectos de renta, adicional el Decreto 1625 de 2016, Artículo 1.2.1.25.7 TRATAMIENTO TRIBUTARIO DE LOS INGRESOS ACUMULADOS, ASOCIADOS A LA ETAPA DE CONSTRUCCIÓN, establece que \"Los ingresos devengados por el contribuyente del impuesto sobre la renta y complementario asociados a la etapa de construcción de que trata el artículo 1.2.1.25.6. de este Capítulo, se acumularán para efectos fiscales como un pasivo por ingreso diferido hasta la finalización de la etapa de construcción y aprobación por la entidad competente, de acuerdo con los términos del respectivo contrato\". De acuerdo con lo anterior, solicito el favor aclarar si la diferencia en cambio realizada en el ingreso, también se debe capitalizar como un pasivo por ingreso diferido o si se debe reconocer en el periodo que se genere (declarar renta), en este caso se aclara que el contrato de concesión está en la etapa de Construcción; entendemos que al ser un ingreso asociado al costo por construcción (partidas en moneda extranjera), se debería capitalizar al igual …",
+"respuesta": "Conforme a la consulta del peticionario, el CTCP como organismo normalizador, se pronuncia sobre aspectos técnicos contables, financieros, de aseguramiento de la información y de revisoría fiscal, por ende, no tiene competencia para pronunciarse sobre aspectos legales y/o tributarios de las sociedades, como se expone en la consulta en la cual se hace mención expresa del artículo 32 del Estatuto Tributario y de los artículos 1.2.1.25.6 y 1.2.1.25.7 del Decreto Único Reglamentario 1625 de 2016 – DUR en Materia Tributaria, sobre el tratamiento fiscal de los contratos de concesión para efectos de renta. Las inquietudes en materia tributaria deben ser dirigidas a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales – U.A.E. DIAN. JAIRO ENRIQUE CERVERA RODRÍGUEZ Consejero - CTCP",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=745fa7cb-1bde-46d8-9f88-227cc7a7c72d",
+"menciones": [
+"dur:1.2.1.25.6",
+"dur:1.2.1.25.7",
+"et:32"
+],
+"otras": [
+"Ley 43 de 1990"
+],
+"traslado": false,
+"trib": 13,
+"con_texto": true
+},
+"t-2023-0041": {
+"id": "t-2023-0041",
+"anio": 2023,
+"num": "0041",
+"fecha": "2023-04-11",
+"tema": "Reconocimiento de impuestos",
+"resumen": "",
+"consulta": "“solicito a su despacho su opinión en relación con la siguiente pregunta: El anticipo de Impuesto de Renta por el año gravable 2023 que se liquida sobre las declaraciones (de forma anticipada) del año 2022 se debe registrar al cierre del periodo informado, es decir, a diciembre 31 de 2022 o al momento de presentar las declaraciones fiscales, cuyo vencimiento es en abril 2023? Este es el mismo tratamiento para el anticipo de impuesto de industria y comercio, que se liquida a diciembre 31 de 2022 pero se paga en febrero de 2023? Es decir; en éste caso el registro debe hacerse en diciembre 2022 o febrero 2023?”.",
+"respuesta": "El reconocimiento de los impuestos se encuentra incluido en los marcos de información financiera en la NIC 12 para el Grupo 1 quienes adoptaron NIIF plenas y en la sección 29 para las compañías del grupo 2 quienes adoptaron las NIIF para Pymes, en los dos, se establecen los criterios relacionados con el importe de activos y pasivos relacionados con estas partidas. En relación a su consulta, este Consejo se ha pronunciado en relación al reconocmiento de impuestos, indicando: No Concepto Descripción 2022-0478 “Los registros contables mensuales de una entidad es un proceso técnico que se debe Del 15-12-2022 llevar a cabo sobre las operaciones del ente económico; finalizado cada periodo de tiempo se sumariza para reflejar en el ejercicio contable respectivo lo más preciso CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA No Concepto Descripción posible, todas las partidas que hacen parte de un estado financiero a un corte determinado incluyendo las provisiones fiscales para establecer la utilidad o pérdida del ejercicio como resultado del mismo.” 2020-0884 “¿Cuándo debe efectuarse el registro contable relacionado con el impuesto sobre la Del 20-10-2020 renta y el impuesto de industria y comercio? Respecto del impuesto sobre la renta y complementarios, la NIC 12 y la sección 29 de la NIIF para las PYMES establecen los requisitos para su reconocimiento y medición. De acuerdo con lo anterior, cada vez que la entidad presente estados financieros de propósito general intermedios o de fin de periodo deberá estimar el importe del impuesto sobre la renta y complementarios (impuesto corriente) considerando las normas contables y fiscales, para la depuración fiscal que determine la base gravable del impuesto en dicho periodo (ver párrafos 29.4 a 29.6 de la NIIF para las PYMES). Lo anterior …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=1a1d668e-ad1c-47b5-9d0c-36189679fed5",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"NIC 12"
+],
+"traslado": false,
+"trib": 41,
+"con_texto": true
+},
+"t-2023-0077": {
+"id": "t-2023-0077",
+"anio": 2023,
+"num": "0077",
+"fecha": "2023-04-05",
+"tema": "Regalías - Ley 2277 de 2022",
+"resumen": "",
+"consulta": "“(…) mediante el presente escrito me permito presentar la siguiente petición, previa exposición de los siguientes: HECHOS 1. La establece en su artículo 360 que La explotación de un recurso natural no renovable causará, a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte. La ley determinará las condiciones para la explotación de los recursos naturales no renovables. 2. El Código de Minas establecido mediante la Ley 685 de 2001 contempla en su Artículo 228 que el monto de las regalías y el sistema para liquidarlas y reajustarlas, serán los vigentes a la época del contrato de concesión y se aplicarán durante toda su vigencia. Las modificaciones que sobre estas materias adopte la ley, sólo se aplicarán a los contratos que se celebren y perfeccionen con posterioridad a su promulgación. 3. El Estatuto Tributario en su Artículo 107 establece los criterios cuyo cumplimiento, habilita a deducir de la renta bruta las expensas no proscritas o restringidas en las demás disposiciones del Estatuto Tributario. 4. El Consejo de Estado a través de la Sala de lo Contencioso Administrativo Sección Cuarta emitió …",
+"respuesta": "1. ¿Qué tratamiento contable debe otorgársele al volumen de producción correspondiente a regalías a la luz del artículo 19 de la Ley 2277 de 2022? 6. ¿El importe en libros continúa siendo reconociendo como gasto del periodo en el que se reconozcan los correspondientes ingresos de operación? Dado que el artículo 19 de la Ley 2277 de 2022 “por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones ”, establece, como usted lo indica: “ARTÍCULO 19. Modifíquese el artículo 115 del Estatuto Tributario, el cual quedará así: CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA ARTÍCULO 115. DEDUCCIÓN DE IMPUESTOS PAGADOS Y OTROS. Es deducible el cien por ciento (100%) de los impuestos, tasas y contribuciones, que efectivamente se hayan pagado durante el año o período gravable por parte del contribuyente, que tengan relación de causalidad con su actividad económica, con excepción del Impuesto sobre la renta y complementarios. En el caso del gravamen a los movimientos financieros será deducible el cincuenta por ciento (50%) que haya sido efectivamente pagado por los contribuyentes durante el respectivo año gravable, independientemente que tenga o no relación de causalidad con la actividad económica del contribuyente, siempre que se encuentre debidamente certificado por el agente retenedor. Las deducciones de que trata el presente artículo en ningún caso podrán tratarse simultáneamente como costo y gasto de la respectiva empresa. PARÁGRAFO 1. La contraprestación económica a título de regalía de que tratan los artículos 360 y 361 de la Constitución Política no será deducible del impuesto sobre la renta ni podrá tratarse como costo ni gasto de la respectiva empresa, indistintamente de la denominación del pago y del tratamiento …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=7fcf98d7-eee1-4772-8053-99c43ad0f0a9",
+"menciones": [
+"et:115",
+"et:26"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Ley 2277 de 2022",
+"NIC 2",
+"NIC 8",
+"NIC 12"
+],
+"traslado": false,
+"trib": 43,
+"con_texto": true
+},
+"t-2023-0097": {
+"id": "t-2023-0097",
+"anio": 2023,
+"num": "0097",
+"fecha": "2023-04-05",
+"tema": "Cambio de Grupo 3 al Grupo 2",
+"resumen": "",
+"consulta": "“(…) Mediante la presente solicito de su ayuda indicándome cual es el paso a paso para poder cambiar el grupo NIIF de una compañía debido a que hubo variaciones que afecta la aplicación de la norma del grupo 3 al grupo de 2, acudo a ustedes debido a la persona de la Supersociedades me dice que primero debo hacer el cambio ante el CTCP”.",
+"respuesta": "Inicialmente, es pertinente aclarar que el cambio de grupo para la aplicación de los marcos técnicos contables vigentes en Colombia que deban realizar los obligados a llevar contabilidad dentro del alcance de la Ley 1314 de 2009, no requiere de ninguna aprobación por parte del CTCP. Cada persona natural o jurídica obligada, realizará el análisis y deberá establecer la clasificación correspondiente en alguno de los 3 grupos de aplicación, teniendo en cuenta los requisitos incorporados en el Decreto Único Reglamentario 2420 de 2015 y sus modificatorios y, en caso de identificar el cambio de grupo, deberá proceder como se indica en el mismo decreto. Por otro lado, el CTCP se ha pronunciado en diversas oportunidades sobre el cambio de grupo, para lo cual le sugerimos revisar, entre otros, el concepto 2022-00081. De este concepto destacamos los aspectos relevantes que deben ser evaluados para pertenecer al grupo 3 y, en caso de incumplimiento de alguno de los requisitos, se entenderá entonces que la entidad objeto de consulta, pertenecería al grupo 2, salvo en el caso que deba o voluntariamente considere pertenecer al grupo 1: “(…) Como no se indica en la consulta el año en el cual presentó sus estados financieros de apertura, este concepto se elabora teniendo como referente esta omisión. (…) ✓ Tiempo de permanencia: El circunscribirse al marco técnico normativo del grupo 2, deberá rendir cuentas sobre sus estados financieros y seguir aplicando los lineamientos establecidos en el DUR 2420 de 2015, cumpliendo con el tiempo de permanencia de tres años reportando bajo NIIF Pymes2. ✓ Evaluación de los requisitos: Al finalizar la permanencia deberá realizar en ese momento de nuevo, una evaluación de sus transacciones y complejidades así como las cifras en sus estados financieros …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=6135c934-5102-43a8-8b28-82b61c2a7946",
+"menciones": [
+"et:499"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"Marco técnico microempresas (Grupo 3)"
+],
+"traslado": false,
+"trib": 1,
+"con_texto": true
+},
+"t-2023-0032": {
+"id": "t-2023-0032",
+"anio": 2023,
+"num": "0032",
+"fecha": "2023-03-29",
+"tema": "Reconocimiento costos en sucursal extranjera",
+"resumen": "",
+"consulta": "“Reconocimiento contable de Transacciones Sucursal de Sociedad Extranjera cuando se sustenta su contrato de prestación de servicios en el estudio de atribución de rentas y ganancias ocasionales según lo establecido en el artículo 20-2 del estatuto tributario, artículo 12 del Decreto 3026 de 2013 y el artículo 1.2.1.14.2 del Decreto 1625 de 2016, debido a que es la casa matriz quien ejecuta las labores con el personal técnico contratado y enviado a Colombia para la prestación de servicios. (…) Respecto a lo anterior, ¿qué sucede con la contabilidad comercial en cuanto al reconocimiento de los costos, se deberían reconocer con base al estudio de atribución de rentas o no se debe reconocer teniendo en cuenta que es exclusivamente fiscal? Es correcto reconocer contablemente los ingresos en la Sucursal, sin la respectiva asociación directa de los costos incurridos (bajo la óptica de NIIF) y cual debería ser el soporte adecuado (de estos costos que son llevados a cabo por la matriz?. ¿Qué sucede con la utilidad contable la cual difiere significativamente de la fiscal? que, además es base para la constitución de reservas legales establecida por el Artículo 476 del Código de Comercio y …",
+"respuesta": "Es preciso aclarar para el caso expuesto en la consulta, que las funciones del Consejo Técnico de la Contaduría Pública fueron establecidas en la Ley 43 de 1990, en la Ley 1314 de 2009 y en el Decreto CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA 3567 de 2011. Dentro de las funciones no se observa que el Consejo Técnico de la Contaduría Pública realice orientación sobre asuntos fiscales, no siéndonos legalmente viable hacerla, por lo cual, le recomendamos que las inquietudes sobre estos temas sean realizadas directamente a la entidad encargada, la UAE Dirección de Impuestos y Aduanas Nacionales – DIAN. En consideración a la Ley 1314 de 2009 emitida por el Gobierno Nacional, “por la cual se regulan los principios y normas de contabilidad e información financiera y de aseguramiento de información aceptados en Colombia”, se aclara que el alcance de los pronunciamientos y orientaciones del CTCP sólo se circunscriben a temas contables, financieros, de aseguramiento de la información y revisoría fiscal. En ella se ordena claramente: “Artículo 4o. Independencia y autonomía de las normas tributarias frente a las de contabilidad y de información financiera. Las normas expedidas en desarrollo de esta ley, únicamente tendrán efecto impositivo cuando las leyes tributarias remitan expresamente a ellas o cuando estas no regulen la materia. A su vez, las disposiciones tributarias únicamente producen efectos fiscales. Las declaraciones tributarias y sus soportes deberán ser preparados según lo determina la legislación fiscal. Únicamente para fines fiscales, cuando se presente incompatibilidad entre las normas contables y de información financiera y las de carácter tributario, prevalecerán estas últimas. En su contabilidad y en sus estados financieros, los entes económicos harán los …",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=146ff2a7-dc80-43f8-b1c3-5a1293dee4aa",
+"menciones": [
+"dur:1.2.1.14.2",
+"et:20-2"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 8,
+"con_texto": true
+},
+"t-2023-0010": {
+"id": "t-2023-0010",
+"anio": 2023,
+"num": "0010",
+"fecha": "2023-03-29",
+"tema": "Traslado costos y gastos - cuentas de participación",
+"resumen": "",
+"consulta": "“¿Es posible en el marco de un contrato de cuentas en participación, trasladar los costos y gastos de la operación del contrato al patrimonio del Socio Gestor para deducirlos directamente de su renta?”",
+"respuesta": "El CTCP como organismo normalizador se pronuncia sobre aspectos técnicos contables, financieros y de aseguramiento de la información, por ende, no tiene competencia para pronunciarse sobre aspectos legales y/o tributarios de las sociedades, como se expone en la consulta en la cual se hace mención expresa a un tratamiento tributario para decuccion en renta. Las inquietudes en materia tributaria deben ser dirigidas a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - U.A.E. DIAN. Para establecer el tratamiento contable bajo el marco del contrato particular de cuentas en participación, es necesario evaluar los derechos y obligaciones que existen en el mismo tal como es requerido por las NIIF1; información no suministrada en la consulta, y sobre la que no puede brindar orientación el CTCP Ver párrafos 2 y 5 de la NIIF 11 – Acuerdos Conjuntos o párrafos 15.2 a 15.5 de la NIIF para las Pymes sección 15 – Inversiones en Negocios Conjuntos, incluidos en los anexos 1 y 2, respectivamente del DUR 2420 de 2015 Por último, dentro de las respuestas emitidas por parte del CTCP respecto del tema relacionado con cuentas en participación (objeto de la consulta), le invitamos a consultar diferentes conceptos en el • Cuentas en participación 24ad52a913e2 • Reconocimiento contrato de cuentas en participación • Reconocimiento contratos de colaboración empresarial de8e65b81d7a • Contrato de cuentas en participación cd1da8db7731 CARLOS AUGUSTO MOLANO RODRIGUEZ Consejero CTCP",
+"ponente": "Carlos Augusto Molano R",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=ec9ed18e-ef06-4eda-9071-886fbfe69da6",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"NIIF 11"
+],
+"traslado": false,
+"trib": 7,
+"con_texto": true
+},
+"t-2023-0057": {
+"id": "t-2023-0057",
+"anio": 2023,
+"num": "0057",
+"fecha": "2023-03-27",
+"tema": "Propiedad Horizontal - Registro de libros de contabilidad",
+"resumen": "",
+"consulta": "“(…) PRIMERO: Soy conocedor y consciente que el Consejo Técnico de la Contaduría Pública (CTCP) es un Organismo Orientador técnico científico de la profesión y Normalizador de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, conforme a las normas legales vigentes, especialmente por lo dispuesto en la Ley 43 de 1990, la Ley 1314 de 2009 y sus Decretos Reglamentarios. SEGUNDO: El artículo 10 de la Ley 43 de 1990, establece: \"La atestación o firma de un Contador Público en los actos propios de su profesión hará presumir, salvo prueba en contrario, que el acto respectivo se ajusta a los requisitos legales, lo mismo que a los estatutarios en casos de personas jurídicas. Tratándose de balances, se presumirá además que los saldos se han tomado fielmente de los libros, que éstos se ajustan a las normas legales y que las cifras registradas en ellos reflejan en forma fidedigna la correspondiente situación financiera en la fecha del balance. Parágrafo. Los Contadores Públicos, cuando otorguen fe pública en materia contable, se asimilarán a funcionarios públicos para efectos de las sanciones penales por los delitos que cometieren en el ejercicio de …",
+"respuesta": "Ante todo es necesario aclararle al consultante que el valor probatorio de la contabilidad proviene de un mandato constitucional, cuando en su artículo 15 la Constitución Política establece: “(…) Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.” Como se manifestó en los conceptos 2021-05941 y 2022-06032 generados por el CTCP: “(…) si la propiedad horizontal es residencial, no existe una norma que obligue a registrar los libros de contabilidad y de actas ante la DIAN, o la Cámara de Comercio o entidad similar, por lo que en este caso la propiedad horizontal conservará los libros de contabilidad y de actas en medio físico o digital, según se considere más apropiado.” CONSEJO TÉCNICO DE LA CONTADURÍA PÚBLICA De acuerdo a los antecedentes de la consulta, hace mención principal al artículo 10 de la Ley 43 de 1990 3: “Artículo 10. De la fe pública. La atestación o firma de un Contador Público en los actos propios de su profesión hará presumir, salvo prueba en contrario, que el acto respectivo se ajusta a los requisitos legales, lo mismo que a los estatutarios en casos de personas jurídicas. Tratándose de balances, se presumirá además que los saldos se han tomado fielmente de los libros, que éstos se ajustan a las normas legales y que las cifras registradas en ellos reflejan en forma fidedigna la correspondiente situación financiera en la fecha del balance. Parágrafo. Los Contadores Públicos, cuando otorguen fe pública en materia contable, se asimilarán a funcionarios públicos para efectos de las sanciones penales por los delitos que cometieren en el ejercicio de las actividades propias de su …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=c2917bd7-399f-4faa-9d39-dfdc256e45fe",
+"menciones": [
+"et:19-5",
+"et:654",
+"et:772",
+"et:774"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Ley 43 de 1990",
+"Código de Comercio",
+"Ley 675 de 2001 (propiedad horizontal)"
+],
+"traslado": false,
+"trib": 45,
+"con_texto": true
+},
+"t-2023-0035": {
+"id": "t-2023-0035",
+"anio": 2023,
+"num": "0035",
+"fecha": "2023-03-14",
+"tema": "Tratamiento Contable de Provisiones de Procesos Judiciales en contra de una E.P.S. en Liquidación",
+"resumen": "",
+"consulta": "En enero de 2022 se ordenó la liquidación de una EPS, procediendo al cierre de los estados financieros de la entidad hasta cuando estuvo en marcha y se aperturaron los estados financieros de la entidad en liquidación conforme lo dispone el Decreto 2101 de 2016 que adicionó el anexo 5 del DUR 2420 de 2015. Para el cierre de la vigencia 2022, solicitamos se nos instruya la manera en la que se deben de registrar las provisiones de procesos judiciales en contra de la entidad. La consulta puntualmente va dirigida a la cuenta contable en la que se debe de registrar la diferencia que se presente por el aumento o disminución de la provisión de procesos judiciales en contra de la entidad, por lo que no es claro si esta diferencia se debe de llevar al ingreso o gasto dependiendo de si es aumento o disminución de la provisión, o si por el contrario el registro se debe de realizar contra la cuenta del Patrimonio en proceso de liquidación. Es importante contar con una definición o guía por parte de ustedes, como quiera que el objetivo de esta es poder realizar la aplicación previa al cierre de los Estados Financieros de 2022. Consideraciones del grupo técnico financiero de la SNS: Revisado el …",
+"respuesta": "Mediante el concepto 2021-05351 que emitió el CTCP, con relación a Entidades en liquidación – Reconocimiento de pasivos, manifestó: “(…) Al elaborar un balance inicial de liquidación la entidad deberá medir todos sus activos y pasivos conforme a los requerimientos de los marcos técnicos, si se aplica la base contable de liquidación se aplicará lo establecido en el Decreto 2101 de 2016 (anexo 6 del DUR 2420 de 2015), sin perjuicio de que existan o no existan activos disponibles que sirvan como fuente de pago. Posteriormente, a la elaboración del balance inicial se establecerá las fuentes de pago que serán utilizadas, las cuales en una liquidación voluntaria, bien podría ser otras fuentes distintas de los activos de la entidad en liquidación, en todo caso para la aprobación de la cuenta final de liquidación, se procederá conforme a las disposiciones legales que regulan la liquidación de las entidades (…) (…) medirá sus activos y pasivos como lo establece dicho anexo, el cual respecto de los pasivos, establece: • La totalidad de los pasivos se miden por el valor no descontado de efectivo, más los costos estimados necesarios en que se incurriría para liquidar el pasivo, o para ser exonerado de su pago (anexo 6, párrafo 34); • Los pasivos que se reconocen en la contabilidad incluyen los establecidos al elaborar el pasivo de acreencias, incluso si anteriormente no se encontraban reconocidos (anexo 6, párrafo 35); • Las contingencias pasivas se reconocerán en los estados financieros siempre que exista una medición fiable y una base razonable para su estimación (anexo 6, párrafo 35); • El valor neto de liquidación de un pasivo es el valor no descontado de efectivo o equivalentes de efectivo más los costos estimados necesarios en que se incurriría para liquidar o ser exonerado …",
+"ponente": "Jairo Enrique Cervera Rodríguez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=449df015-0e63-46f6-8b9d-f08be238311c",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF plenas (Grupo 1)"
+],
+"traslado": false,
+"trib": 6,
+"con_texto": true
+},
+"t-2023-0011": {
+"id": "t-2023-0011",
+"anio": 2023,
+"num": "0011",
+"fecha": "2023-02-13",
+"tema": "Certificaciones – Revisor Fiscal",
+"resumen": "",
+"consulta": "“¿Nosotros como revisores fiscales de una fundación cuyo objeto social es prestar servicios de salud en el POS, estamos facultados para expedir certificaciones, donde conste el desarrollo del objeto social de dicha fundación, con el fin de obtener beneficios tributarios?”",
+"respuesta": "Es preciso mencionar que este Consejo ya se ha manifestado en diversas consultas acerca de las certificaciones, las cuales citamos a continuación para su análisis: No. CONCEPTO FECHA 2015-517 CERTIFICACIONES - REVISOR FISCAL 09/10/2015 2016-761 CERTIFICACIONES - REVISOR FISCAL 16/11/2016 2017-066 CERTIFICACIONES - REVISOR FISCAL 18/04/2017 2017-284 CERTIFICACIONES - REVISOR FISCAL 16/06/2017 2017-880 CERTIFICACIONES - REVISORÍA FISCAL 07/12/2017 No. CONCEPTO FECHA 2018-335 CERTIFICACIONES - REVISOR FISCAL 05/05/2018 2018-907 ALCANCE DE LAS CERTIFICACIONES DEL REVISOR FISCAL 20/11/2018 2019-0719 NORMAS O LINEAMIENTOS SOBRE LA FIRMA DE CERTIFICACIONES POR PARTE DEL CONTADOR PÚBLICO Y DEL REVISOR FISCAL 22/07/2019 2020-0068 Certificaciones bajo Normas de Aseguramiento 13/03/2020 2020-0958 Discrepancia en certificaciones de Revisor Fiscal 12/11/2020 Adicionalmente, es importante reiterar al consultante, como bien alude en la consulta, que el CTCP no tiene dentro de sus atribuciones la interpretación de las normas legales en el marco jurídico, sino la interpretación y orientación en el marco técnico relacionado con el ejercicio contable, información financiera, aseguramiento y la Revisoría Fiscal, como se deriva claramente del artículo 33 de la Ley 43 de 1990 y las funciones asignadas en el marco de la Ley 1314 de 2009. No obstante lo anterior, en el concepto 2022-0353 de fecha 08/07/22, respecto de las certificaciones del revisor fiscal, se manifestó: “Debe tener en cuenta el Revisor Fiscal que es función propia acorde con el numeral 3 del artículo 207 del Código de Comercio el “colaborar con las autoridades gubernamentales que ejerzan la inspección y vigilancia de las compañías y rendirles los informes a que haya lugar o le sean solicitados”. Complementariamente y …",
+"ponente": "Jesús María Peña Bermúdez",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=eb568a4c-ab05-4f10-9195-a68dab352df2",
+"menciones": [
+"et:777"
+],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Código de Comercio"
+],
+"traslado": false,
+"trib": 1,
+"con_texto": true
+},
+"t-2023-0021": {
+"id": "t-2023-0021",
+"anio": 2023,
+"num": "0021",
+"fecha": "2023-01-20",
+"tema": "Requisitos Grupo 3 – aplicación MTN grupo 3",
+"resumen": "",
+"consulta": "“(…) Cordialmente PIDO su concepto sobre: 1) El Decreto 1670 de 2021 (incluidas las normas legales vigentes y concordantes, si las hubiere) se estipulan los requisitos para pertenecer al grupo 3 lo que las conlleva a la simplificación contable. El citado decreto comienza a regir el 01 de enero de 2023. 2) Lo consultado aquí se refiere a una empresa obviamente obligada a llevar contabilidad. 3) ¿Se deben computar, para pertenecer al grupo 3, los ingresos de las ganancias ocasionales tales como los provenientes de la venta de propiedad planta y equipo poseído por más de dos años? 3) ¿La empresa está obligada a efectuar depreciaciones de su propiedad planta y equipo? 4) ¿La empresa está obligada a registrar la provisión del impuesto de renta? (…)”",
+"respuesta": "Con respecto a las preguntas del peticionario, el Anexo 3, del Decreto Único Reglamentario –DUR 2420 de 2015, establece las directrices que en materia contable deben observar las entidades clasificadas en el Grupo 3. A continuación damos respuesta a las preguntas realizadas por el peticionario: ¿Se deben computar, para pertenecer al grupo 3, los ingresos de las ganancias ocasionales tales como los provenientes de la venta de propiedad planta y equipo poseído por más de dos años? Frente a la pregunta del peticionario, es importante considerar los requisitos mencionados en el artículo 1, del Decreto Reglamentario 1670 de 2021, que establece: “(…) Artículo 1.1.3.1. Marco Técnico Normativo de Información Financiera denominado Normas de Información Financiera para entidades pertenecientes al Grupo 3. Los preparadores de información financiera con propósito general que conforman el Grupo 3 deberán aplicar la Norma de Información Financiera del Anexo 3 de este Decreto. Sin embargo, podrán optar por aplicar la Norma de Información Financiera del Anexo 2 en los términos de los artículos 1.1.2.1. y 1.1.2.4. del presente Decreto. El Grupo 3 corresponde a las personas naturales y jurídicas obligadas a llevar contabilidad, a quienes sin estar obligados a llevarla pretendan hacerla valer como prueba, y a las microempresas que se clasifiquen como tal, de conformidad con lo establecido en el Capítulo 13, del Título 1, de la Parte 2, del Libro 2 del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo; siempre y cuando cumplan con la totalidad de los siguientes requisitos: (…) 6. No obtener ingresos de actividades ordinarias que superen los topes para microempresas de acuerdo al sector al que pertenezcan, conforme lo establecido en el Decreto 1074 …",
+"ponente": "Jimmy Jay Bolaño Tarrá",
+"url": "https://www.ctcp.gov.co/CMSPages/GetFile.aspx?guid=62c1ad70-ba8d-4ab5-a60d-1184ca75790a",
+"menciones": [],
+"otras": [
+"Ley 1314 de 2009",
+"Decreto 2420 de 2015 (DUR normas contables)",
+"Ley 43 de 1990",
+"Marco técnico NIIF para las Pymes (Grupo 2)",
+"Marco técnico microempresas (Grupo 3)"
+],
+"traslado": false,
+"trib": 9,
+"con_texto": true
+}
+}
