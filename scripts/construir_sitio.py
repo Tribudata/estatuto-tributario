@@ -186,9 +186,15 @@ FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox
            "fill='%230B1F3A'/%3E%3Crect x='5' y='18' width='6' height='9' fill='%23C9A227'/%3E%3Crect x='13' y='12' width='6' "
            "height='15' fill='%23C9A227'/%3E%3Crect x='21' y='6' width='6' height='21' fill='%23C9A227'/%3E%3C/svg%3E")
 # la presentación se muestra al entrar desde fuera del sitio; no al volver al inicio desde un artículo ni al llegar con ?q=
-INTRO_HEAD = ("<script>(function(){var d=document.documentElement,interno=false;"
+# La presentación solo sale al entrar al sitio (pestaña nueva, desde otro sitio o un enlace externo) o al recargar;
+# nunca al navegar dentro del sitio, al volver con «Atrás» ni al abrir un enlace con búsqueda (?q=) o vista (?ver=).
+INTRO_HEAD = ("<script>(function(){var d=document.documentElement,interno=false,tipo='navigate',visto=false,ss=null;"
               "try{interno=!!document.referrer&&new URL(document.referrer).origin===location.origin}catch(e){}"
-              "d.className+=(/[?&](q|ver)=/.test(location.search)||interno)?' sin-intro':' con-intro'})();</script>")
+              "try{var n=performance.getEntriesByType('navigation')[0];if(n)tipo=n.type}catch(e){}"
+              "try{ss=sessionStorage;visto=ss.getItem('etc_intro')==='1'}catch(e){}"
+              "var ver=!/[?&](q|ver)=/.test(location.search)&&(tipo==='reload'||(tipo==='navigate'&&!interno)||(!visto&&tipo!=='back_forward'&&!interno));"
+              "try{ss&&ss.setItem('etc_intro','1')}catch(e){}"
+              "d.className+=ver?' con-intro':' sin-intro'})();</script>")
 INTRO = """<div id="intro" class="intro" role="dialog" aria-label="Presentación de Tribudata.co">
   <div class="intro-in">
     <svg class="intro-logo" viewBox="0 0 32 32" aria-hidden="true"><rect class="b1" x="3" y="18" width="7" height="11" rx="1"/><rect class="b2" x="12.5" y="11" width="7" height="18" rx="1"/><rect class="b3" x="22" y="3" width="7" height="26" rx="1"/></svg>
